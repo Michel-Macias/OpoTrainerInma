@@ -22,13 +22,30 @@ Accede a la aplicación en vivo aquí:
 
 **OpoTrainer Inma** nace de la necesidad de modernizar el estudio de oposiciones. Lejos de los interminables PDFs y listas de papel, esta aplicación ofrece un entorno de **"Centro de Mando"** donde el opositor puede visualizar su progreso, acceder a los recursos legales al instante y gestionar su estudio semanal de forma eficiente.
 
-### ✨ Características Principales
+### ✨ Características Clave
 
-*   **📅 Dashboard Visual:** Línea de tiempo interactiva dividida en 4 bloques mensuales de estudio.
-*   **💾 Persistencia de Datos:** ¡Tu progreso se guarda automáticamente! El sistema utiliza `LocalStorage` para recordar tus tareas completadas incluso si cierras el navegador.
-*   **📚 Recursos Integrados:** Acceso directo a los documentos oficiales (BOE, Guías de Higiene) desde cada tarjeta de estudio.
-*   **⚡ Conceptos Clave (Flashcards):** Tooltips interactivos con definiciones técnicas esenciales (ej. "Plonge", "Zona de Peligro").
-*   **📱 Diseño Responsive:** Optimizado para estudiar desde móvil, tablet u ordenador.
+#### 1. 📅 Dashboard Inteligente (Smart Coach)
+Tu entrenador personal automatizado que guía tu ciclo de estudio semanal:
+*   **Lunes:** Notificaciones de lectura.
+*   **Martes-Jueves:** Recordatorios para crear fichas de repaso.
+*   **Viernes:** Sugerencias de test y simulacros.
+*   **Month Guard 🔒:** Sistema de bloqueo que impide avanzar de mes hasta completar los objetivos del actual.
+
+#### 2. ⏱️ Simulacro de Examen "Real"
+Un módulo de test diseñado para recrear la presión del examen oficial:
+*   **Cronómetro:** Cuenta atrás de 90 minutos.
+*   **60 Preguntas:** Basadas en el examen oficial de "Cocineros Castellano".
+*   **Corrección Inteligente:** Al finalizar, el sistema analiza tus fallos y te sugiere qué temas específicos (ej. "Tema 5: Admin Foral") necesitas reforzar.
+
+#### 3. 📖 Explorador de Temario Interactivo
+Olvídate de buscar en carpetas. Todo el temario organizado y accesible:
+*   **Filtrado:** Por bloque (Legislativo vs Específico/Cocina).
+*   **Recursos:** Acceso directo a PDFs oficiales desde cada tema.
+*   **Fichas Digitales:** Crea tus propios resúmenes y flashcards integradas en cada tema.
+
+#### 4. 🛠️ Herramientas de Estudio
+*   **Persistencia de Datos:** Tu progreso se guarda automáticamente en `LocalStorage`.
+*   **Diseño Responsive:** Optimizado 100% para estudiar en móvil, tablet u ordenador.
 
 ---
 
@@ -73,9 +90,15 @@ Si deseas ejecutar este proyecto en tu propia máquina:
 
 El corazón de la aplicación reside en `web-app/src`:
 
-*   `data/curriculum.json`: **Capa de Datos.** Aquí se define todo el temario (Meses, Semanas, Tareas). Modificando este JSON se actualiza toda la app automáticamente.
-*   `App.jsx`: **Lógica UI.** Contiene el componente principal, la navegación y la gestión de estado.
-*   `public/pdfs`: **Repositorio Documental.** Almacenamiento de los documentos legales y técnicos.
+*   `data/`:
+    *   `curriculum.json`: Define el plan de estudios mensual.
+    *   `topics.json`: Base de datos de los 25 temas del temario.
+    *   `questions.json`: Banco de preguntas para el simulador.
+*   `components/`:
+    *   `SmartCoach.jsx`: Lógica del asistente diario.
+    *   `TestSimulator.jsx`: Motor de exámenes y corrección.
+    *   `SyllabusExplorer.jsx`: Visor de temas y recursos.
+*   `App.jsx`: Componente principal y enrutador.
 
 ---
 
