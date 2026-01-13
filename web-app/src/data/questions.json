@@ -1,0 +1,977 @@
+[
+  {
+    "id": 1,
+    "topicId": 1,
+    "text": "El artículo 27 de la Constitución Española de 1978 dice:",
+    "options": [
+      "Solo los españoles tienen el derecho a la educación.",
+      "Solo los menores de edad tienen el derecho a la educación.",
+      "Todos tienen el derecho a la educación."
+    ],
+    "ai_analysis": {
+      "suggested_index": 2,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 2,
+    "topicId": 3,
+    "text": "Según el artículo 21 de la Ley Foral 4/2000, de 3 de julio, del Defensor del Pueblo de la Comunidad Foral de Navarra, toda queja dirigida al mismo:",
+    "options": [
+      "Podrá ser anónima.",
+      "Se presentará firmada por el interesado.",
+      "Se presentará en el plazo máximo de dos años partir del momento en que tuviera conocimiento de los hechos objeto de la misma."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 3,
+    "topicId": 4,
+    "text": "Según el artículo 5 de la Ley Foral 14/2004, de 3 diciembre, del Gobierno de Navarra y de su Presidenta o Presidente ¿quién nombra a los vicepresidentes o a las vicepresidentas?",
+    "options": [
+      "El Gobierno de Navarra.",
+      "El Gobierno de España.",
+      "La Presidenta o Presidente del Gobierno de Navarra."
+    ],
+    "ai_analysis": {
+      "suggested_index": 0,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 4,
+    "topicId": 5,
+    "text": "Según lo establecido en el artículo 30 de la Ley Foral 11/2019, de 11 de marzo, de la Administración de la Comunidad Foral de Navarra y del Sector Público Institucional Foral:",
+    "options": [
+      "Al frente de cada Departamento se encuentra una Directora o Director General, del que dependen todos los órganos integrados o adscritos al mismo.",
+      "Al frente de cada Departamento se encuentra un Consejero o Consejera, del que dependen todos los órganos integrados o adscritos al mismo.",
+      "Ninguna respuesta es correcta."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 5,
+    "topicId": 6,
+    "text": "De acuerdo con lo previsto en el artículo 30 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entiende a efectos de cómputo de plazos por días hábiles:",
+    "options": [
+      "Todos los días excluidos sábados y domingos.",
+      "Todos los días excluidos sábados, domingos y los declarados festivos.",
+      "Todos los días excluidos domingos y los declarados festivos."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 6,
+    "topicId": 6,
+    "text": "Según el artículo 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para interponer el recurso de alzada, si el acto fuera expreso será:",
+    "options": [
+      "1 mes.",
+      "3 meses.",
+      "cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.  1  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 7,
+    "topicId": 7,
+    "text": "Según establece el artículo 22 del Decreto Foral Legislativo 251/1993, de 30 de agosto, por el que se aprueba el Texto Refundido del Estatuto del personal al servicio de las Administraciones Públicas de Navarra, los funcionarios pueden hallarse en alguna de las siguientes situaciones:",
+    "options": [
+      "Servicio activo, servicios de comisión, excedencia y suspensión.",
+      "Servicio activo, servicios especiales, excedencia y suspensión.",
+      "Servicio activo, servicios especiales, excedencia y separación."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 8,
+    "topicId": 8,
+    "text": "Al amparo del Capítulo II del Título III de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, uno de los siguientes derechos no corresponde al afectado:",
+    "options": [
+      "El derecho de acceso.",
+      "El derecho de rectificación.",
+      "El derecho a la investigación."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 9,
+    "topicId": 8,
+    "text": "De conformidad con el artículo 3 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la igualdad de trato y de oportunidades entre mujeres y hombres:",
+    "options": [
+      "Supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+      "Supone la ausencia de toda discriminación, directa o indirecta, por razón de raza, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+      "Supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la fraternidad, la asunción de obligaciones familiares y el estado civil."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 10,
+    "topicId": 2,
+    "text": "Según el artículo 14 de la Ley Foral 17/2019, de 4 de abril, de igualdad entre mujeres y hombres, el Plan Estratégico para la igualdad entre mujeres y hombres de Navarra, tendrá una vigencia general de:",
+    "options": [
+      "3 años.",
+      "4 años.",
+      "6 años."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 11,
+    "topicId": 20,
+    "text": "¿Qué significan las siglas APPCC?",
+    "options": [
+      "Análisis de Peligros y Puntos de Control Crítico.",
+      "Acogida y Preparación de Productos Calientes en la Cocina.",
+      "Las dos anteriores son incorrectas."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 12,
+    "topicId": 9,
+    "text": "¿De qué manera podemos evitar la contaminación cruzada durante la preparación y manipulación de los alimentos?",
+    "options": [
+      "Secando el pescado y la carne con paños de tela.",
+      "Empleando diferentes tablas para cortar productos crudos y preparados. Lo mejor es que sean de distintos colores.",
+      "Manipulando los alimentos listos para el consumo y los potencialmente contaminantes en el mismo lugar. 2  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 13,
+    "topicId": 1,
+    "text": "Los cubos/contenedores de residuos utilizados en la cocina deben cumplir una serie de características, ¿cuál de las siguientes no es una de ellas?",
+    "options": [
+      "Disponer de apertura no manual en el caso de residuos orgánicos.",
+      "Que se puedan limpiar y desinfectar fácilmente.",
+      "Tienen que ser estancos y provistos de bolsas de diferentes colores para cada tipo de residuo."
+    ],
+    "ai_analysis": {
+      "suggested_index": 1,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 14,
+    "topicId": 10,
+    "text": "Durante la recepción de los productos existen varios aspectos a valorar entre los que se encuentran:",
+    "options": [
+      "Comprobar que los proveedores aportan albaranes o ticket, el correcto etiquetado de los alimentos y que los envases y embalajes se encuentren íntegros.",
+      "Comprobar el estado de los productos por la dirección del centro, eximiendo al personal de cocina de este trabajo.",
+      "Comprobar que el personal de transporte coloca los diferentes productos en la cámara de manera correcta."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 15,
+    "topicId": 10,
+    "text": "¿A qué concepto se refiere “la posibilidad de encontrar y seguir el rastro, a través de todas las etapas de producción, transformación y distribución, de un alimento, un pienso, un animal destinado a la producción de alimentos o una sustancia destinados a ser incorporados en alimentos o piensos o probabilidad de serlo”?",
+    "options": [
+      "Perdurabilidad.",
+      "Trazabilidad.",
+      "Transportabilidad."
+    ],
+    "ai_analysis": {
+      "suggested_index": 1,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 16,
+    "topicId": 9,
+    "text": "Si no disponemos de cámaras de refrigeración separadas para los productos crudos y los cocinados, a la hora de almacenar los productos en la cámara:",
+    "options": [
+      "Colocaremos los productos limpios y los listos para el consumo en la parte superior de la cámara frigorífica y los productos pendientes de preparación en la parte inferior.",
+      "Colocaremos todos los alimentos en cámaras refrigeradas no teniendo mayor transcendencia el lugar en que sean colocados.",
+      "Colocaremos los productos sucios o pendientes de preparación en la parte superior de la cámara frigorífica y los productos listos para el consumo en las baldas inferiores."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 17,
+    "topicId": 1,
+    "text": "Con carácter general, la conservación del pescado fresco se debe realizar:",
+    "options": [
+      "Entre 4-6º centígrados.",
+      "Entre 7-9º centígrados.",
+      "Próximo a la fusión del hielo."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 18,
+    "topicId": 2,
+    "text": "Atendiendo a la temporalidad de alimentos de Navarra ¿cuál de las siguientes verduras se ofrecerá en un menú correspondiente a los meses de diciembre-febrero?",
+    "options": [
+      "Coliflor.",
+      "Tomate.",
+      "Judía verde.  3  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 19,
+    "topicId": 10,
+    "text": "Teniendo en cuenta las prescripciones técnicas de contratación de las Escuelas Infantiles Municipales de Pamplona ¿qué distancia máxima debe recorrer un alimento para ser considerado de cercanía?",
+    "options": [
+      "‹ 50 km.",
+      "‹ 100 km.",
+      "‹ 200 km."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 20,
+    "topicId": 1,
+    "text": "Una de las recomendaciones nutricionales prioritarias en el periodo de los 1000 primeros días se encuentra:",
+    "options": [
+      "La reducción de la ingesta proteica.",
+      "La reducción de la grasa.",
+      "Ambas son incorrectas."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 21,
+    "topicId": 1,
+    "text": "Es importante no retrasar la introducción de alimentos grumosos o semisólidos más allá de:",
+    "options": [
+      "Los 9 meses.",
+      "El año.",
+      "Los 18 meses."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 22,
+    "topicId": 21,
+    "text": "¿Qué vitamina favorece la absorción de hierro de las legumbres?",
+    "options": [
+      "Vitamina A.",
+      "Vitamina K.",
+      "Vitamina C."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 23,
+    "topicId": 1,
+    "text": "Según el código alimentario español, se considera pescado fresco aquel que:",
+    "options": [
+      "Se consume en las primeras 48 horas tras su pesca y captura, independientemente de si se ha realizado alguna operación dirigida a su conservación en ese tiempo.",
+      "No ha sufrido desde su captura ninguna operación dirigida a su conservación, excepto la adición de hielo troceado puro o mezclado con sal o que hayan sido conservados a bordo de los pesqueros con agua de mar o salmuera refrigerada.",
+      "Se ha mantenido muy frio hasta su consumo."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 24,
+    "topicId": 10,
+    "text": "¿Qué tipo de alimento es la patata?",
+    "options": [
+      "Verdura.",
+      "Cereal.",
+      "Tubérculo."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 25,
+    "topicId": 21,
+    "text": "Respecto a la introducción de verduras de hoja verde (acelga, espinaca…) en los menús basales, ¿cuál es la respuesta correcta?",
+    "options": [
+      "Debido a su contenido en nitritos, su consumo está prohibido en niños y niñas menores de un año.",
+      "Debido a su contenido en nitritos, su consumo en niños de 6 a 12 meses no deber ser mayor de 30 gramos/día. Y en niños y niñas entre 1 y 3 años no debe ser mayor de 45 gramos/día.",
+      "Debido a su contenido en nitratos, su consumo en niños de 6 a 12 meses no debe ser mayor de 35 gramos/día. Y en niños y niñas entre 1 y 3 años no debe ser mayor de 45 gramos/día. 4  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 26,
+    "topicId": 14,
+    "text": "¿Cuál de los siguientes pescados está prohibido ofrecer en el menú de una escuela infantil debido a su contenido en mercurio?",
+    "options": [
+      "Palometa.",
+      "Cazón.",
+      "Abadejo."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 27,
+    "topicId": 9,
+    "text": "Documento de cocina que recoge toda la información acerca de la elaboración de un plato y que sirve para estandarizar la información de los procesos:",
+    "options": [
+      "Receta.",
+      "Ficha técnica.",
+      "Menú."
+    ],
+    "ai_analysis": {
+      "suggested_index": 0,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 28,
+    "topicId": 5,
+    "text": "¿Qué cantidad de legumbre se necesita para cocinar un plato de garbanzos para 10 niños y niñas de 2 años de edad?",
+    "options": [
+      "200 g aproximadamente.",
+      "300 g aproximadamente.",
+      "500 g aproximadamente."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 29,
+    "topicId": 8,
+    "text": "¿Cuál es la cantidad recomendada de pollo para niños y niñas de 12 meses a 3 años de edad?",
+    "options": [
+      "15 gramos al día y siempre alternando con proteínas de origen vegetal.",
+      "30-35 gramos al día y siempre teniendo en cuenta otras fuentes de proteína animal consumidas a lo lardo del día.",
+      "100 gramos aproximadamente."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 30,
+    "topicId": 11,
+    "text": "El escalfado es un método de cocción por:",
+    "options": [
+      "Disolución.",
+      "Concentración.",
+      "Expansión."
+    ],
+    "ai_analysis": {
+      "suggested_index": 0,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 31,
+    "topicId": 22,
+    "text": "¿Cuánto tiempo de cocción aproximado requiere la avena en grano?",
+    "options": [
+      "10 minutos.",
+      "20 minutos.",
+      "30 minutos."
+    ],
+    "ai_analysis": {
+      "suggested_index": 0,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 32,
+    "topicId": 9,
+    "text": "Instalación que permite mantener a una temperatura adecuada (por encima de 70 ºC) los alimentos ya elaborados desde su cocinado hasta el momento del servicio evitando así una contaminación bacteriana:",
+    "options": [
+      "Abatidor de temperatura.",
+      "Horno.",
+      "Mesa caliente.  5  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 33,
+    "topicId": 1,
+    "text": "Respecto a la intoxicación por Salmonella es falso que:",
+    "options": [
+      "Se elimina congelando el producto adecuadamente.",
+      "Se elimina con la cocción adecuada y homogénea (70 ºC).",
+      "Se previene evitando la contaminación cruzada."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 34,
+    "topicId": 1,
+    "text": "Con respecto a las piezas de pescado fresco en las que encontramos Anisakis:",
+    "options": [
+      "Se pueden comer cocinándolos a temperaturas superiores a 60 ºC y se pueden comer congelándolas previamente a -20 ºC mínimo durante 5 días.",
+      "Se pueden comer cocinándolos a temperaturas superiores a 70 ºC y se pueden comer congelándolas previamente a -20 ºC mínimo durante 4 días.",
+      "Se pueden comer cocinándolos a temperaturas superiores a 80 ºC y se pueden comer congelándolas previamente a -15 ºC mínimo durante 6 días."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 35,
+    "topicId": 17,
+    "text": "Alguna medida útil en la prevención de la intoxicación alimentaria es:",
+    "options": [
+      "Lavado de manos y superficies de trabajo/separación de alimentos crudos y cocinados.",
+      "Cocinar y mantener alimentos a temperaturas altas y usar alguna vez agua potable.",
+      "Ambas son ciertas."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 36,
+    "topicId": 18,
+    "text": "Según la Ley 31/1995 de Prevención de Riesgos Laborales, la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo, constituye:",
+    "options": [
+      "Categoría laboral.",
+      "Riesgo Laboral.",
+      "Prevención laboral."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 37,
+    "topicId": 19,
+    "text": "¿Cuál de las siguientes recomendaciones es incorrecta para evitar cortes y pinchazos en el puesto de cocina durante la jornada laboral?",
+    "options": [
+      "Desechar la vajilla que se encuentre en mal estado.",
+      "Realizar las operaciones de corte en lugares bien iluminados.",
+      "Prescindir de los EPIs adecuados en cada operación."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 38,
+    "topicId": 19,
+    "text": "¿Cuál de las siguientes recomendaciones minimiza la posibilidad de producir un incendio en la cocina?",
+    "options": [
+      "Utilizar agua para sofocar un fuego provocado por el aceite.",
+      "Limpiar periódicamente las campanas de extracción.",
+      "Sobrecargar los enchufes."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 39,
+    "topicId": 9,
+    "text": "Para manipular manualmente una carga es conveniente desde el punto de vista ergonómico:",
+    "options": [
+      "Evitar mover una persona sola, cargas excesivamente pesadas.",
+      "Mantener la carga alejada del cuerpo durante todo el trayecto.",
+      "Colocar productos pesados por encima del hombro.  6  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 40,
+    "topicId": 19,
+    "text": "¿Cuáles son los 4 grupos principales o partidas en que se puede catalogar una cocina?",
+    "options": [
+      "Panadería, pastelería, mayonesero y salsero.",
+      "Cuarto frío (despensero), salsero, entremetier (entremesero) y pastelería.",
+      "Cuarto frío (despensero), cuarto caliente, cuarto cerrado y panadería."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 41,
+    "topicId": 1,
+    "text": "En la estructura de una cocina ¿a qué se le denomina plonge?",
+    "options": [
+      "Secadora de verduras.",
+      "Entrada de mercancías.",
+      "Fregadero de amplios senos."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 42,
+    "topicId": 1,
+    "text": "Entre las dotaciones del Entremetier ¿cuál es la correcta?",
+    "options": [
+      "Marmitas, baño maría, besuguera y tabla trinchera.",
+      "Elaboración de postres, bollería y panadería.",
+      "Elaborar los pedidos de los proveedores."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 43,
+    "topicId": 9,
+    "text": "Entre las condiciones de los almacenes ¿cuál es la correcta?",
+    "options": [
+      "La presencia de un lavamanos de pedal es obligatoria.",
+      "Deberá disponer de buen sistema de ventilación, o de un ambiente climatizado sobre 25 ºC.",
+      "Ambas son correctas."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 44,
+    "topicId": 20,
+    "text": "En cuanto a la limpieza de fogones, ¿cuál es la correcta?",
+    "options": [
+      "Se utilizarán cepillo de alambre, agua jabonosa, y paños para secar.",
+      "Se usará lejía para desinfectar.",
+      "Sin desmontarlos se limpiarán con una esponja jabonosa."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 45,
+    "topicId": 9,
+    "text": "¿Cuándo se hará la limpieza de cámaras frigoríficas?",
+    "options": [
+      "Se hará diaria y tantas veces como sea necesario.",
+      "Se hará una vez a la semana con jabón desinfectante.",
+      "Se hará cada dos días."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 46,
+    "topicId": 20,
+    "text": "En cuanto a la utilización de productos de limpieza hay que respetar los datos referentes a:",
+    "options": [
+      "Marca del detergente, envasado y concentración del detergente.",
+      "Concentración del detergente, tiempo que ha de actuar, temperatura y acción mecánica.",
+      "Concentración del detergente y características ambientales."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 47,
+    "topicId": 1,
+    "text": "La preelaboración y cocinado de las alubias, consta de:",
+    "options": [
+      "Remojo en agua caliente y cocción en agua fría.",
+      "Remojo y cocción en agua fría.",
+      "Sin remojo, y cocción en agua caliente.  7  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 48,
+    "topicId": 21,
+    "text": "¿Cuáles de las siguientes son hortalizas?",
+    "options": [
+      "Mijo, patata, garbanzo, coles y tomates.",
+      "Tomate, coles, habas, calabazas y remolachas.",
+      "Alubia, quínoa, espinaca, calabaza y garbanzo."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 49,
+    "topicId": 21,
+    "text": "En la elaboración de las hortalizas el blanqueado es:",
+    "options": [
+      "Sumergirlas en agua hirviendo 2 o 3 minutos, refrescar y escurrir.",
+      "Sumergirlas en agua fría durante 30 minutos.",
+      "Sumergirlas en agua hirviendo hasta su cocción completa."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 50,
+    "topicId": 1,
+    "text": "¿Cuántos gramos debe pesar un huevo tamaño “L”?",
+    "options": [
+      "≥ 73 gramos e = 83 gramos.",
+      "≥ 53 gramos y < 63 gramos",
+      "≥ 63 gramos y < 73 gramos."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 51,
+    "topicId": 20,
+    "text": "¿Cuándo decimos que una carne de vacuno está “al punto”?",
+    "options": [
+      "Cuando tiene la superficie tostada, el interior con una tonalidad rosada que al cortarla desprende jugo que ya no es sangriento.",
+      "Cuando tiene la superficie tostada, el interior de coloración uniforme de tonalidad pardusca y el centro ligeramente rosáceo.",
+      "Cuando tiene la superficie acaramelada, el interior con núcleo crudo que al ser cortada deja salir jugo de color rojizo."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 52,
+    "topicId": 8,
+    "text": "¿Qué pescado contiene más ácidos grasos Omega-3?",
+    "options": [
+      "Pescado blanco.",
+      "Pescado azul.",
+      "Ambos contienen la misma cantidad."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 53,
+    "topicId": 23,
+    "text": "¿Cuál de los siguientes fondos no es un fondo de cocina?",
+    "options": [
+      "Fondo blanco.",
+      "Sofrito.",
+      "Fumet."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 54,
+    "topicId": 1,
+    "text": "La salsa española se elabora a partir del jugo de un:",
+    "options": [
+      "Asado.",
+      "Hervido.",
+      "Guisado."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 55,
+    "topicId": 1,
+    "text": "¿Cuál de los siguientes corresponden a condimentos de base?",
+    "options": [
+      "Sal, azúcar, mantequilla chocolate.",
+      "Azafrán, pimienta, clavo y canela.",
+      "Sal, azúcar, pimienta y canela.  8  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 56,
+    "topicId": 11,
+    "text": "La fritura se puede realizar por dos métodos:",
+    "options": [
+      "Fritura por separación y fritura por inmersión.",
+      "Fritura por contacto y fritura por inmersión.",
+      "Fritura por contacto y fritura por cocción."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 57,
+    "topicId": 11,
+    "text": "¿Cuál de estos métodos de cocción corresponde a la cocción por concentración?",
+    "options": [
+      "Estofar.",
+      "Gratinar.",
+      "Asar."
+    ],
+    "ai_analysis": {
+      "suggested_index": 2,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 58,
+    "topicId": 9,
+    "text": "¿Entre qué rango de temperaturas se cumplen las condiciones favorables para que las bacterias se multipliquen rápidamente en los alimentos?",
+    "options": [
+      "Entre 0 ºC y 5 ºC.",
+      "Entre 5 ºC y 65 ºC.",
+      "Entre 65 ºC y 75 ºC."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 59,
+    "topicId": 25,
+    "text": "Respecto a la alergia e intolerancia alimentaria, señale la verdadera:",
+    "options": [
+      "Intolerancia y alergia es lo mismo.",
+      "En la alergia interviene el sistema inmune y alguno de sus síntomas pueden ser de gravedad extrema.",
+      "En la intolerancia interviene el sistema inmune y alguno de sus síntomas pueden ser de gravedad extrema."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 60,
+    "topicId": 25,
+    "text": "Respecto al plan de trabajo en el menú de un niño o niña alérgica a algún alimento, señale la respuesta incorrecta:",
+    "options": [
+      "Es importante leer detenidamente el etiquetado de los alimentos.",
+      "Debemos preparar primero y por separado de otros alimentos, el menú de este niño o niña.",
+      "Podemos incluir alimentos si sólo contienen trazas del alérgeno.  9  \fESCUELAS INFANTILES Escuelas Infantiles  HAUR ESKOLAK Haur Eskolak  T. 948 420 100 / 010 www.pamplona.es  PREGUNTAS DE RESERVA"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 1,
+    "topicId": 2,
+    "text": "Según lo establecido en el artículo 7 de la LORAFNA, ¿cuántos brazos de eslabones tiene el escudo de Navarra?",
+    "options": [
+      "Seis.",
+      "Ocho.",
+      "Nueve."
+    ],
+    "ai_analysis": {
+      "suggested_index": 1,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 2,
+    "topicId": 10,
+    "text": "El aplicar unas buenas prácticas de manipulación de un alimento durante la compra, recepción y almacenamiento del mismo evitará que pueda haber una contaminación por:",
+    "options": [
+      "Sustancias químicas, microorganismos o elementos físicos que puedan llegar a causar enfermedades en el consumidor.",
+      "Sustancias vegetales, microorganismos o elementos ambientales que puedan llegar a causar enfermedades en el consumidor.",
+      "Sustancias químicas, microorganismos o elementos incorpóreos que puedan llegar a causar enfermedades en el consumidor."
+    ],
+    "ai_analysis": {
+      "suggested_index": 0,
+      "confidence": 10,
+      "rationale": "Found precise text match in documents."
+    }
+  },
+  {
+    "id": 3,
+    "topicId": 3,
+    "text": "Según el reglamento 852/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativo a la higiene de los productos alimenticios ¿Qué se entiende por higiene alimentaria?",
+    "options": [
+      "Las medidas y condiciones necesarias para controlar los peligros y garantizar la aptitud para el consumo humano de un producto alimenticio teniendo en cuenta la utilización prevista para dicho producto.",
+      "Las medidas y condiciones necesarias para controlar los peligros y garantizar la aptitud para el consumo animal de un producto alimenticio teniendo en cuenta la utilización prevista para dicho producto.",
+      "Las medidas y condiciones necesarias para controlar los peligros y garantizar la aptitud para el consumo vegetal de un producto alimenticio teniendo en cuenta la utilización prevista para dicho producto."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 4,
+    "topicId": 5,
+    "text": "Las medidas de seguridad en cocina se dividen en dos grupos:",
+    "options": [
+      "Fuga de gases y mantenimiento.",
+      "Revisión de instalaciones de cocina y fuga de gases.",
+      "Contraincendios y fuga de gases."
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  },
+  {
+    "id": 5,
+    "topicId": 1,
+    "text": "Según la Norma Española de Calidad de Aceites y Grasas Calentados, se consideran aceites y grasas calentados:",
+    "options": [
+      "Aquellos que han sido utilizados, al menos una vez, en la fritura de productos alimenticios de consumos público.",
+      "Aquellos que han sido utilizados, al menos dos veces, en la fritura de productos alimenticios de consumos público.",
+      "Aquellos que han sido utilizados, al menos cinco veces, en la fritura de productos alimenticios de consumos público.  10"
+    ],
+    "ai_analysis": {
+      "suggested_index": -1,
+      "confidence": 0,
+      "rationale": "No match found"
+    }
+  }
+]

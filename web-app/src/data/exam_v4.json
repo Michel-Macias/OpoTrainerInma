@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "topicId": 1,
+        "text": "¿Qué órgano tiene la competencia exclusiva para aprobar tratados internacionales?",
+        "options": [
+            "El Gobierno.",
+            "Las Cortes Generales.",
+            "El Rey."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 2,
+        "topicId": 1,
+        "text": "El derecho al trabajo está recogido en el artículo:",
+        "options": [
+            "Artículo 28",
+            "Artículo 35",
+            "Artículo 40"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 3,
+        "topicId": 1,
+        "text": "Según el Art. 148 CE, las CC.AA. podrán asumir competencias en:",
+        "options": [
+            "Defensa y Fuerzas Armadas.",
+            "Ordenación del territorio, urbanismo y vivienda.",
+            "Relaciones internacionales."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 4,
+        "topicId": 1,
+        "text": "¿Cuál es la función del Consejo de Estado?",
+        "options": [
+            "Juzgar delitos contra la Corona.",
+            "Ser el supremo órgano consultivo del Gobierno.",
+            "Aprobar los presupuestos generales."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 5,
+        "topicId": 9,
+        "text": "¿Qué bacteria es la principal causante de intoxicaciones por huevo crudo?",
+        "options": [
+            "Escherichia coli.",
+            "Salmonella.",
+            "Staphylococcus aureus."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 6,
+        "topicId": 9,
+        "text": "El Clostridium perfringens produce toxiinfección alimentaria típicamente en:",
+        "options": [
+            "Mariscos crudos.",
+            "Carnes cocinadas y enfriadas lentamente.",
+            "Frutas sin lavar."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 7,
+        "topicId": 10,
+        "text": "En la 'mise en place' se debe:",
+        "options": [
+            "Preparar y organizar todo lo necesario antes de empezar a cocinar.",
+            "Limpiar la cocina al terminar el servicio.",
+            "Controlar la temperatura de las cámaras."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 8,
+        "topicId": 10,
+        "text": "El 'pase' en una cocina profesional es:",
+        "options": [
+            "La zona donde se entregan los platos terminados a los camareros.",
+            "El horario de trabajo.",
+            "El almacén de vinos."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 9,
+        "topicId": 20,
+        "text": "¿Qué es el 'desglasado' en cocina?",
+        "options": [
+            "Añadir líquido a una sartén para recuperar los jugos caramelizados.",
+            "Retirar la grasa de un caldo.",
+            "Enfriar rápidamente un alimento."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 10,
+        "topicId": 20,
+        "text": "El 'brunoise' es un corte de verduras en:",
+        "options": [
+            "Bastones finos.",
+            "Dados muy pequeños (3mm).",
+            "Rodajas finas."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 11,
+        "topicId": 8,
+        "text": "¿Con qué frecuencia deben limpiarse las campanas extractoras?",
+        "options": [
+            "Una vez al año.",
+            "Semanalmente y en profundidad mensualmente.",
+            "Solo cuando estén visiblemente sucias."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 12,
+        "topicId": 8,
+        "text": "Los EPIs (Equipos de Protección Individual) en cocina incluyen:",
+        "options": [
+            "Solo guantes.",
+            "Gorro, delantal, calzado antideslizante y guantes cuando sea necesario.",
+            "Solo el uniforme de cocina."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 13,
+        "topicId": 11,
+        "text": "El registro de temperaturas en un sistema APPCC debe realizarse:",
+        "options": [
+            "De forma diaria y documentada.",
+            "Solo cuando haya una inspección.",
+            "Una vez al mes."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 14,
+        "topicId": 21,
+        "text": "¿Qué es la técnica de 'salteado'?",
+        "options": [
+            "Cocinar con poco aceite a fuego muy alto moviendo constantemente.",
+            "Hervir en abundante agua.",
+            "Cocinar al horno a baja temperatura."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 15,
+        "topicId": 21,
+        "text": "La fritura correcta requiere que el aceite esté a:",
+        "options": [
+            "100ºC - 120ºC.",
+            "160ºC - 180ºC.",
+            "200ºC - 220ºC."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 16,
+        "topicId": 3,
+        "text": "El Parlamento de Navarra tiene carácter:",
+        "options": [
+            "Unicameral.",
+            "Bicameral.",
+            "Tricameral."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 17,
+        "topicId": 5,
+        "text": "¿Qué son las fundaciones públicas de Navarra?",
+        "options": [
+            "Entidades sin ánimo de lucro adscritas al sector público foral.",
+            "Empresas privadas con participación pública.",
+            "Asociaciones de funcionarios."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 18,
+        "topicId": 2,
+        "text": "El plazo para presentar una queja ante el Defensor del Pueblo de Navarra es de:",
+        "options": [
+            "6 meses.",
+            "1 año.",
+            "2 años desde el conocimiento de los hechos."
+        ],
+        "correctIndex": 2,
+        "verified": true
+    },
+    {
+        "id": 19,
+        "topicId": 19,
+        "text": "Una dieta hipoproteica está indicada en:",
+        "options": [
+            "Deportistas de alto rendimiento.",
+            "Pacientes con enfermedad renal.",
+            "Niños en crecimiento."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 20,
+        "topicId": 19,
+        "text": "¿Cuál de los siguientes es un alérgeno de declaración obligatoria?",
+        "options": [
+            "Tomate.",
+            "Gluten.",
+            "Zanahoria."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "block": "general",
+        "title": "La Constitución Española de 1978",
+        "description": "Principios generales. Derechos y deberes fundamentales. La Corona. Las Cortes Generales. El Gobierno. El Poder Judicial. El Tribunal Constitucional.",
+        "pdf": "BOE-A-1978-31229-consolidado.pdf"
+    },
+    {
+        "id": 2,
+        "block": "general",
+        "title": "La LORAFNA",
+        "description": "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra: título preliminar. Competencias. Reforma.",
+        "pdf": "LORAFNA.pdf"
+    },
+    {
+        "id": 3,
+        "block": "general",
+        "title": "El Parlamento de Navarra y Defensor del Pueblo",
+        "description": "Composición, organización y funciones del Parlamento. El Defensor del Pueblo de la Comunidad Foral.",
+        "pdf": "LORAFNA.pdf"
+    },
+    {
+        "id": 4,
+        "block": "general",
+        "title": "El Gobierno de Navarra",
+        "description": "Funciones, composición, nombramiento y cese. La Presidenta/e. Consejeras/os.",
+        "pdf": "LORAFNA.pdf"
+    },
+    {
+        "id": 5,
+        "block": "general",
+        "title": "Administración de la Comunidad Foral (LF 11/2019)",
+        "description": "Organización de la Administración Pública Foral. Régimen jurídico. Órganos colegiados. Derechos de las personas.",
+        "pdf": "BOE-A-2019-4299-consolidado.pdf"
+    },
+    {
+        "id": 6,
+        "block": "general",
+        "title": "Los actos administrativos",
+        "description": "Requisitos, eficacia, nulidad. Revisión de actos. Procedimiento administrativo: interesados, fases, plazos.",
+        "pdf": "BOE-A-2019-4299-consolidado.pdf"
+    },
+    {
+        "id": 7,
+        "block": "general",
+        "title": "Estatuto del Personal",
+        "description": "Administraciones Públicas de Navarra: clases de personal, selección, carrera, derechos y deberes.",
+        "pdf": null
+    },
+    {
+        "id": 8,
+        "block": "general",
+        "title": "Transparencia, Datos e Igualdad",
+        "description": "LF 5/2018 Transparencia. LO 3/2018 Protección de Datos. LO 3/2007 y LF 17/2019 de Igualdad.",
+        "pdf": "BOE-A-2018-16673-consolidado.pdf"
+    },
+    {
+        "id": 9,
+        "block": "specific",
+        "title": "Zonas de trabajo",
+        "description": "Cámaras, almacenes, circuito limpio-sucio. Preparación, producción, acabado, lavado y residuos.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 10,
+        "block": "specific",
+        "title": "Recepción de alimentos",
+        "description": "Tratamiento y control de mercancías: perecederos, congelados y conservas.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 11,
+        "block": "specific",
+        "title": "Conservación y almacenamiento",
+        "description": "Conceptos y métodos de conservación. Normativa higiénico-sanitaria.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 12,
+        "block": "specific",
+        "title": "Alimentación saludable y sostenible",
+        "description": "Menú saludable, productos ecológicos, frescos y de cercanía. Fundamentos.",
+        "pdf": null
+    },
+    {
+        "id": 13,
+        "block": "specific",
+        "title": "Los alimentos",
+        "description": "Concepto y clasificación. Composición nutritiva y función nutricional.",
+        "pdf": null
+    },
+    {
+        "id": 14,
+        "block": "specific",
+        "title": "El menú basal y pediátrico",
+        "description": "Características del menú basal. El menú pediátrico en escuelas infantiles.",
+        "pdf": null
+    },
+    {
+        "id": 15,
+        "block": "specific",
+        "title": "Fichas técnicas y Gramajes",
+        "description": "Criterio de selección, estandarización de platos y gramajes.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 16,
+        "block": "specific",
+        "title": "Técnicas culinarias",
+        "description": "Análisis según procesos. Útiles, herramientas y equipos de trabajo.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 17,
+        "block": "specific",
+        "title": "Intoxicaciones alimentarias",
+        "description": "Clases, causas y prevención asociada.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 18,
+        "block": "specific",
+        "title": "Prevención de riesgos laborales",
+        "description": "Medidas de protección. Manejo de maquinaria y utensilios. Prevención de accidentes.",
+        "pdf": null
+    },
+    {
+        "id": 19,
+        "block": "specific",
+        "title": "Organización del trabajo",
+        "description": "Personal de cocina: puestos, funciones y responsabilidades.",
+        "pdf": null
+    },
+    {
+        "id": 20,
+        "block": "specific",
+        "title": "Plan general de limpieza",
+        "description": "Limpieza total. Puntos críticos (APPCC). Productos y normas de utilización.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 21,
+        "block": "specific",
+        "title": "Verduras, Hortalizas, Cereales y Legumbres",
+        "description": "Identificación, tratamiento y técnicas culinarias idóneas.",
+        "pdf": null
+    },
+    {
+        "id": 22,
+        "block": "specific",
+        "title": "Carnes, Pescados y Huevos",
+        "description": "Identificación y características. Técnicas de cocción idóneas.",
+        "pdf": null
+    },
+    {
+        "id": 23,
+        "block": "specific",
+        "title": "Salsas y Fondos",
+        "description": "Fondos básicos, salsas madres y derivadas. Clasificación y aplicaciones.",
+        "pdf": null
+    },
+    {
+        "id": 24,
+        "block": "specific",
+        "title": "Procesos culinarios con calor",
+        "description": "Cocción: generalidades, procesos primarios y secundarios. Temperaturas.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    },
+    {
+        "id": 25,
+        "block": "specific",
+        "title": "Intolerancias y alergias",
+        "description": "Plan de trabajo y alternativas al menú.",
+        "pdf": "guiarestaurantesok2digital.pdf"
+    }
+]

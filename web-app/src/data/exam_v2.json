@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "topicId": 1,
+        "text": "¿Qué artículo de la Constitución establece que los partidos políticos expresan el pluralismo político?",
+        "options": [
+            "Artículo 6",
+            "Artículo 10",
+            "Artículo 23"
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 2,
+        "topicId": 1,
+        "text": "Según la Constitución, la soberanía nacional reside en:",
+        "options": [
+            "El Rey",
+            "El Congreso",
+            "El pueblo español"
+        ],
+        "correctIndex": 2,
+        "verified": true
+    },
+    {
+        "id": 3,
+        "topicId": 1,
+        "text": "El derecho a la libertad ideológica se recoge en el artículo:",
+        "options": [
+            "Artículo 14",
+            "Artículo 16",
+            "Artículo 20"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 4,
+        "topicId": 1,
+        "text": "Las Comunidades Autónomas están reguladas en el Título:",
+        "options": [
+            "Título IV",
+            "Título VI",
+            "Título VIII"
+        ],
+        "correctIndex": 2,
+        "verified": true
+    },
+    {
+        "id": 5,
+        "topicId": 9,
+        "text": "La temperatura máxima de congelación para mantener la cadena de frío es:",
+        "options": [
+            "-10ºC",
+            "-18ºC",
+            "-25ºC"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 6,
+        "topicId": 9,
+        "text": "¿Cuál es el tiempo máximo recomendado para atravesar la 'Zona de Peligro' al enfriar alimentos?",
+        "options": [
+            "4 horas",
+            "2 horas",
+            "30 minutos"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 7,
+        "topicId": 10,
+        "text": "La zona de 'Plonge' en una cocina se destina a:",
+        "options": [
+            "Preparación de carnes.",
+            "Lavado de vajilla y utensilios.",
+            "Almacenamiento de productos secos."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 8,
+        "topicId": 10,
+        "text": "El 'Office' es la zona de cocina destinada a:",
+        "options": [
+            "La preparación de postres y repostería.",
+            "El almacén de bebidas.",
+            "La limpieza de químicos."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 9,
+        "topicId": 20,
+        "text": "Para evitar la contaminación cruzada al manipular carne cruda, se debe:",
+        "options": [
+            "Usar la misma tabla siempre que esté visualmente limpia.",
+            "Usar tablas de diferente color para cada tipo de alimento.",
+            "Lavar la tabla solo al final del día."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 10,
+        "topicId": 20,
+        "text": "El escaldado de verduras sirve para:",
+        "options": [
+            "Cocinarlas completamente.",
+            "Inactivar enzimas y fijar el color antes de congelar.",
+            "Eliminar pesticidas químicos."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 11,
+        "topicId": 8,
+        "text": "El Círculo de Sinner establece que la eficacia de la limpieza depende de:",
+        "options": [
+            "Temperatura, Tiempo, Acción Mecánica y Acción Química.",
+            "Agua, Jabón, Estropajo y Ganas.",
+            "Cloro, Alcohol, Amoniaco y Detergente."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 12,
+        "topicId": 8,
+        "text": "Un desinfectante actúa:",
+        "options": [
+            "Eliminando la suciedad visible.",
+            "Reduciendo los microorganismos a niveles seguros.",
+            "Añadiendo brillo a las superficies."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 13,
+        "topicId": 11,
+        "text": "El sistema APPCC significa:",
+        "options": [
+            "Análisis de Peligros y Puntos de Control Crítico.",
+            "Asociación de Productores y Puntos de Control Comercial.",
+            "Acción Preventiva y Protocolo de Contaminación Cruzada."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 14,
+        "topicId": 21,
+        "text": "La cocción 'a baja temperatura' se caracteriza por:",
+        "options": [
+            "Aplicar temperaturas entre 55ºC y 85ºC durante tiempos prolongados.",
+            "Freír a menos de 150ºC.",
+            "Cocinar solo con microondas."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 15,
+        "topicId": 21,
+        "text": "El 'regenerado' de alimentos consiste en:",
+        "options": [
+            "Volver a calentar un alimento ya cocinado hasta alcanzar más de 65ºC en el centro.",
+            "Descongelar alimentos en agua caliente.",
+            "Añadir aditivos para mejorar el aspecto."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 16,
+        "topicId": 3,
+        "text": "Según la LORAFNA, la capital de Navarra es:",
+        "options": [
+            "Tudela",
+            "Pamplona",
+            "Estella"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 17,
+        "topicId": 5,
+        "text": "¿Quién nombra a los Consejeros del Gobierno de Navarra?",
+        "options": [
+            "El Parlamento de Navarra.",
+            "La Presidenta o Presidente del Gobierno de Navarra.",
+            "El Rey de España."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 18,
+        "topicId": 2,
+        "text": "Las quejas al Defensor del Pueblo de Navarra deben presentarse:",
+        "options": [
+            "De forma anónima.",
+            "Firmadas por el interesado.",
+            "Solo a través de un abogado."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 19,
+        "topicId": 19,
+        "text": "¿Por qué está contraindicada la miel en menores de 1 año?",
+        "options": [
+            "Por su alto contenido en azúcar.",
+            "Por riesgo de botulismo infantil (esporas de Clostridium botulinum).",
+            "Por ser un alérgeno común."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 20,
+        "topicId": 19,
+        "text": "En comedores escolares, ¿cada cuánto tiempo debe renovarse el menú?",
+        "options": [
+            "Semanalmente",
+            "Mensualmente",
+            "Trimestralmente"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    }
+]

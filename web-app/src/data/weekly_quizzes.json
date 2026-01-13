@@ -1,0 +1,1618 @@
+{
+    "1-1": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Qué artículo de la Constitución proclama que la soberanía nacional reside en el pueblo español?",
+                "options": [
+                    "Artículo 1.2",
+                    "Artículo 2",
+                    "Artículo 9"
+                ],
+                "correct": 0,
+                "explanation": "El Art. 1.2 establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+            },
+            {
+                "id": 2,
+                "q": "En la organización de una cocina, ¿qué es el principio de 'Marcha hacia adelante'?",
+                "options": [
+                    "Que los platos salgan rápido",
+                    "Que los alimentos crudos y cocinados no se crucen para evitar contaminación",
+                    "Que el personal siempre camine hacia la salida"
+                ],
+                "correct": 1,
+                "explanation": "Es el principio básico de diseño de cocinas para evitar la contaminación cruzada."
+            },
+            {
+                "id": 3,
+                "q": "El Título VIII de la Constitución trata sobre:",
+                "options": [
+                    "La Corona",
+                    "El Poder Judicial",
+                    "La Organización Territorial del Estado"
+                ],
+                "correct": 2,
+                "explanation": "El Título VIII regula las CC.AA. y la Administración Local."
+            },
+            {
+                "id": 4,
+                "q": "Según el Art. 6 de la CE, los partidos políticos:",
+                "options": [
+                    "Son asociaciones ilegales",
+                    "Expresan el pluralismo político",
+                    "Dependen del Gobierno"
+                ],
+                "correct": 1,
+                "explanation": "Son instrumento fundamental para la participación política."
+            },
+            {
+                "id": 5,
+                "q": "¿Qué zona de la cocina se denomina 'Office'?",
+                "options": [
+                    "Zona de lavado",
+                    "Zona de preparación de postres y repostería",
+                    "Almacén de bebidas"
+                ],
+                "correct": 1,
+                "explanation": "El Office es donde se preparan postres y cafés."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Plonge",
+                "back": "Zona destinada al lavado de vajilla, menaje y utensilios de cocina."
+            },
+            {
+                "front": "Cuarto Frío",
+                "back": "Zona climatizada (12-16ºC) para manipular productos perecederos y emplatar."
+            },
+            {
+                "front": "Art. 14 CE",
+                "back": "Los españoles son iguales ante la ley, sin discriminación."
+            },
+            {
+                "front": "Art. 1.1 CE",
+                "back": "España se constituye en un Estado social y democrático de Derecho."
+            },
+            {
+                "front": "Art. 1.2 CE",
+                "back": "La soberanía nacional reside en el pueblo español."
+            },
+            {
+                "front": "Art. 1.3 CE",
+                "back": "La forma política del Estado español es la Monarquía parlamentaria."
+            },
+            {
+                "front": "Economato",
+                "back": "Zona de recepción y almacenaje de materias primas."
+            },
+            {
+                "front": "Cuarto Caliente",
+                "back": "Zona donde se realizan las cocciones y preparaciones con calor."
+            },
+            {
+                "front": "Pase",
+                "back": "Zona donde se entregan los platos terminados a los camareros."
+            },
+            {
+                "front": "Mise en Place",
+                "back": "Preparar y organizar todo lo necesario antes de empezar a cocinar."
+            }
+        ]
+    },
+    "1-2": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "En el Círculo de Sinner, ¿cuáles son los 4 factores de la limpieza?",
+                "options": [
+                    "Agua, Jabón, Estropajo y Ganas",
+                    "Temperatura, Tiempo, Acción Mecánica y Acción Química",
+                    "Temperatura, Presión, Desinfección y Aclarado"
+                ],
+                "correct": 1,
+                "explanation": "Si se reduce uno de estos factores, debe compensarse aumentando los otros."
+            },
+            {
+                "id": 2,
+                "q": "¿Qué se debe usar para limpiar una plancha muy sucia?",
+                "options": [
+                    "Lejía pura",
+                    "Desengrasante alcalino a temperatura media-alta",
+                    "Solo agua fría"
+                ],
+                "correct": 1,
+                "explanation": "Los desengrasantes funcionan mejor en caliente para saponificar grasas."
+            },
+            {
+                "id": 3,
+                "q": "¿Cuál es el orden correcto del proceso de limpieza?",
+                "options": [
+                    "Desinfectar, Limpiar, Aclarar",
+                    "Limpiar, Aclarar, Desinfectar, Aclarar",
+                    "Aclarar, Secar, Limpiar"
+                ],
+                "correct": 1,
+                "explanation": "Primero limpiar, luego aclarar, desinfectar y aclarar de nuevo."
+            },
+            {
+                "id": 4,
+                "q": "¿Qué producto elimina depósitos de cal?",
+                "options": [
+                    "Desengrasante alcalino",
+                    "Desincrustante ácido",
+                    "Lejía clorada"
+                ],
+                "correct": 1,
+                "explanation": "Los productos ácidos disuelven minerales como la cal."
+            },
+            {
+                "id": 5,
+                "q": "¿Con qué frecuencia deben limpiarse las campanas en profundidad?",
+                "options": [
+                    "Una vez al año",
+                    "Mensualmente",
+                    "Cada 6 meses"
+                ],
+                "correct": 1,
+                "explanation": "Limpieza superficial semanal y en profundidad mensual."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Limpieza vs Desinfección",
+                "back": "Limpiar quita suciedad visible. Desinfectar elimina microorganismos."
+            },
+            {
+                "front": "Biofilm",
+                "back": "Capa de bacterias adheridas a superficies, protegidas por una matriz."
+            },
+            {
+                "front": "Detergente Alcalino",
+                "back": "Ideal para eliminar grasas y suciedad orgánica."
+            },
+            {
+                "front": "Detergente Ácido",
+                "back": "Ideal para eliminar depósitos de cal y minerales."
+            },
+            {
+                "front": "Círculo de Sinner",
+                "back": "Modelo: Temperatura, Tiempo, Acción Mecánica y Acción Química."
+            },
+            {
+                "front": "EPI Cocina",
+                "back": "Gorro, delantal, calzado antideslizante, guantes cuando sea necesario."
+            },
+            {
+                "front": "Aclarado Final",
+                "back": "Obligatorio tras desinfectar para eliminar restos de producto químico."
+            },
+            {
+                "front": "D+D",
+                "back": "Desinsectación + Desratización (Control de Plagas)."
+            },
+            {
+                "front": "Plan de L+D",
+                "back": "Documento: QUÉ se limpia, CÓMO, CON QUÉ productos y CUÁNDO."
+            },
+            {
+                "front": "Verificación L+D",
+                "back": "Comprobar visual y con test (ATP) que la limpieza fue eficaz."
+            }
+        ]
+    },
+    "1-3": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Cuál es la 'Zona de Peligro' de temperatura?",
+                "options": [
+                    "Entre 0ºC y 4ºC",
+                    "Entre 5ºC y 65ºC",
+                    "Más de 100ºC"
+                ],
+                "correct": 1,
+                "explanation": "En este rango las bacterias se multiplican rápidamente."
+            },
+            {
+                "id": 2,
+                "q": "Según la LORAFNA, ¿qué integra el territorio de la Comunidad Foral?",
+                "options": [
+                    "La provincia de Pamplona",
+                    "El territorio histórico de Navarra",
+                    "Los municipios de la comarca"
+                ],
+                "correct": 1,
+                "explanation": "Integrado por el territorio histórico de la antigua Navarra."
+            },
+            {
+                "id": 3,
+                "q": "¿A qué temperatura debe mantenerse la carne picada refrigerada?",
+                "options": [
+                    "Entre 0ºC y 2ºC",
+                    "Entre 5ºC y 8ºC",
+                    "A temperatura ambiente"
+                ],
+                "correct": 0,
+                "explanation": "La carne picada es de alto riesgo (0-2ºC)."
+            },
+            {
+                "id": 4,
+                "q": "¿Cuánto tiempo pueden permanecer los alimentos en servicio caliente?",
+                "options": [
+                    "1 hora",
+                    "2 horas",
+                    "4 horas"
+                ],
+                "correct": 1,
+                "explanation": "Máximo 2 horas a >65ºC. Después deben desecharse."
+            },
+            {
+                "id": 5,
+                "q": "¿Qué es el 'abatimiento rápido'?",
+                "options": [
+                    "Calentar muy rápido",
+                    "Enfriar de 65ºC a 3ºC en menos de 2 horas",
+                    "Descongelar en agua caliente"
+                ],
+                "correct": 1,
+                "explanation": "El abatidor reduce temperatura rápidamente."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "LORAFNA",
+                "back": "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra."
+            },
+            {
+                "front": "Temp. Refrigeración Carne",
+                "back": "Entre 0ºC y 4ºC (máximo 2ºC para carne picada)."
+            },
+            {
+                "front": "Temp. Congelación",
+                "back": "-18ºC o inferior."
+            },
+            {
+                "front": "Zona de Peligro",
+                "back": "Rango 5ºC-65ºC donde proliferan bacterias rápidamente."
+            },
+            {
+                "front": "Regenerar",
+                "back": "Recalentar alimento hasta >65ºC en el centro."
+            },
+            {
+                "front": "Abatidor",
+                "back": "Equipo que enfría de 65ºC a 3ºC en <90 minutos."
+            },
+            {
+                "front": "Art. 7 LORAFNA",
+                "back": "Escudo de Navarra: Cadenas de oro sobre fondo rojo, esmeralda en el centro."
+            },
+            {
+                "front": "Cadena de Frío",
+                "back": "Mantener alimentos refrigerados/congelados sin interrupción."
+            },
+            {
+                "front": "Termómetro Sonda",
+                "back": "Mide temperatura interna de los alimentos."
+            },
+            {
+                "front": "Capital Navarra",
+                "back": "Pamplona (Art. 4 LORAFNA)."
+            }
+        ]
+    },
+    "1-4": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Qué es un APPCC?",
+                "options": [
+                    "Asociación de Puntos Críticos",
+                    "Análisis de Peligros y Puntos de Control Crítico",
+                    "Acción de Prevención"
+                ],
+                "correct": 1,
+                "explanation": "Sistema preventivo obligatorio para seguridad alimentaria."
+            },
+            {
+                "id": 2,
+                "q": "¿Cuál es la capital de Navarra según la LORAFNA?",
+                "options": [
+                    "No lo especifica",
+                    "Tudela",
+                    "Pamplona"
+                ],
+                "correct": 2,
+                "explanation": "Art. 4: La capital de Navarra es Pamplona."
+            },
+            {
+                "id": 3,
+                "q": "¿Qué artículo de la CE garantiza la protección de la salud?",
+                "options": [
+                    "Art. 39",
+                    "Art. 43",
+                    "Art. 50"
+                ],
+                "correct": 1,
+                "explanation": "Art. 43 reconoce el derecho a la protección de la salud."
+            },
+            {
+                "id": 4,
+                "q": "¿Qué es la trazabilidad?",
+                "options": [
+                    "El sabor del alimento",
+                    "Seguir el rastro del alimento en todas sus etapas",
+                    "La fecha de caducidad"
+                ],
+                "correct": 1,
+                "explanation": "Permite localizar y retirar productos en alerta alimentaria."
+            },
+            {
+                "id": 5,
+                "q": "¿Cuál es un alérgeno de declaración obligatoria?",
+                "options": [
+                    "Tomate",
+                    "Gluten",
+                    "Zanahoria"
+                ],
+                "correct": 1,
+                "explanation": "El gluten es uno de los 14 alérgenos obligatorios."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "PCC",
+                "back": "Punto de Control Crítico: fase donde se controla/elimina un peligro."
+            },
+            {
+                "front": "Trazabilidad",
+                "back": "Seguir rastro del alimento del campo a la mesa."
+            },
+            {
+                "front": "Contaminación Cruzada",
+                "back": "Transferencia de bacterias de alimentos crudos a cocinados."
+            },
+            {
+                "front": "APPCC",
+                "back": "Análisis de Peligros y Puntos de Control Crítico."
+            },
+            {
+                "front": "14 Alérgenos",
+                "back": "Gluten, crustáceos, huevos, pescado, cacahuetes, soja, lácteos, frutos cáscara, apio, mostaza, sésamo, sulfitos, altramuces, moluscos."
+            },
+            {
+                "front": "Muestras Testigo",
+                "back": "Porciones guardadas 5-7 días por si hay intoxicación."
+            },
+            {
+                "front": "Art. 43 CE",
+                "back": "Derecho a la protección de la salud."
+            },
+            {
+                "front": "Art. 35 CE",
+                "back": "Derecho al trabajo."
+            },
+            {
+                "front": "Prerrequisitos APPCC",
+                "back": "Planes básicos (L+D, Plagas, Formación, Agua, Residuos...)."
+            },
+            {
+                "front": "Límite Crítico",
+                "back": "Valor que separa lo aceptable de lo inaceptable."
+            }
+        ]
+    },
+    "2-1": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "Según la Ley Foral 11/2019, los Departamentos dependen de:",
+                "options": [
+                    "El Parlamento",
+                    "El Gobierno de Navarra",
+                    "Los Ayuntamientos"
+                ],
+                "correct": 1,
+                "explanation": "Los Departamentos son la estructura básica del Gobierno de Navarra."
+            },
+            {
+                "id": 2,
+                "q": "¿Qué talla de huevo pesa entre 63g y 73g?",
+                "options": [
+                    "Talla M",
+                    "Talla L",
+                    "Talla XL"
+                ],
+                "correct": 1,
+                "explanation": "Talla L: ≥63g y <73g."
+            },
+            {
+                "id": 3,
+                "q": "¿Cuál es la temperatura interna mínima para cocinar aves?",
+                "options": [
+                    "55ºC",
+                    "65ºC",
+                    "74ºC"
+                ],
+                "correct": 2,
+                "explanation": "Las aves deben alcanzar 74ºC en el centro por Salmonella."
+            },
+            {
+                "id": 4,
+                "q": "La carne 'al punto' tiene:",
+                "options": [
+                    "Interior crudo y frío",
+                    "Interior rosado y jugo no sangriento",
+                    "Interior gris y seco"
+                ],
+                "correct": 1,
+                "explanation": "Superficie tostada, interior rosado, jugo claro."
+            },
+            {
+                "id": 5,
+                "q": "¿Quién nombra a los Consejeros del Gobierno de Navarra?",
+                "options": [
+                    "El Parlamento",
+                    "La Presidenta o Presidente del Gobierno de Navarra",
+                    "El Rey"
+                ],
+                "correct": 1,
+                "explanation": "El Presidente nombra a los Consejeros (Ley Foral 14/2004)."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Ley Foral 11/2019",
+                "back": "Ley de la Administración de la Comunidad Foral de Navarra y del Sector Público."
+            },
+            {
+                "front": "Departamento",
+                "back": "Unidad organizativa básica del Gobierno de Navarra."
+            },
+            {
+                "front": "Huevo Talla L",
+                "back": "Peso ≥63g e <73g."
+            },
+            {
+                "front": "Huevo Talla XL",
+                "back": "Peso ≥73g."
+            },
+            {
+                "front": "Huevo Fresco Extra",
+                "back": "Menos de 9 días desde la puesta (indicador de calidad)."
+            },
+            {
+                "front": "Carne al Punto",
+                "back": "Superficie tostada, interior rosado, jugo no sangriento."
+            },
+            {
+                "front": "Carne Poco Hecha",
+                "back": "Interior rojo y jugo sangriento."
+            },
+            {
+                "front": "Carne Muy Hecha",
+                "back": "Interior gris-marrón, sin jugos."
+            },
+            {
+                "front": "Temp. Interna Aves",
+                "back": "Mínimo 74ºC en el centro del producto."
+            },
+            {
+                "front": "Consejero/a",
+                "back": "Miembro del Gobierno de Navarra, nombrado por el Presidente."
+            }
+        ]
+    },
+    "2-2": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Qué es la cocción por 'concentración'?",
+                "options": [
+                    "Partiendo de líquido frío",
+                    "Sellado rápido para retener jugos",
+                    "Cocción lenta a baja temperatura"
+                ],
+                "correct": 1,
+                "explanation": "Asar, saltear, freír: se sella para concentrar sabores."
+            },
+            {
+                "id": 2,
+                "q": "El 'blanqueado' de verduras consiste en:",
+                "options": [
+                    "Cocción larga en agua fría",
+                    "Cocción corta en agua hirviendo y enfriado rápido",
+                    "Cocción al vapor"
+                ],
+                "correct": 1,
+                "explanation": "Fija color, textura y elimina enzimas. Luego se enfría rápido."
+            },
+            {
+                "id": 3,
+                "q": "¿Cuál es el corte 'brunoise'?",
+                "options": [
+                    "Bastones finos",
+                    "Dados muy pequeños (~3mm)",
+                    "Rodajas finas"
+                ],
+                "correct": 1,
+                "explanation": "Dados minúsculos usados para sofritos y guarniciones."
+            },
+            {
+                "id": 4,
+                "q": "El 'escaldado' sirve para:",
+                "options": [
+                    "Cocinar completamente",
+                    "Pelar fácilmente (tomates)",
+                    "Congelar alimentos"
+                ],
+                "correct": 1,
+                "explanation": "Facilita pelar tomates, melocotones, etc."
+            },
+            {
+                "id": 5,
+                "q": "La cocción por 'expansión' busca:",
+                "options": [
+                    "Retener jugos",
+                    "Intercambiar sabores partiendo de líquido frío",
+                    "Dorar la superficie"
+                ],
+                "correct": 1,
+                "explanation": "Hervir, fondos: intercambio de sabores con el líquido."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Concentración",
+                "back": "Sellado rápido para retener jugos (Asar, Saltear, Freír)."
+            },
+            {
+                "front": "Expansión",
+                "back": "Intercambio de sabores partiendo de líquido frío (Hervir, Fondos)."
+            },
+            {
+                "front": "Blanqueado",
+                "back": "Cocción corta en agua hirviendo + enfriado rápido para fijar color/textura."
+            },
+            {
+                "front": "Brunoise",
+                "back": "Corte en dados muy pequeños (~3mm)."
+            },
+            {
+                "front": "Juliana",
+                "back": "Corte en bastones finos (2mm x 5cm)."
+            },
+            {
+                "front": "Chiffonade",
+                "back": "Corte en tiras muy finas (hierbas, hojas)."
+            },
+            {
+                "front": "Mirepoix",
+                "back": "Corte grueso de zanahoria, cebolla y apio para fondos."
+            },
+            {
+                "front": "Escaldado",
+                "back": "Sumergir brevemente en agua caliente para pelar (tomates)."
+            },
+            {
+                "front": "Salteado",
+                "back": "Cocinar con poco aceite a fuego muy alto, moviendo constantemente."
+            },
+            {
+                "front": "Punto de Humo",
+                "back": "Temperatura a la que el aceite humea y se degrada."
+            }
+        ]
+    },
+    "2-3": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Cuáles son las 5 salsas madre clásicas?",
+                "options": [
+                    "Tomate, Mayonesa, Vinagreta, Ketchup, Mostaza",
+                    "Española, Velouté, Bechamel, Tomate, Holandesa",
+                    "Pesto, Alioli, Romesco, Chimichurri, Tártara"
+                ],
+                "correct": 1,
+                "explanation": "Las 5 salsas madre de Escoffier."
+            },
+            {
+                "id": 2,
+                "q": "¿Qué es un 'fondo oscuro'?",
+                "options": [
+                    "Caldo de verduras",
+                    "Caldo con huesos tostados/dorados",
+                    "Caldo de pescado"
+                ],
+                "correct": 1,
+                "explanation": "Los huesos se tuestan antes de hervir, dando color oscuro."
+            },
+            {
+                "id": 3,
+                "q": "El 'roux' es una mezcla de:",
+                "options": [
+                    "Mantequilla y harina",
+                    "Aceite y vinagre",
+                    "Huevo y azúcar"
+                ],
+                "correct": 0,
+                "explanation": "Base espesante para bechamel, velouté, etc."
+            },
+            {
+                "id": 4,
+                "q": "¿Para qué se usa un 'chinois'?",
+                "options": [
+                    "Cortar verduras",
+                    "Colar y filtrar salsas/caldos",
+                    "Batir huevos"
+                ],
+                "correct": 1,
+                "explanation": "Colador cónico de malla fina."
+            },
+            {
+                "id": 5,
+                "q": "La salsa 'Velouté' se hace con:",
+                "options": [
+                    "Fondo claro + roux",
+                    "Leche + roux",
+                    "Tomate + cebolla"
+                ],
+                "correct": 0,
+                "explanation": "Fondo claro (pollo, ternera o pescado) + roux rubio."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Salsa Española",
+                "back": "Salsa madre oscura: fondo oscuro + roux oscuro + mirepoix."
+            },
+            {
+                "front": "Salsa Bechamel",
+                "back": "Salsa madre blanca: leche + roux blanco."
+            },
+            {
+                "front": "Salsa Velouté",
+                "back": "Salsa madre: fondo claro + roux rubio."
+            },
+            {
+                "front": "Salsa Holandesa",
+                "back": "Emulsión de yemas + mantequilla clarificada + limón."
+            },
+            {
+                "front": "Salsa de Tomate",
+                "back": "Tomate cocido con sofrito aromático."
+            },
+            {
+                "front": "Roux",
+                "back": "Mezcla de grasa (mantequilla) y harina, base de salsas espesas."
+            },
+            {
+                "front": "Fondo Oscuro",
+                "back": "Caldo de huesos tostados/dorados, color marrón intenso."
+            },
+            {
+                "front": "Fondo Claro",
+                "back": "Caldo de huesos sin dorar, color claro/transparente."
+            },
+            {
+                "front": "Fumet",
+                "back": "Fondo de pescado: espinas, cabezas y verduras."
+            },
+            {
+                "front": "Chinois",
+                "back": "Colador cónico de malla fina para salsas y caldos."
+            }
+        ]
+    },
+    "2-4": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "REPASO: ¿A qué temperatura debe freírse correctamente?",
+                "options": [
+                    "100-120ºC",
+                    "160-180ºC",
+                    "200-220ºC"
+                ],
+                "correct": 1,
+                "explanation": "Temperatura ideal para freír sin degradar el aceite."
+            },
+            {
+                "id": 2,
+                "q": "REPASO: ¿Qué es la 'mise en place'?",
+                "options": [
+                    "Limpiar al final",
+                    "Preparar todo antes de cocinar",
+                    "Servir los platos"
+                ],
+                "correct": 1,
+                "explanation": "Organización previa: ingredientes, utensilios, salsas listas."
+            },
+            {
+                "id": 3,
+                "q": "REPASO: ¿Cuánto pesa un huevo talla M?",
+                "options": [
+                    "<53g",
+                    "≥53g y <63g",
+                    "≥63g"
+                ],
+                "correct": 1,
+                "explanation": "Talla M: entre 53g y 63g."
+            },
+            {
+                "id": 4,
+                "q": "REPASO: ¿Qué es un PCC?",
+                "options": [
+                    "Plan de Control de Plagas",
+                    "Punto de Control Crítico",
+                    "Protocolo de Cocina Colectiva"
+                ],
+                "correct": 1,
+                "explanation": "Fase donde se puede aplicar un control para eliminar un peligro."
+            },
+            {
+                "id": 5,
+                "q": "REPASO: La descongelación correcta se hace:",
+                "options": [
+                    "A temperatura ambiente",
+                    "En la nevera (0-4ºC)",
+                    "Con agua caliente"
+                ],
+                "correct": 1,
+                "explanation": "En refrigeración para evitar la zona de peligro."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Temp. Fritura",
+                "back": "160-180ºC es el rango ideal para freír."
+            },
+            {
+                "front": "Huevo Talla M",
+                "back": "Peso ≥53g e <63g."
+            },
+            {
+                "front": "Huevo Talla S",
+                "back": "Peso <53g."
+            },
+            {
+                "front": "Descongelación Correcta",
+                "back": "En nevera (0-4ºC) o microondas si se va a cocinar inmediatamente."
+            },
+            {
+                "front": "Mondar",
+                "back": "Pelar, quitar la piel de frutas/verduras."
+            },
+            {
+                "front": "Tornear",
+                "back": "Dar forma ovalada a verduras para presentación."
+            },
+            {
+                "front": "Napar",
+                "back": "Cubrir un alimento con salsa."
+            },
+            {
+                "front": "Ligar",
+                "back": "Espesar una salsa con roux, almidón o reducción."
+            },
+            {
+                "front": "Reducir",
+                "back": "Evaporar líquido para concentrar sabor."
+            },
+            {
+                "front": "Glasear",
+                "back": "Dar brillo a verduras o carnes con azúcar/mantequilla."
+            }
+        ]
+    },
+    "3-1": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Qué ley regula la igualdad efectiva entre hombres y mujeres?",
+                "options": [
+                    "LO 3/2018",
+                    "LO 3/2007",
+                    "LO 2/2006"
+                ],
+                "correct": 1,
+                "explanation": "Ley Orgánica 3/2007 de Igualdad."
+            },
+            {
+                "id": 2,
+                "q": "La LO 3/2018 regula:",
+                "options": [
+                    "Igualdad de género",
+                    "Protección de datos personales",
+                    "Seguridad alimentaria"
+                ],
+                "correct": 1,
+                "explanation": "Ley Orgánica de Protección de Datos Personales y Garantía de Derechos Digitales."
+            },
+            {
+                "id": 3,
+                "q": "¿Qué es el 'principio de minimización de datos'?",
+                "options": [
+                    "Guardar todos los datos posibles",
+                    "Recoger solo los datos necesarios para el fin específico",
+                    "Compartir datos con terceros"
+                ],
+                "correct": 1,
+                "explanation": "Solo se deben recoger datos adecuados, pertinentes y limitados."
+            },
+            {
+                "id": 4,
+                "q": "¿Qué es la 'brecha salarial de género'?",
+                "options": [
+                    "Diferencia entre salario bruto y neto",
+                    "Diferencia salarial entre hombres y mujeres por el mismo trabajo",
+                    "Diferencia entre sectores públicos y privados"
+                ],
+                "correct": 1,
+                "explanation": "Uno de los objetivos de la LO 3/2007 es reducirla."
+            },
+            {
+                "id": 5,
+                "q": "El 'consentimiento expreso' en protección de datos significa:",
+                "options": [
+                    "Aceptación tácita",
+                    "Declaración afirmativa clara del interesado",
+                    "Silencio del usuario"
+                ],
+                "correct": 1,
+                "explanation": "Debe ser libre, específico, informado e inequívoco."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "LO 3/2007",
+                "back": "Ley para la Igualdad Efectiva de Mujeres y Hombres."
+            },
+            {
+                "front": "LO 3/2018",
+                "back": "Ley de Protección de Datos Personales y Garantía de Derechos Digitales."
+            },
+            {
+                "front": "RGPD",
+                "back": "Reglamento General de Protección de Datos (europeo)."
+            },
+            {
+                "front": "Consentimiento Expreso",
+                "back": "Declaración afirmativa clara para tratar datos personales."
+            },
+            {
+                "front": "Minimización",
+                "back": "Solo recoger datos necesarios para el fin específico."
+            },
+            {
+                "front": "Brecha Salarial",
+                "back": "Diferencia de remuneración entre hombres y mujeres."
+            },
+            {
+                "front": "Conciliación",
+                "back": "Medidas para compatibilizar vida laboral, familiar y personal."
+            },
+            {
+                "front": "Plan de Igualdad",
+                "back": "Conjunto de medidas para lograr igualdad en las empresas."
+            },
+            {
+                "front": "Acoso Sexual",
+                "back": "Comportamiento verbal/físico de naturaleza sexual no deseado (LO 3/2007)."
+            },
+            {
+                "front": "Datos Sensibles",
+                "back": "Salud, religión, orientación sexual, origen étnico (protección especial)."
+            }
+        ]
+    },
+    "3-2": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Cuál es la diferencia entre alergia e intolerancia?",
+                "options": [
+                    "Son lo mismo",
+                    "Alergia activa sistema inmune (puede ser mortal), intolerancia es digestiva",
+                    "Intolerancia es más grave que alergia"
+                ],
+                "correct": 1,
+                "explanation": "La alergia produce respuesta inmune, la intolerancia no."
+            },
+            {
+                "id": 2,
+                "q": "¿Cuántos son los alérgenos de declaración obligatoria?",
+                "options": [
+                    "10",
+                    "14",
+                    "20"
+                ],
+                "correct": 1,
+                "explanation": "14 alérgenos según el Reglamento 1169/2011."
+            },
+            {
+                "id": 3,
+                "q": "¿Qué alimento está contraindicado en menores de 1 año?",
+                "options": [
+                    "Purés de verduras",
+                    "Miel",
+                    "Cereales sin gluten"
+                ],
+                "correct": 1,
+                "explanation": "Miel: riesgo de botulismo infantil."
+            },
+            {
+                "id": 4,
+                "q": "La lactancia materna exclusiva se recomienda hasta:",
+                "options": [
+                    "3 meses",
+                    "6 meses",
+                    "12 meses"
+                ],
+                "correct": 1,
+                "explanation": "OMS recomienda lactancia exclusiva hasta 6 meses."
+            },
+            {
+                "id": 5,
+                "q": "¿Qué son los ácidos grasos Omega-3?",
+                "options": [
+                    "Grasas saturadas nocivas",
+                    "Grasas esenciales (pescado azul, nueces)",
+                    "Carbohidratos simples"
+                ],
+                "correct": 1,
+                "explanation": "Saludables para el corazón y desarrollo cerebral."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Alergia",
+                "back": "Respuesta del sistema inmune. Puede causar anafilaxia (muerte)."
+            },
+            {
+                "front": "Intolerancia",
+                "back": "Problema digestivo, no implica sistema inmune. No es mortal."
+            },
+            {
+                "front": "Celiaquía",
+                "back": "Intolerancia permanente al gluten (trigo, cebada, centeno)."
+            },
+            {
+                "front": "Anafilaxia",
+                "back": "Reacción alérgica grave y potencialmente mortal."
+            },
+            {
+                "front": "Omega-3",
+                "back": "Grasas esenciales: pescado azul, nueces, linaza."
+            },
+            {
+                "front": "Vitamina D",
+                "back": "Esencial para huesos, se sintetiza con el sol."
+            },
+            {
+                "front": "Hierro Hemo",
+                "back": "Hierro de origen animal, mejor absorción."
+            },
+            {
+                "front": "Menú Basal",
+                "back": "Menú estándar sin adaptaciones dietéticas especiales."
+            },
+            {
+                "front": "Menú Adaptado",
+                "back": "Modificado para alergias, intolerancias o patologías."
+            },
+            {
+                "front": "Miel <1 año",
+                "back": "Contraindicada por riesgo de botulismo infantil."
+            }
+        ]
+    },
+    "3-3": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "¿Cómo debe prepararse un menú para alérgicos?",
+                "options": [
+                    "Al final de la jornada",
+                    "Primero, en zona separada y con utensilios exclusivos",
+                    "Con los demás menús"
+                ],
+                "correct": 1,
+                "explanation": "Evitar contaminación cruzada es prioritario."
+            },
+            {
+                "id": 2,
+                "q": "¿Qué son las 'trazas' de alérgenos?",
+                "options": [
+                    "Cantidades grandes",
+                    "Cantidades mínimas por contaminación cruzada accidental",
+                    "Ingredientes principales"
+                ],
+                "correct": 1,
+                "explanation": "Incluso pequeñas cantidades pueden causar reacción en alérgicos."
+            },
+            {
+                "id": 3,
+                "q": "El etiquetado de alérgenos es obligatorio desde:",
+                "options": [
+                    "Siempre",
+                    "Reglamento 1169/2011 (UE)",
+                    "Solo en restaurantes"
+                ],
+                "correct": 1,
+                "explanation": "Obliga a informar de los 14 alérgenos en productos y menús."
+            },
+            {
+                "id": 4,
+                "q": "¿Qué color de tabla se suele usar para pescado?",
+                "options": [
+                    "Roja",
+                    "Verde",
+                    "Azul"
+                ],
+                "correct": 2,
+                "explanation": "Azul pescado, Roja carnes, Verde verduras."
+            },
+            {
+                "id": 5,
+                "q": "¿Qué es una 'ficha técnica de plato'?",
+                "options": [
+                    "Lista de precios",
+                    "Documento con ingredientes, alérgenos, gramajes y proceso",
+                    "Menú del día"
+                ],
+                "correct": 1,
+                "explanation": "Detalla toda la información del plato para trazabilidad y alérgenos."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Trazas",
+                "back": "Cantidades mínimas de alérgeno por contaminación cruzada."
+            },
+            {
+                "front": "Reglamento 1169/2011",
+                "back": "Normativa UE sobre información alimentaria y alérgenos."
+            },
+            {
+                "front": "Tabla Azul",
+                "back": "Para pescado y marisco."
+            },
+            {
+                "front": "Tabla Roja",
+                "back": "Para carnes crudas."
+            },
+            {
+                "front": "Tabla Verde",
+                "back": "Para verduras y hortalizas."
+            },
+            {
+                "front": "Tabla Blanca",
+                "back": "Para lácteos y productos cocidos."
+            },
+            {
+                "front": "Tabla Amarilla",
+                "back": "Para aves crudas."
+            },
+            {
+                "front": "Ficha Técnica",
+                "back": "Documento con ingredientes, alérgenos, gramajes, proceso."
+            },
+            {
+                "front": "Utensilios Exclusivos",
+                "back": "Usar herramientas separadas para alérgicos (evitar contaminación)."
+            },
+            {
+                "front": "Protección Alérgicos",
+                "back": "Cocinar primero, zona limpia, avisar a comensales."
+            }
+        ]
+    },
+    "3-4": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "REPASO: ¿Cuántos son los alérgenos obligatorios?",
+                "options": [
+                    "10",
+                    "14",
+                    "18"
+                ],
+                "correct": 1,
+                "explanation": "14 según Reglamento 1169/2011."
+            },
+            {
+                "id": 2,
+                "q": "REPASO: ¿Qué ley protege los datos personales en España?",
+                "options": [
+                    "LO 3/2007",
+                    "LO 3/2018",
+                    "LO 2/2006"
+                ],
+                "correct": 1,
+                "explanation": "LO 3/2018 de Protección de Datos."
+            },
+            {
+                "id": 3,
+                "q": "REPASO: Una dieta hipoproteica está indicada en:",
+                "options": [
+                    "Deportistas",
+                    "Pacientes renales",
+                    "Niños en crecimiento"
+                ],
+                "correct": 1,
+                "explanation": "Reducción de proteínas para proteger el riñón."
+            },
+            {
+                "id": 4,
+                "q": "REPASO: ¿Qué es la anafilaxia?",
+                "options": [
+                    "Reacción digestiva leve",
+                    "Reacción alérgica grave y potencialmente mortal",
+                    "Intolerancia al lactosa"
+                ],
+                "correct": 1,
+                "explanation": "Puede causar shock anafiláctico."
+            },
+            {
+                "id": 5,
+                "q": "REPASO: ¿Qué color de tabla se usa para aves?",
+                "options": [
+                    "Azul",
+                    "Amarilla",
+                    "Verde"
+                ],
+                "correct": 1,
+                "explanation": "Amarilla para separar aves de otras carnes (Salmonella)."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Dieta Hipoproteica",
+                "back": "Baja en proteínas, indicada en enfermedad renal."
+            },
+            {
+                "front": "Dieta Astringente",
+                "back": "Para tratar diarrea: arroz, zanahoria, manzana sin piel."
+            },
+            {
+                "front": "Dieta Blanda",
+                "back": "Fácil digestión: purés, cocidos, sin fibra ni grasas."
+            },
+            {
+                "front": "Dieta Sin Sal",
+                "back": "Hiposódica, para hipertensión o problemas cardíacos."
+            },
+            {
+                "front": "Alimentación Complementaria",
+                "back": "Introducción de sólidos a partir de los 6 meses."
+            },
+            {
+                "front": "BLW",
+                "back": "Baby-Led Weaning: bebé se alimenta solo con trozos blandos."
+            },
+            {
+                "front": "Sulfitos",
+                "back": "Alérgeno en vinos, frutos secos tratados, mariscos."
+            },
+            {
+                "front": "Altramuz/Lupino",
+                "back": "Alérgeno en harinas, productos sin gluten."
+            },
+            {
+                "front": "Consentimiento RGPD",
+                "back": "Libre, específico, informado e inequívoco."
+            },
+            {
+                "front": "Derecho al Olvido",
+                "back": "Derecho a solicitar eliminación de datos personales."
+            }
+        ]
+    },
+    "4-1": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "REPASO GLOBAL: ¿Qué artículo CE establece la igualdad ante la ley?",
+                "options": [
+                    "Art. 9",
+                    "Art. 14",
+                    "Art. 27"
+                ],
+                "correct": 1,
+                "explanation": "Art. 14 CE: igualdad y no discriminación."
+            },
+            {
+                "id": 2,
+                "q": "REPASO GLOBAL: ¿Cuál es la temperatura de refrigeración correcta?",
+                "options": [
+                    "5-10ºC",
+                    "0-4ºC",
+                    "-18ºC"
+                ],
+                "correct": 1,
+                "explanation": "Refrigeración entre 0ºC y 4ºC."
+            },
+            {
+                "id": 3,
+                "q": "REPASO GLOBAL: ¿Qué ley regula la Admin. de Navarra?",
+                "options": [
+                    "LO 3/2007",
+                    "Ley Foral 11/2019",
+                    "LORAFNA"
+                ],
+                "correct": 1,
+                "explanation": "LF 11/2019 de Administración de la CF Navarra."
+            },
+            {
+                "id": 4,
+                "q": "REPASO GLOBAL: ¿Qué significa APPCC?",
+                "options": [
+                    "Acción de Prevención",
+                    "Análisis de Peligros y Puntos de Control Crítico",
+                    "Asociación de Cocineros"
+                ],
+                "correct": 1,
+                "explanation": "Sistema preventivo obligatorio en seguridad alimentaria."
+            },
+            {
+                "id": 5,
+                "q": "REPASO GLOBAL: El Título VIII CE regula:",
+                "options": [
+                    "La Corona",
+                    "El Gobierno",
+                    "La Organización Territorial del Estado"
+                ],
+                "correct": 2,
+                "explanation": "Municipios, provincias y CC.AA."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Art. 1 CE",
+                "back": "España: Estado social y democrático de Derecho; Soberanía popular; Monarquía parlamentaria."
+            },
+            {
+                "front": "Art. 14 CE",
+                "back": "Igualdad ante la ley."
+            },
+            {
+                "front": "Art. 43 CE",
+                "back": "Derecho a la protección de la salud."
+            },
+            {
+                "front": "LORAFNA",
+                "back": "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra."
+            },
+            {
+                "front": "LF 11/2019",
+                "back": "Administración de la CF Navarra y Sector Público Institucional."
+            },
+            {
+                "front": "LO 3/2007",
+                "back": "Igualdad efectiva entre mujeres y hombres."
+            },
+            {
+                "front": "LO 3/2018",
+                "back": "Protección de Datos Personales."
+            },
+            {
+                "front": "Zona de Peligro",
+                "back": "5ºC a 65ºC: proliferación bacteriana rápida."
+            },
+            {
+                "front": "PCC",
+                "back": "Punto de Control Crítico en APPCC."
+            },
+            {
+                "front": "14 Alérgenos",
+                "back": "Gluten, crustáceos, huevos, pescado, cacahuetes, soja, lácteos, frutos cáscara, apio, mostaza, sésamo, sulfitos, altramuces, moluscos."
+            }
+        ]
+    },
+    "4-2": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "REPASO TÉCNICO: ¿Qué es el 'blanqueado'?",
+                "options": [
+                    "Cocción larga",
+                    "Cocción corta + enfriado rápido",
+                    "Fritura profunda"
+                ],
+                "correct": 1,
+                "explanation": "Fija color y textura de verduras."
+            },
+            {
+                "id": 2,
+                "q": "REPASO TÉCNICO: ¿Cuáles son las salsas madre?",
+                "options": [
+                    "Mayonesa y Ketchup",
+                    "Española, Velouté, Bechamel, Tomate, Holandesa",
+                    "Pesto y Alioli"
+                ],
+                "correct": 1,
+                "explanation": "Las 5 salsas madre de Escoffier."
+            },
+            {
+                "id": 3,
+                "q": "REPASO TÉCNICO: ¿Qué es un 'fondo'?",
+                "options": [
+                    "Salsa terminada",
+                    "Caldo base para salsas y guisos",
+                    "Postre"
+                ],
+                "correct": 1,
+                "explanation": "Base líquida: huesos, verduras, agua, cocción larga."
+            },
+            {
+                "id": 4,
+                "q": "REPASO TÉCNICO: ¿Qué es el Círculo de Sinner?",
+                "options": [
+                    "Modelo de organización",
+                    "Factores de limpieza: Temperatura, Tiempo, Mecánica, Química",
+                    "Plan de cocina"
+                ],
+                "correct": 1,
+                "explanation": "Si falla uno, compensar con otros."
+            },
+            {
+                "id": 5,
+                "q": "REPASO TÉCNICO: Temperatura mínima de regeneración:",
+                "options": [
+                    "55ºC",
+                    "65ºC",
+                    "74ºC"
+                ],
+                "correct": 1,
+                "explanation": "Alcanzar >65ºC en el centro del producto."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "5 Salsas Madre",
+                "back": "Española, Velouté, Bechamel, Tomate, Holandesa."
+            },
+            {
+                "front": "Fondo",
+                "back": "Caldo base: huesos + verduras + agua, cocción larga."
+            },
+            {
+                "front": "Roux",
+                "back": "Mantequilla + harina: espesante de salsas."
+            },
+            {
+                "front": "Blanqueado",
+                "back": "Cocción corta en agua hirviendo + enfriado rápido."
+            },
+            {
+                "front": "Brunoise",
+                "back": "Corte en dados muy pequeños (~3mm)."
+            },
+            {
+                "front": "Círculo Sinner",
+                "back": "Temperatura + Tiempo + Acción Mecánica + Acción Química."
+            },
+            {
+                "front": "Temp. Regeneración",
+                "back": "Mínimo 65ºC en el centro del producto."
+            },
+            {
+                "front": "Temp. Fritura",
+                "back": "160-180ºC ideal."
+            },
+            {
+                "front": "Temp. Congelación",
+                "back": "-18ºC o inferior."
+            },
+            {
+                "front": "Abatimiento",
+                "back": "Enfriar de 65ºC a 3ºC en <90 minutos."
+            }
+        ]
+    },
+    "4-3": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "SIMULACRO: Art. 1.2 CE establece que la soberanía reside en:",
+                "options": [
+                    "El Rey",
+                    "El Gobierno",
+                    "El pueblo español"
+                ],
+                "correct": 2,
+                "explanation": "La soberanía nacional reside en el pueblo español."
+            },
+            {
+                "id": 2,
+                "q": "SIMULACRO: ¿Cuál es la Zona de Peligro?",
+                "options": [
+                    "0-4ºC",
+                    "5-65ºC",
+                    ">100ºC"
+                ],
+                "correct": 1,
+                "explanation": "Rango donde proliferan bacterias rápidamente."
+            },
+            {
+                "id": 3,
+                "q": "SIMULACRO: ¿Qué es la trazabilidad?",
+                "options": [
+                    "Sabor del alimento",
+                    "Seguir el rastro en todas las etapas",
+                    "Caducidad"
+                ],
+                "correct": 1,
+                "explanation": "Del campo a la mesa."
+            },
+            {
+                "id": 4,
+                "q": "SIMULACRO: ¿Cuántos alérgenos obligatorios hay?",
+                "options": [
+                    "10",
+                    "14",
+                    "20"
+                ],
+                "correct": 1,
+                "explanation": "14 según Reglamento 1169/2011."
+            },
+            {
+                "id": 5,
+                "q": "SIMULACRO: Capital de Navarra:",
+                "options": [
+                    "Tudela",
+                    "Estella",
+                    "Pamplona"
+                ],
+                "correct": 2,
+                "explanation": "Art. 4 LORAFNA."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Art. 1.2 CE",
+                "back": "Soberanía nacional reside en el pueblo español."
+            },
+            {
+                "front": "Art. 14 CE",
+                "back": "Igualdad ante la ley."
+            },
+            {
+                "front": "Título VIII CE",
+                "back": "Organización Territorial del Estado (CC.AA.)."
+            },
+            {
+                "front": "LORAFNA Art. 4",
+                "back": "La capital de Navarra es Pamplona."
+            },
+            {
+                "front": "Zona de Peligro",
+                "back": "5ºC a 65ºC."
+            },
+            {
+                "front": "Trazabilidad",
+                "back": "Seguir el rastro del alimento en todas las etapas."
+            },
+            {
+                "front": "14 Alérgenos",
+                "back": "Lista: gluten, crustáceos, huevos..."
+            },
+            {
+                "front": "APPCC",
+                "back": "Análisis de Peligros y Puntos de Control Crítico."
+            },
+            {
+                "front": "LF 11/2019",
+                "back": "Ley de Administración de la CF Navarra."
+            },
+            {
+                "front": "LO 3/2007",
+                "back": "Igualdad de mujeres y hombres."
+            }
+        ]
+    },
+    "4-4": {
+        "quiz": [
+            {
+                "id": 1,
+                "q": "FINAL: España según Art. 1 CE es:",
+                "options": [
+                    "República",
+                    "Estado social y democrático de Derecho",
+                    "Monarquía absoluta"
+                ],
+                "correct": 1,
+                "explanation": "Estado social y democrático de Derecho."
+            },
+            {
+                "id": 2,
+                "q": "FINAL: Temperatura de congelación:",
+                "options": [
+                    "-10ºC",
+                    "-18ºC",
+                    "-5ºC"
+                ],
+                "correct": 1,
+                "explanation": "-18ºC o inferior."
+            },
+            {
+                "id": 3,
+                "q": "FINAL: ¿Qué protege la LO 3/2018?",
+                "options": [
+                    "Igualdad",
+                    "Datos personales",
+                    "Medio ambiente"
+                ],
+                "correct": 1,
+                "explanation": "Protección de Datos Personales."
+            },
+            {
+                "id": 4,
+                "q": "FINAL: El Parlamento de Navarra es:",
+                "options": [
+                    "Bicameral",
+                    "Unicameral",
+                    "Tricameral"
+                ],
+                "correct": 1,
+                "explanation": "Unicameral según LORAFNA."
+            },
+            {
+                "id": 5,
+                "q": "FINAL: ¿Qué es la contaminación cruzada?",
+                "options": [
+                    "Aire contaminado",
+                    "Transferencia de bacterias de crudos a cocinados",
+                    "Uso de químicos"
+                ],
+                "correct": 1,
+                "explanation": "Por contacto directo o indirecto (utensilios)."
+            }
+        ],
+        "flashcards": [
+            {
+                "front": "Estado Art. 1 CE",
+                "back": "Social, democrático, de Derecho. Monarquía parlamentaria."
+            },
+            {
+                "front": "Temp. -18ºC",
+                "back": "Congelación correcta."
+            },
+            {
+                "front": "LO 3/2018",
+                "back": "Protección de Datos Personales."
+            },
+            {
+                "front": "Parlamento Navarra",
+                "back": "Unicameral."
+            },
+            {
+                "front": "Contaminación Cruzada",
+                "back": "Transferencia bacterias crudos → cocinados."
+            },
+            {
+                "front": "Marcha Adelante",
+                "back": "Principio de flujo para evitar contaminación cruzada."
+            },
+            {
+                "front": "Muestras Testigo",
+                "back": "Guardar 5-7 días por alerta alimentaria."
+            },
+            {
+                "front": "Límite Crítico",
+                "back": "Valor que separa aceptable de inaceptable."
+            },
+            {
+                "front": "Prerrequisitos",
+                "back": "Planes básicos antes del APPCC (L+D, Plagas...)."
+            },
+            {
+                "front": "¡Éxito!",
+                "back": "Has completado el programa. ¡Suerte en tu examen!"
+            }
+        ]
+    }
+}

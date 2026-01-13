@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "topicId": 1,
+        "text": "Según el Art. 1 de la Constitución Española, España se constituye en:",
+        "options": [
+            "Un Estado federal de monarquía parlamentaria.",
+            "Un Estado social y democrático de Derecho.",
+            "Una República federal con autonomías."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 2,
+        "topicId": 1,
+        "text": "¿Cuál es el artículo de la Constitución que regula el derecho a la igualdad ante la ley?",
+        "options": [
+            "Artículo 10",
+            "Artículo 14",
+            "Artículo 23"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 3,
+        "topicId": 1,
+        "text": "El Título VIII de la Constitución trata sobre:",
+        "options": [
+            "La Corona",
+            "El Gobierno y la Administración",
+            "La Organización Territorial del Estado"
+        ],
+        "correctIndex": 2,
+        "verified": true
+    },
+    {
+        "id": 4,
+        "topicId": 1,
+        "text": "Según el Art. 149 CE, ¿qué competencia es exclusiva del Estado?",
+        "options": [
+            "La sanidad e higiene.",
+            "La legislación laboral.",
+            "El urbanismo."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 5,
+        "topicId": 9,
+        "text": "La temperatura de conservación de alimentos refrigerados debe mantenerse entre:",
+        "options": [
+            "0ºC y 4ºC",
+            "5ºC y 10ºC",
+            "-18ºC y -12ºC"
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 6,
+        "topicId": 9,
+        "text": "¿Qué es la 'Zona de Peligro' en seguridad alimentaria?",
+        "options": [
+            "Rango de temperaturas entre 5ºC y 65ºC donde las bacterias se multiplican rápidamente.",
+            "Área de la cocina donde se manipulan cuchillos.",
+            "Zona de la cámara frigorífica con riesgo de congelación."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 7,
+        "topicId": 10,
+        "text": "El principio de 'Marcha hacia adelante' en cocina significa que:",
+        "options": [
+            "El personal siempre camina en una dirección.",
+            "Los alimentos crudos y cocinados no deben cruzarse para evitar contaminación.",
+            "Los platos deben salir del pase lo más rápido posible."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 8,
+        "topicId": 10,
+        "text": "¿Qué es el 'Cuarto Frío' en una cocina profesional?",
+        "options": [
+            "La cámara de congelación.",
+            "La zona climatizada (12-16ºC) para manipular productos perecederos.",
+            "El almacén de productos secos."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 9,
+        "topicId": 20,
+        "text": "En la elaboración de mayonesa, ¿cuál es el mayor riesgo microbiológico?",
+        "options": [
+            "Listeria monocytogenes",
+            "Salmonella (por el huevo crudo)",
+            "Clostridium botulinum"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 10,
+        "topicId": 20,
+        "text": "El 'punto de humo' de un aceite es:",
+        "options": [
+            "La temperatura a la que el aceite empieza a humear y degradarse.",
+            "La temperatura ideal para freír.",
+            "El momento en que el aceite se solidifica."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 11,
+        "topicId": 8,
+        "text": "Un detergente con pH alcalino es ideal para eliminar:",
+        "options": [
+            "Cal y minerite.",
+            "Grasas y suciedad orgánica.",
+            "Óxido y corrosión."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 12,
+        "topicId": 8,
+        "text": "¿Qué es un 'biofilm'?",
+        "options": [
+            "Una película de plástico para conservar alimentos.",
+            "Una capa de bacterias adheridas a una superficie, protegidas por una matriz.",
+            "Un tipo de desinfectante."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 13,
+        "topicId": 11,
+        "text": "La trazabilidad alimentaria permite:",
+        "options": [
+            "Conocer el origen y el recorrido de un alimento en todas sus etapas.",
+            "Medir la temperatura de un alimento.",
+            "Calcular las calorías de un plato."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 14,
+        "topicId": 21,
+        "text": "El método de cocción 'al vacío' (sous-vide) consiste en:",
+        "options": [
+            "Cocinar en una olla a presión.",
+            "Cocinar alimentos envasados al vacío a temperatura controlada en agua.",
+            "Deshidratar alimentos con aire caliente."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 15,
+        "topicId": 21,
+        "text": "¿Qué es el 'abatimiento rápido' de temperatura?",
+        "options": [
+            "Enfriar un alimento de 65ºC a 3ºC en menos de 2 horas.",
+            "Congelar un alimento lentamente.",
+            "Calentar un alimento rápidamente."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 16,
+        "topicId": 3,
+        "text": "¿Qué establece la LORAFNA sobre el territorio de Navarra?",
+        "options": [
+            "Que está integrado por la provincia de Pamplona.",
+            "Que lo integra el territorio histórico de la antigua Navarra.",
+            "Que forma parte de la Comunidad Autónoma Vasca."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 17,
+        "topicId": 5,
+        "text": "Según la Ley Foral 11/2019, los Organismos Autónomos de Navarra se caracterizan por:",
+        "options": [
+            "Tener personalidad jurídica propia.",
+            "No tener patrimonio propio.",
+            "Depender directamente del Gobierno de España."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 18,
+        "topicId": 2,
+        "text": "El Defensor del Pueblo de Navarra es elegido por:",
+        "options": [
+            "El Gobierno de Navarra.",
+            "El Parlamento de Navarra.",
+            "El Consejo de Navarra."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 19,
+        "topicId": 19,
+        "text": "En la alimentación infantil, ¿qué alimento está contraindicado en menores de 1 año?",
+        "options": [
+            "Purés de verduras.",
+            "Miel.",
+            "Cereales sin gluten."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 20,
+        "topicId": 19,
+        "text": "La introducción de alimentos sólidos (alimentación complementaria) se recomienda a partir de:",
+        "options": [
+            "Los 3 meses.",
+            "Los 6 meses.",
+            "El año de edad."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    }
+]

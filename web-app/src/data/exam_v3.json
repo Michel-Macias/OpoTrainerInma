@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "topicId": 1,
+        "text": "El artículo 9.3 CE garantiza el principio de:",
+        "options": [
+            "Legalidad, jerarquía normativa y seguridad jurídica.",
+            "Igualdad territorial.",
+            "Libertad de empresa."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 2,
+        "topicId": 1,
+        "text": "¿Qué artículo de la CE recoge el derecho a la protección de la salud?",
+        "options": [
+            "Artículo 39",
+            "Artículo 43",
+            "Artículo 50"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 3,
+        "topicId": 1,
+        "text": "Los estatutos de autonomía se aprueban mediante:",
+        "options": [
+            "Decreto del Gobierno.",
+            "Ley Orgánica.",
+            "Orden Ministerial."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 4,
+        "topicId": 1,
+        "text": "Según el Art. 137 CE, el Estado se organiza territorialmente en:",
+        "options": [
+            "Municipios, provincias y comunidades autónomas.",
+            "Regiones y distritos.",
+            "Departamentos y prefecturas."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 5,
+        "topicId": 9,
+        "text": "¿A qué temperatura debe regenerarse un alimento cocinado?",
+        "options": [
+            "Al menos 55ºC en el centro.",
+            "Al menos 65ºC en el centro.",
+            "Al menos 75ºC en el centro."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 6,
+        "topicId": 9,
+        "text": "¿Cuánto tiempo pueden permanecer los alimentos calientes en el servicio antes de desecharse?",
+        "options": [
+            "1 hora",
+            "2 horas",
+            "4 horas"
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 7,
+        "topicId": 10,
+        "text": "En la distribución de una cocina, el 'cuarto caliente' es donde se realizan:",
+        "options": [
+            "Cocciones y preparaciones con calor.",
+            "Almacenamiento de congelados.",
+            "Lavado de utensilios."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 8,
+        "topicId": 10,
+        "text": "El 'economato' en una cocina es:",
+        "options": [
+            "La zona de recepción y almacenaje de materias primas.",
+            "El despacho del chef.",
+            "La zona de emplatado."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 9,
+        "topicId": 20,
+        "text": "El 'golpe de calor' (choque térmico) en alimentos hace referencia a:",
+        "options": [
+            "Calentar y enfriar bruscamente para eliminar microorganismos.",
+            "Freír a máxima temperatura.",
+            "Cocinar solo con horno."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 10,
+        "topicId": 20,
+        "text": "La técnica de 'confitar' consiste en:",
+        "options": [
+            "Cocinar lentamente sumergido en grasa a baja temperatura.",
+            "Ahumar con humo frío.",
+            "Deshidratar con sal."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 11,
+        "topicId": 8,
+        "text": "¿Qué producto se utiliza para eliminar depósitos de cal?",
+        "options": [
+            "Desengrasante alcalino.",
+            "Desincrustante ácido.",
+            "Lejía clorada."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 12,
+        "topicId": 8,
+        "text": "El aclarado tras la desinfección sirve para:",
+        "options": [
+            "Eliminar restos del desinfectante que podrían contaminar los alimentos.",
+            "Añadir brillo a las superficies.",
+            "Secar las superficies rápidamente."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 13,
+        "topicId": 11,
+        "text": "Un Punto de Control Crítico (PCC) es:",
+        "options": [
+            "Una fase donde se puede aplicar un control para eliminar o reducir un peligro.",
+            "El almacén de productos químicos.",
+            "La zona de recepción de mercancías."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 14,
+        "topicId": 21,
+        "text": "¿Qué es la pasteurización?",
+        "options": [
+            "Tratamiento térmico a alta temperatura (>100ºC) para esterilizar.",
+            "Tratamiento térmico moderado (~72ºC) para reducir patógenos sin esterilizar.",
+            "Congelación rápida para conservar propiedades."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 15,
+        "topicId": 21,
+        "text": "La cocción al vapor es ideal porque:",
+        "options": [
+            "Conserva mejor los nutrientes hidrosolubles que la cocción en agua.",
+            "Es más rápida que el microondas.",
+            "Elimina todos los alérgenos del alimento."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 16,
+        "topicId": 3,
+        "text": "El Amejoramiento del Fuero de Navarra tiene rango de:",
+        "options": [
+            "Ley ordinaria.",
+            "Ley Orgánica (LORAFNA).",
+            "Decreto-ley."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 17,
+        "topicId": 5,
+        "text": "Las sociedades públicas de Navarra se rigen por:",
+        "options": [
+            "Derecho privado.",
+            "Derecho público exclusivamente.",
+            "Derecho internacional."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 18,
+        "topicId": 2,
+        "text": "El Defensor del Pueblo de Navarra supervisa la actividad de:",
+        "options": [
+            "Las Cortes Generales.",
+            "La Administración de la Comunidad Foral.",
+            "Los tribunales de justicia."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 19,
+        "topicId": 19,
+        "text": "¿Cuál es la recomendación de la OMS sobre lactancia materna exclusiva?",
+        "options": [
+            "Hasta los 3 meses.",
+            "Hasta los 6 meses.",
+            "Hasta los 12 meses."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 20,
+        "topicId": 19,
+        "text": "Las dietas astringentes se recomiendan para:",
+        "options": [
+            "Tratar el estreñimiento.",
+            "Tratar la diarrea.",
+            "Aumentar de peso."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    }
+]
