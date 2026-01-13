@@ -1,7 +1,8 @@
 # 📑 Ficha de Repaso: [Nombre del Tema]
 
 ## 📌 Información General
-* **Tema número:** * **Normativa clave:** (Ej: Constitución, Ley Foral 11/2019, etc.)
+* **Tema número:** 
+* **Normativa clave:** (Ej: Constitución, Ley Foral 11/2019, etc.)
 * **Fecha de última actualización:** ---
 
 ## 🔑 Conceptos Clave
@@ -9,6 +10,17 @@
 1. 
 2. 
 3. 
+
+---
+
+## 🎯 Preguntas de Examen (Del PDF de Referencia)
+*Busca en `EXAMEN COCINEROS CASTELLANO.pdf` preguntas relacionadas y anótalas aquí.*
+* **Pregunta Nº:** [X]
+  * *Concepto preguntado:*
+  * *Respuesta correcta/truco:*
+* **Pregunta Nº:** [Y]
+  * *Concepto preguntado:*
+  * *Respuesta correcta/truco:*
 
 ---
 
@@ -35,8 +47,8 @@
 
 ---
 
-## 🍳 Conexión Parte Específica (Si aplica)
-*Para temas de cocina y nutrición.*
+## 🍳 Conexión Parte Específica (Solo Temas Técnicos)
+*Para temas de cocina, nutrición y seguridad alimentaria.*
 * **Temperatura crítica:**
 * **APPCC relacionado:**
 * **Alérgenos a vigilar:**
@@ -46,5 +58,6 @@
 ## ✅ Checklist de Repaso
 - [ ] Leído texto completo
 - [ ] Subrayado palabras clave
+- [ ] Mapeado preguntas del PDF Examen
 - [ ] Realizado test del tema
 - [ ] Esquema/Mapa mental hecho
