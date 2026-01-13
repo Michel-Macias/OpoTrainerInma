@@ -1,0 +1,4925 @@
+Guía de
+Buenas Prácticas de Higiene
+
+EN LA ELABORACIÓN
+Y S ERV I CIO DE CO MIDA S
+INSTITUTO DE SALUD PÚBLICA Y LABORAL DE NAVARRA
+
+Guía de
+Buenas Prácticas de Higiene
+en la Elaboración y Servicio de Comidas
+INSTITUTO DE SALUD PÚBLICA Y LABORAL DE NAVARRA
+
+Título:
+Guía de Buenas Prácticas de Higiene
+en la Elaboración y Servicio de Comidas
+
+Coordinación del proyecto:
+Instituto de Salud Pública y Laboral de Navarra
+
+Colaboración en la elaboración de este proyecto:
+Instituto de Salud Pública y Laboral de Navarra (ISPLN)
+Ayuntamiento de Pamplona
+Centro Nacional de Tecnología y Seguridad Alimentaria (CNTA)
+
+Edita:
+Instituto de Salud Pública y Laboral de Navarra
+@Gobierno de Navarra
+
+Año:
+Diciembre 2019
+
+Impresión:
+Ziur Navarra
+
+Depósito legal:
+NA 165-2020
+
+Índice
+Presentación
+
+6
+
+Objetivo y alcance de la Guía
+
+8
+
+Clasificación de establecimientos y registro de actividades
+
+9
+
+Bloque I: Buenas Prácticas de Higiene
+
+11
+
+1. Plan de formación del personal. Prácticas de higiene personales
+
+12
+
+2. Plan de mantenimiento de instalaciones, locales y equipos
+
+16
+
+3. Plan de limpieza y desinfección (L+D)
+
+20
+
+4. Plan de control de plagas
+
+26
+
+5. Plan de control de agua
+
+29
+
+6. Plan de control de residuos
+
+32
+
+Bloque II: Buenas Prácticas de Manipulación
+
+35
+
+7. Plan de control de temperaturas
+
+36
+
+8. Plan de control de alérgenos
+
+41
+
+9. Plan de control de trazabilidad
+
+44
+
+10. Buenas prácticas de compra, recepción, almacenamiento y venta
+
+46
+
+11. Normas básicas de preparación en cocina
+
+51
+
+Pautas generales de higiene en la cocina
+
+51
+
+Prevención de contaminación cruzada
+
+52
+
+Cocinado o cocción
+
+54
+
+12. Peligros por producto o proceso específico
+
+58
+
+Limpieza y desinfeccción de vegetales
+
+58
+
+Uso de productos de huevo
+
+59
+
+Uso de productos de la pesca
+
+60
+
+Uso de aceites de fritura
+
+62
+
+Congelación y descongelación
+
+63
+
+Abatimiento y regeneración
+
+64
+
+13. Servicio
+
+65
+
+14. Gestión de muestras testigo
+
+68
+
+Buenas Prácticas de Gestión
+
+69
+
+15. Gestión de incidencias
+
+70
+
+16. Revisión del sistema
+
+73
+
+Vehículos donde se elaboran comidas para la venta ambulante (Food trucks)
+
+75
+
+Establecimientos no permanentes
+
+78
+
+Anexos
+
+80
+
+PRESENTACIÓN
+La normativa de seguridad alimentaria en el Reglamento (CE) 852/2004 sobre la higiene de los productos alimenticios, exige a las empresas, entre otros requisitos, que
+dispongan de su propio sistema de autocontrol basado en el sistema de Análisis de
+Peligros y Puntos Críticos de Control (APPCC) como método preventivo para evitar los
+riesgos sanitarios relacionados con el consumo de alimentos. Este requisito se aplica
+en los establecimientos alimentarios de la Unión Europea y en todas las etapas de la
+cadena alimentaria, excepto la producción primaria y las actividades conexas.
+Con el objetivo de facilitar criterios de simplificación que faciliten la implantación de estos sistemas por microempresas, en septiembre de 2018 la Agencia Europea de Seguridad Alimentaria (EFSA), publicó la segunda opinión científica del documento “Enfoques
+del análisis de peligros para ciertos pequeños establecimientos”.
+La propuesta de EFSA se basa en que los operadores tengan un entendimiento básico
+de las fases del proceso y un control de los peligros a través de programas de prerrequisitos.
+Basándonos en este enfoque, el Instituto de Salud Pública y Laboral de Navarra
+(ISPLN) en colaboración con el Ayuntamiento de Pamplona y con la coordinación del
+Centro Nacional de Tecnología Alimentaria (CNTA), inició en enero de 2019, con
+la “Guía del comercio minorista, comercios no sedentarios y máquinas expendedoras”,
+la elaboración de una colección de guías con el fin de ayudar a las microempresas de
+diferentes sectores a aplicar un sistema de autocontroles que facilite el cumplimiento
+de sus objetivos de seguridad alimentaria, utilizando los documentos de registro imprescindibles.
+Se pretende que cada guía sea un documento de referencia, no solo para las empresas de los sectores a los que se dirige, sino también para el personal inspector, para
+facilitarle su tarea en la revisión de la aplicación de los sistemas de autocontrol por las
+empresas alimentarias de estos sectores con flexibilidad y con criterios homogéneos de
+control oficial.
+La guía que hoy presentamos, pretende servir tanto a las pequeñas empresas
+tradicionales de preparación y servicio de comidas, bares, cafeterías y restaurantes,
+como a las empresas que cuentan con nuevas formas de preparación y consumo de
+platos preparados no ligadas a establecimientos permanentes, los conocidos como
+Food trucks o restaurantes ambulantes.
+
+6
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Finalmente, quiero agradecer el trabajo del personal del ISPLN, del Ayuntamiento de
+Pamplona y CNTA, que han participado y colaborado en la elaboración de la guía, por su
+profesionalidad, la claridad y el rigor con los que se tratan sus contenidos.
+Pamplona, diciembre de 2019
+
+María Ángeles Nuin Villanueva
+
+Directora Gerente del Instituto de Salud Pública y Laboral de Navarra
+
+7
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Objetivo y alcance de la guía
+El objetivo de esta guía es presentar unas prácticas correctas de higiene que permitan
+garantizar la manipulación segura de alimentos para la venta en el sector de la
+restauración.
+Este documento servirá como base para que los establecimientos elaboren su
+procedimiento de autocontrol y apliquen las Buenas Prácticas adaptadas a su realidad.
+En el Anexo 1 “Datos generales” puedes encontrar una plantilla para utilizar
+como portada para tu procedimiento de autocontrol.
+Los establecimientos que se incluyen en esta guía son:
+Tipo
+
+Establecimientos
+sin cocina
+
+Descripción
+
+Ejemplos
+
+En los que se sirven bebidas y alimentos
+que se reciben listos para el consumo.
+
+Bares, espectáculos,
+pubs, cines, discotecas,
+panaderías con degustación
+etc.
+
+En los que se elaboran comidas
+destinadas a ser consumidas en el
+propio local, entregadas o transportadas
+para:
+Establecimientos con
+cocina
+
+Vehículos
+donde se elaboran
+comidas para la
+venta ambulante
+Establecimientos con
+cocina
+
+Establecimientos no
+permanentes
+
+a. Consumo directo, y/o
+b. Distribución. Siempre que esta
+actividad sea marginal y se realice
+a establecimientos de similares
+características ubicados en la
+Comunidad Foral de Navarra.
+Instalación móvil donde se elaboran
+comidas destinadas a ser consumidas,
+principalmente, en la vía pública.
+
+Instalaciones de las actividades
+anteriores, que no sean vehículos,
+ubicados en la vía pública o espacios
+interiores de forma ocasional para
+eventos, ferias...
+
+Restaurantes, pizzerías,
+hamburgueserías, bares
+y cafeterías con cocina,
+comedores colectivos y
+cocinas institucionales,
+obradores de comidas
+preparadas, etc.
+
+Food trucks, churrerías,
+croqueterías, elaboradores
+de talos, etc.
+
+Puestos ambulantes, carpas,
+tenderetes, etc.
+
+La aplicación de la guía puede variar según la naturaleza del establecimiento, el tipo de
+comida, el proceso de transformación y el servicio.
+Quedan excluidos del alcance de esta guía los establecimientos de restauración colectiva
+amparados por el Registro General Sanitario (RGSEAA) a los que se les exige el desarrollo
+e implantación de un sistema de Análisis de Peligros y Puntos Críticos de Control (APPCC)
+propio, de acuerdo al Reglamento Europeo 852/2004.
+
+8
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Clasificación de establecimientos y
+registro de actividades
+La legislación europea, nacional y de la Comunidad Foral, exige a los responsables de
+empresas alimentarias que notifiquen a la Autoridad Competente los establecimientos
+bajo su control en los que se realizan actividades de producción, transformación o distribución de alimentos. Con los datos suministrados se elabora el Registro Sanitario.
+Disponer de un Registro Sanitario permite conocer qué empresas de cada tipo existen,
+qué actividades realizan, dónde se ubican… de forma que se puedan establecer los sistemas de control necesarios con el fin de proteger la salud pública y los intereses de los
+consumidores.
+Las empresas alimentarias que elaboran, almacenan y distribuyen alimentos a nivel
+nacional se inscriben en el Registro General Sanitario de Empresas Alimentarias
+y Alimentos (RGSEAA).
+Las empresas a las que se dirige esta guía, que realizan actividades de preparación, elaboración, suministro, servicio y/o venta de alimentos en la Comunidad Foral, se regulan
+para temas de registro por la legislación navarra, siendo la Autoridad Competente el
+Instituto de Salud Pública y Laboral de Navarra (en adelante ISPLN) que se encarga, entre otros aspectos, de gestionar el Registro Sanitario Autonómico.
+Así debes actuar según cual sea tu negocio:
+
+Establecimientos sin
+cocina
+
+Establecimientos con
+cocina
+
+Debes comunicar al Instituto de Salud Pública y Laboral de Navarra
+los datos necesarios para que te incluyan en el Registro Sanitario
+Autonómico:
+•
+•
+
+Cuando inicias la actividad.
+Cuando modificas la actividad o los datos iniciales de
+inscripción.
+
+Para la instalación de vehículos ambulantes es necesario contar con
+la autorización del Ayuntamiento.
+Vehículos donde se
+elaboran comidas
+para la venta
+ambulante
+
+Establecimientos no
+permanentes
+
+No necesitas Registro Autonómico.
+Debes tener la autorización del Ayuntamiento en el que te
+vayas a instalar.
+
+9
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¡Recuerda!
+Es obligatorio comunicar al Registro Sanitario del ISPLN la actividad que
+desarrollas antes de su inicio.
+
+Para facilitar las tareas relacionadas con el Registro Sanitario Autonómico puedes contactar con la Unidad de Apoyo Técnico y Registro del Instituto de Salud Pública y
+Laboral de Navarra mediante tres vías:
+
+Teléfono 848 423 508
+Lo puedes utilizar para concertar una cita presencial en la
+que se resuelvan las dudas sobre trámites, documentos a
+presentar, exigencias de instalaciones y actividades a desarrollar.
+
+E-mail isp.registro.sanitario@navarra.es
+Por esta vía, se responden dudas relacionadas con la gestión
+del Registro y se recibe la documentación solicitada.
+
+Web
+http://www.navarra.es/home_es/Servicios/ficha/6623/
+Registro-Sanitario-Autonomico-de-empresas-alimentarias-y-alimentos
+Contiene información para que puedas tramitar correctamente el Registro Sanitario Autonómico.
+
+10
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Buenas
+Pr á c t i c a s
+De Higiene
+
+1
+
+Plan de formación del personal.
+Prácticas de higiene personales
+
+2
+
+Plan de mantenimiento de
+instalaciones, locales, y equipos
+
+3
+
+Plan de limpieza y desinfección (L+D)
+
+4
+
+Plan de control de plagas
+
+5
+
+Plan de control de agua
+
+6
+
+Plan de control de residuos
+
+1.
+
+Plan de formación del personal.
+Prácticas de higiene personales
+
+			
+
+El personal “manipulador de alimentos” es aquel que en su actividad profesional
+tiene relación con los alimentos en cualquiera de las fases de la cadena alimentaria hasta
+la venta.
+Las personas portamos bacterias y otros microorganismos en las manos, el pelo, la
+boca, la nariz. Además, durante el trabajo, se pueden manipular productos químicos (de
+limpieza o de mantenimiento), alérgenos (lácteos, pescado, etc.), que pueden suponer
+un riesgo para personas sensibles, y elementos físicos (como
+por ejemplo cuchillos, vidrios, etc.) que se pueden romper y
+pasar a los alimentos.
+Todo esto hace que las prácticas seguidas por los manipuladores
+tengan una influencia muy directa en la seguridad de los
+alimentos.
+Hacer las cosas de manera higiénica evita riesgos. Hacerlas
+mal aporta peligros que pueden provocar una enfermedad en
+el consumidor.
+En este capítulo se explican las Buenas Prácticas de Higiene
+para el personal manipulador y cómo cumplir con la legislación respecto a formación del
+personal.
+Conocer esas Buenas Prácticas es de vital importancia para mantener la seguridad de
+los alimentos.
+
+¿Qué debes hacer?
+1. Asegúrate de que las personas que trabajan en el establecimiento estén
+formadas en higiene.
+2. Cumple las Buenas Prácticas de Higiene.
+3. Toma acciones inmediatas cuando haya fallos.
+
+12
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Cómo hacerlo?
+Todo el personal tiene que seguir las BUENAS PRACTICAS DE HIGIENE que
+aparecen al final de este capítulo.
+Se sugiere colgar este documento visible para el personal a modo de recordatorio.
+Todo el personal manipulador tiene que estar FORMADO EN HIGIENE DE
+ALIMENTOS de acuerdo a su puesto de trabajo:
+• La formación se puede realizar interna o externamente. En cualquier
+caso, la persona formadora deberá estar capacitada.
+
+		
+
+• Se deben guardar documentos que demuestren:
+1. Los contenidos recibidos.
+2. Las fechas y personas asistentes a la formación, mediante:
+		
+		
+
+a) La anotación en el plan de formación interno si dispones de él.
+b) La conservación de los certificados emitidos por la entidad de formación.
+
+¡Recuerda!
+Todos los establecimientos incluidos en esta guía deben tener formada a su
+plantilla.
+La formación se demuestra mediante la aplicación de las Buenas Prácticas
+Higiénicas en el día a día.
+
+13
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+1. Revisión de la formación.
+Cuando contrates nuevo personal:
+
+•
+
+Comprueba si tiene formación en Buenas Prácticas de Higiene adecuada al
+trabajo que va a desempeñar.
+
+•
+
+En caso contrario, organiza el trabajo para que pueda recibir la formación
+necesaria.
+
+Periódicamente:
+
+•
+
+Revisa que el personal cumple con las Buenas Prácticas de Higiene.
+
+•
+
+En caso necesario, organiza las tareas para que pueda acceder a formación
+adecuada a las necesidades del trabajo.
+
+2. Revisión de las Buenas Prácticas de Higiene personales.
+A diario:
+
+•
+
+Fíjate si lo que hacéis coincide con las Buenas Prácticas de Higiene que están expuestas en el establecimiento.
+
+•
+
+Corrige de inmediato los fallos detectados.
+
+14
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+BUENAS PRÁCTICAS DE HIGIENE
+Lávate las manos con agua templada de forma
+frecuente y siempre que:
+•
+
+Te incorpores al puesto de trabajo y después de
+los descansos.
+
+•
+
+Toques utensilios y equipos de cocina sucios o
+vayas a tocar limpios.
+
+•
+
+Después de acudir al servicio, comer, fumar o
+manipular basuras.
+
+•
+
+Después de realizar limpiezas o mantenimientos.
+
+•
+
+Después de manipular dinero, si vas a tocar alimentos no envasados.
+
+•
+
+Después de tocarte el pelo, la boca o sonarte
+la nariz.
+
+•
+
+Cuantas veces lo requiera tu puesto de trabajo.
+
+•
+
+Si utilizas guantes, mantenlos limpios. Si son
+de un solo uso, cámbialos con frecuencia.
+
+La ropa de trabajo:
+Utilízala sólo para trabajar.
+Llévala limpia, lávala con la frecuencia necesaria.
+Cuando compres ropa de trabajo nueva:
+• Evita la que lleve elementos que se puedan
+desprender (corchetes, botones…) y opta por
+velcros, cintas… para el cierre.
+• Evita bolsillos en la parte superior del cuerpo.
+Los objetos que deposites en ellos pueden
+caer sobre los alimentos al agacharte.
+
+Comunica a tu jefe:
+Si padeces una enfermedad
+transmisible por alimentos.
+Si te encuentras mal.
+Mantén un aspecto pulcro.
+En la zona de cocina lleva el
+pelo recogido y cubierto.
+Si llevas barba, llévala arreglada.
+Paños de cocina:
+• Debes usar papel para
+operaciones en las que
+pueda haber contacto con
+los alimentos (ej. limpiar
+el borde de los platos) y
+para secarte las manos.
+• Para el resto de tareas
+puedes usar papel o paños limpios.
+• Para el secado de vajilla
+puedes usar papel o un
+paño de uso exclusivo.
+Cubre los cortes y heridas
+con vendajes impermeables
+y, en caso necesario, además,
+con un guante.
+
+¿Qué no debes hacer? (Prohibiciones)
+• Comer, beber y mascar chicle mientras manipulas alimentos.
+• Fumar en las instalaciones.
+• Llevar objetos que puedan caer al producto o que dificulten el lavado de manos (ejemplo:
+piercing visibles en nariz y boca, si se trabaja en cocina, o bien, uñas largas o postizas,
+pulseras, anillos con pedrería… cuando se trabaja en cocina o en cualquier otra actividad).
+• Toser o estornudar sobre los alimentos.
+• Utilizar y manipular productos y objetos que hayan caído al suelo.
+• Barrer o levantar polvo donde haya alimentos expuestos.
+• Probar alimentos con los dedos. Debes usar cubiertos limpios y lavarlos después de probar.
+
+2.
+
+Plan de mantenimiento de
+instalaciones, locales y equipos
+
+Unas instalaciones, locales o equipos en mal estado de conservación o funcionamiento
+aportan peligros que pueden llegar a suponer un riesgo para el consumidor.
+Un mantenimiento adecuado asegura un mejor funcionamiento de los equipos, un menor gasto y una mejor imagen.
+
+¿Qué debes hacer?
+1. Mantén el lugar de trabajo ordenado. La maquinaria y los útiles que están en
+desuso son fuente de acumulación de suciedad.
+2. Conserva y aplica las instrucciones de fabricantes de equipos (campanas extractoras, frigoríficos, lavavajillas, picadoras, cortadoras, etc.) y las recomendaciones del personal técnico de las instalaciones (ventilación, aire acondicionado, electricidad, etc.).Arregla las averías cuanto antes.
+3. Cumple tu plan de mantenimiento.
+4. Arregla las averías cuanto antes.
+5. Limpia la zona de trabajo tras realizar cualquier operación de mantenimiento
+por pequeña que sea.
+6. Preferiblemente se distinguirán zonas para:
+•
+
+Recepción y almacenamiento de materias primas.
+
+•
+
+Elaboración.
+
+•
+
+Almacenamiento de alimentos elaborados.
+
+•
+
+Servicio de alimentos.
+
+•
+
+Limpieza de utensilios.
+
+•
+
+Almacenamiento de residuos.
+
+•
+
+Almacenamiento de útiles de limpieza, siempre separados de los alimentos.
+
+•
+
+Personal, servicios y vestuarios, aunque en instalaciones pequeñas:
+-
+
+El personal puede utilizar los aseos de los clientes.
+
+-
+
+En vez de vestuario, se puede tener una taquilla fuera de la zona de
+elaboración.
+
+Si la separación física no es posible, separa las actividades en el tiempo. Por ejemplo, si preparas alimentos y lavas la vajilla en el mismo lugar, hazlo en diferente
+momento.
+
+16
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¡Recuerda!
+Evita cruces entre productos listos para el consumo y productos pendientes
+de preparación.
+Evita cruces entre productos sucios y limpios.
+
+¿Cómo hacerlo?
+COMPRUEBA QUE LAS INSTALACIONES Y EQUIPOS SE MANTIENEN
+ADECUADAMENTE
+Elabora un “Plan de mantenimiento” detallando:
+•
+
+La lista de elementos a mantener, incluyendo:
+1. Los equipos tanto de manipulación (campana extractora, lavavajillas, máquina de hielo, dispensador de refrescos, cortadoras, envasadoras, loncheadoras, neveras…) como de medición (termómetros, clorómetros).
+2. Las instalaciones generales (sistema de ventilación, aire acondicionado…).
+3. Cámaras frigoríficas: gomas, puertas, bisagras, evaporador.
+
+•
+
+Las operaciones que hay que realizar de forma periódica y la frecuencia
+con la que hay que realizar cada una de ellas. Para ello conviene que utilices como guía las instrucciones de los fabricantes o instaladores.
+
+•
+
+Quién va a realizar las operaciones (personal interno o empresa externa).
+
+El mantenimiento es muy variable en función de los equipos e instalaciones.
+Por ello, puedes utilizar las instrucciones de los fabricantes o instaladores como
+guía.
+
+17
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+COMPRUEBA QUE LAS CÁMARAS Y TERMÓMETROS MIDEN CORRECTAMENTE
+Si dispones de cámaras o vitrinas, deberás contar con termómetros para medir la
+temperatura.
+Es importante que te asegures de que miden correctamente, ya que vas a tomar
+decisiones según los valores que te indiquen.
+Para ello incluye en el “Plan de mantenimiento” como una operación planificada
+el control de los termómetros, tanto los asociados a una cámara como los independientes, si los tienes.
+Ten en cuenta que:
+
+•
+
+La frecuencia para comprobar un termómetro depende del uso que tenga.
+
+•
+
+La comprobación de un termómetro se puede hacer:
+a) Externamente en un laboratorio.
+b) Internamente, comparando con otro termómetro los valores y comprobando que no hay diferencias importantes.
+
+ACTÚA ANTE AVERÍAS Y DESPERFECTOS
+Si puedes, repara el equipo. Si no es posible, avisa a un técnico externo o sustitúyelo.
+
+¡Recuerda!
+Incluye en el Plan de mantenimiento los elementos de la instalación que se revisan
+con menor frecuencia (rejillas, evaporadores, instalaciones elevadas…).
+Es muy importante que la campana extractora tenga potencia suficiente para absorber el humo y los vapores generados.
+Debes tener, al menos, una instalación de accionamiento no manual para el lavado
+de manos, con agua fría y caliente y otros accesorios higiénicos de secado
+y lavado.
+
+18
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué no debes hacer?
+1. Trabajar con equipos que puedan aportar riesgos al alimento (oxidados, deteriorados, con
+pintura desconchada, con ranuras difíciles de
+limpiar, etc.).
+2. Emplear utensilios de madera (la madera se
+limpia peor y se puede astillar), excepto los
+tajos de corte en carnicerías.
+
+Para elaborar el plan puedes utilizar este modelo (se encuentra en el anexo 2):
+
+PLAN DE MANTENIMIENTO
+Equipo/ Instalación
+
+Operación de mantenimiento
+preventivo a realizar
+
+Responsable
+
+Fecha elaboración:
+Elaborado por:
+
+Frecuencia
+
+Observaciones
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+Cuando compres un nuevo equipo asegúrate de que es apto
+para
+contacto
+con alimentos.
+Anota
+en estael
+plantilla
+el mantenimiento
+de todos los equipos/instalaciones:
+-
+
+Detalla el listado de todas las máquinas e instalaciones.
+Indica la operación de mantenimiento (pintar, engrasar, revisar…), si la persona responsable es personal interno o una empresa externa
+y cuál es la frecuencia con la que se realiza.
+
+Como registros de mantenimiento archiva:
+
+•
+
+Las instrucciones sugeridas por los fabricantes o
+instaladores de equipos e instalaciones.
+
+•
+
+El plan de mantenimiento.
+
+•
+
+Los albaranes de las empresas externas de mantenimiento o reparación.
+
+19
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+3.
+
+Plan de limpieza y desinfección 				
+(L+D)
+
+Limpiar las instalaciones, locales, equipos y útiles elimina la suciedad que podría suponer un riesgo para las personas que van a consumir los alimentos.
+Desinfectar tras la limpieza, elimina microorganismos que podrían ocasionar enfermedades y/o deterioro de los alimentos.
+Además, unas instalaciones limpias mejoran el entorno de trabajo y la percepción del
+público sobre el establecimiento.
+
+¿Qué debes hacer?
+1. Elabora instrucciones para la limpieza de equipos de mayor riesgo. Incluye
+al menos: licuadora, cortadora, cafetera y dispensador de bebidas.
+2. Incluye en el plan de limpieza todos los elementos, también los de difícil
+acceso (no olvides incluir las mosquiteras, los desagües, los techos, las
+rejillas de ventilación, los aparatos anti-insectos…) que no son de limpieza
+diaria.
+3. Si dispones de vehículos aptos para el transporte de alimentos, debes incluir el compartimento de carga en el plan de limpieza.
+4. Utiliza productos aptos para la limpieza y la desinfección.
+•
+
+Los detergentes no necesitan una autorización específica para uso en
+la industria alimentaria. Son aptos, por ejemplo, los de uso doméstico.
+
+•
+
+Los desinfectantes, en cambio, sí deben estar autorizados específicamente. La autorización se refleja mediante un código de nueve dígitos
+seguidos de las letras “HA” (Higiene Alimentaria) o mediante la mención
+de “uso autorizado” en la industria alimentaria, que puedes encontrar
+en la etiqueta o en la ficha técnica del desinfectante.
+
+5. En general es mejor que no traspases los productos químicos de limpieza y
+mantenimiento a otros envases. Pero si lo haces:
+•
+
+No uses recipientes de uso alimentario.
+
+•
+
+Identifica claramente el nuevo envase con el nombre del producto que
+contiene.
+
+20
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué debes hacer?
+6. La lencería (manteles, servilletas, ropa de trabajo y paños de cocina):
+•
+
+Guarda por separado la lencería limpia y la sucia.
+
+•
+
+Ten suficientes recambios.
+
+7. Las bayetas y estropajos:
+•
+
+Lávalos y desinféctalos, como mínimo, a diario.
+
+•
+
+Cámbialos con la frecuencia necesaria.
+
+¿Qué no debes hacer?
+1. Emplear los mismos útiles para limpiar los aseos y
+las zonas en las que están los alimentos.
+2. Utilizar desinfectantes que no son aptos (no indican en el envase o la ficha HA o “apto para contacto con alimentos”).Utilizar lejía que no sea “apta
+para la desinfección del agua de bebida”.
+3. Desinfectar si antes no se ha limpiado la zona (el
+desinfectante sólo actúa cuando se ha eliminado la
+suciedad).
+4. Trabajar sobre superficies y/o con útiles sucios.
+5. Limpiar a la vez que se realizan otras actividades
+de manipulación de alimentos en la zona, de forma
+que éstos se puedan contaminar con salpicaduras.
+6. Limpiar las cámaras con los alimentos dentro.
+7. Utilizar agua no potable para la limpieza.
+8. “Limpiar” con utensilios (bayetas, estropajos, cepillos…) sucios. Lo que estás haciendo en realidad es
+trasladar la suciedad y ensuciar más.
+
+21
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Cómo hacerlo?
+Elabora un “Plan de limpieza” describiendo:
+1. Qué elementos hay que limpiar y cuáles, además, hay que desinfectar. Recuerda incluir bayetas y estropajos.
+2. Con qué frecuencia, teniendo en cuenta que como mínimo:
+•
+
+Los equipos/utensilios en contacto directo con los alimentos se deben
+limpiar cada vez que se utilicen.
+
+•
+
+Para los equipos/instalaciones de uso continuado (cámaras, vitrinas,
+almacenes…) tienes que establecer una frecuencia mínima de limpieza.
+
+•
+
+Cualquier elemento que no se haya utilizado durante un tiempo se debe
+limpiar antes del siguiente uso.
+
+3. Qué productos se utilizarán.
+4. Quién es el responsable de limpiar.
+5. Quién va a comprobar que la limpieza se ha realizado correctamente.
+Guarda en un lugar específico, separado de los alimentos, los productos, los útiles
+de limpieza y otros productos químicos.
+Ten en cuenta el Método general para realizar una limpieza/desinfección
+que figura en la siguiente página (se recomienda exponer una copia en el lugar
+en el que se guarden los productos de limpieza).
+Si tienes equipos que requieran desmontarse redacta una instrucción de limpieza
+específica
+
+Para elaborar el “Plan de limpieza” puedes utilizar este modelo (la plantilla completa
+está en el Anexo 3):
+
+PLAN DE LIMPIEZA
+Sala/ equipo/
+utensilio
+
+Frecuencia
+
+Productos de
+limpieza
+
+Responsable de
+limpiar
+
+22
+
+Responsable de
+comprobar
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Fecha elaboración:
+Elaborado por:
+
+Observaciones
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+La persona designada en el plan debe comprobar que la limpieza se ha efectuado correctamente, es decir, que las superficies, útiles, instalaciones y locales están limpios y desinfectados en su caso.
+El control se realiza mediante inspección visual al finalizar, comprobando el
+correcto orden y limpieza y la ausencia de:
+•
+
+Restos orgánicos.
+
+•
+
+Restos de espuma de detergente.
+
+•
+
+Restos de envases y embalajes.
+
+•
+
+Materias extrañas: polvo, barro, grasa, etc.
+
+Si los resultados del control no son correctos:
+•
+
+Limpia de nuevo.
+
+•
+
+Valora si es necesario formar al personal que realiza la limpieza.
+
+•
+
+Revisa si el plan de limpieza es adecuado o hay que hacer algún cambio.
+
+23
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Método general de
+limpieza / desinfección
+1. Eliminar la suciedad grosera y los restos de productos y elementos visibles.
+2. Enjuagar con agua.
+3. Aplicar el detergente en la dosis indicada por el fabricante. Frotar para
+hacer espuma y eliminar la suciedad incrustada.
+4. Aclarar con agua abundante.
+
+Cuando sea necesario (superficies en contacto con alimentos)
+
+5. Aplicar el desinfectante en la dosis indicada por el fabricante. Dejar el tiempo indicado. Para utensilios se puede aplicar por inmersión.
+6. Si la etiqueta del desinfectante lo indica aclarar con agua.
+7. Secar la superficie con papel de un solo uso.
+8. Lavar todos los útiles empleados en el proceso de limpieza de forma que
+queden limpios para el siguiente uso. Desinfectar bayetas y estropajos.
+9. Poner a secar estropajos y bayetas y guardarlos en lugar limpio.
+
+¡Recuerda!
+- El orden a seguir para limpiar un área es desde las zonas más elevadas hacia el
+suelo.
+- Nunca utilices los mismos utensilios para la limpieza de baños y suelos y para las
+zonas en contacto con los alimentos.
+- Es importante que vacíes por el WC o por el vertedero de aguas residuales el
+cubo de agua sucia tras la limpieza.
+
+24
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+LIMPIEZA DE VAJILLA
+Generalidades
+1. Separa la vajilla sucia y limpia.
+2. Almacena los utensilios y equipos en una zona limpia, evitando posibles
+contaminaciones.
+3. Lava los utensilios de cocina y servicio (platos, cubiertos…) tan pronto
+como sea posible.
+4. Pon a remojo los utensilios que no puedas lavar de inmediato.
+5. Es obligatorio utilizar el lavavajillas/lavavasos para las vajillas y cubiertos
+que no sean de un solo uso.
+6. Se recomienda utilizar el lavavajillas para todos los útiles que sea posible,
+por ejemplo, tablas de corte.
+7. Seca los equipos y utensilios de cocina con un paño limpio de uso exclusivo
+o con papel desechable antes de guardarlos.
+8. Verifica visualmente la limpieza y el estado de la vajilla, utensilios y equipos de cocina antes de cada uso. Límpialos de nuevo si es necesario.
+
+Lavado en lavavajillas
+1. Limpia diariamente el lavavajillas/lavavasos (vaciar la cuba, retirar la suciedad del filtro...).
+2. Utiliza el programa adecuado dependiendo de los objetos a lavar.
+3. Es importante dejar que se evapore el agua antes de sacar la vajilla.
+
+25
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+4.
+
+Plan de control de plagas
+
+Roedores, insectos, aves y otros animales contribuyen a la transmisión de enfermedades alimentarias y pueden provocar riesgos asociados al consumo de alimentos.
+
+¿Qué debes hacer?
+1. Toma medidas de forma inmediata cuando detectes la presencia de plagas,
+evitarás que el problema aumente.
+2. No introduzcas en el establecimiento productos en los que observes plagas.
+3. Nunca dejes restos de alimentos sin proteger, suciedad acumulada, agua
+estancada o basuras, ya que esto es una atracción para las plagas.
+4. Cuando contrates los servicios de una empresa de tratamiento de plagas
+sigue las pautas que te den.
+
+¿Qué no debes hacer?
+1. Permitir la entrada de animales domésticos a
+la zona de elaboración y almacenamiento de
+alimentos.
+2. Mantener en el local zonas no accesibles para
+la limpieza, con el tiempo pueden ser un
+refugio para las plagas.
+
+26
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Cómo hacerlo?
+MEDIDAS PASIVAS para evitar la entrada de las plagas:
+•
+
+Mantén la instalación en buen estado, sin grietas ni huecos.
+
+•
+
+Tapa los sumideros con rejillas de no retorno.
+
+•
+
+Coloca mallas mosquiteras en ventanas que abras para ventilar y otros
+huecos que puedan comunicar con el exterior.
+
+•
+
+Coloca burletes en puertas que dan al exterior si queda hueco entre las
+puertas y el suelo o la pared.
+
+•
+
+Evita que se acumule basura.
+
+•
+
+Mantén los alimentos almacenados en sus envases o protegidos en
+recipientes, de forma que no haya “comida disponible” para las plagas.
+
+•
+
+Almacena los alimentos separados del suelo y las paredes.
+
+MEDIDAS ACTIVAS
+Las puedes realizar tú mismo, siempre que no impliquen la manipulación de
+productos químicos.
+Por ejemplo, puedes poner en insectocutores y trampas de luz con tiras adhesivas
+para insectos voladores en distintos puntos de la instalación.
+Las trampas de luz con tiras adhesivas son más eficaces y limpias que los insectocutores.
+Los insectocutores tienen el peligro de que los insectos pueden caer sobre superficies y alimentos. Por eso, colócalos en zonas de paso, nunca encima de zonas
+de manipulación o de alimentos sin envasar.
+Es importante que indiques en un plano del local la posición de los elementos de
+control que tienes.
+En caso de plagas (presencia abundante de insectos, roedores...), deberás contratar a una empresa especializada para que aplique los productos químicos
+necesarios. En este caso es importante que:
+1. Te asegures de que tanto la empresa como las personas que aplican los
+tratamientos se encuentran autorizadas para realizar estas tareas.
+2. Guardes como registro:
+•
+
+Los documentos que demuestran la autorización de la empresa y las
+personas.
+
+•
+
+Los partes de trabajo de las actuaciones realizadas.
+
+27
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+De forma continua revisa que no hay indicios de actividad o presencia de plagas, entre otros:
+
+•
+
+Restos de insectos, pelos o heces de roedor.
+
+•
+
+Productos o envases roídos.
+
+•
+
+Huellas sobre polvo.
+
+Revisa periódicamente las medidas pasivas para comprobar que se mantienen
+correctamente (mallas mosquiteras limpias e íntegras, burletes en buen estado,
+etc.)
+Si tienes medidas activas, revísalas periódicamente para comprobar que funcionan correctamente y para ver si hay indicios de actividad.
+Cuando veas animales o indicios de su presencia, revisa las medidas que hayas
+implantado y adopta medidas extraordinarias en caso necesario.
+
+28
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+5.
+
+Plan de control de agua
+
+El agua, “en cualquiera de sus formas” (líquida, como hielo o en forma de vapor) utilizada en la manipulación de alimentos, la limpieza de las instalaciones o la higiene del
+personal debe ser potable.
+El uso de agua potable es la garantía de que, a través de la misma, no van a llegar
+microorganismos u otras sustancias indeseables que puedan suponer un riesgo para el
+consumo de alimentos.
+
+¿Qué debes hacer?
+1. Desmonta y limpia las boquillas de los grifos periódicamente para evitar que
+se acumule suciedad, ya que puede afectar a la calidad higiénica del agua que
+utilizas.
+2. Si tienes un depósito intermedio inclúyelo en el plan de limpieza.
+3. Sólo debes utilizar hielo y vapor que haya sido elaborado con agua potable.
+
+¿Qué no debes hacer?
+1. Utilizar agua no controlada.
+2. Utilizar el agua no clorada, turbia o con sabor/
+color/olor extraño.
+
+29
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Cómo hacerlo?
+•
+
+Comprueba que sale agua de todos los grifos del establecimiento y que tiene
+un sabor/color/olor normal.
+
+•
+
+Si el abastecimiento no es de la red pública, asegúrate de que la cloración es
+adecuada.
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+El agua del grifo puede llegar a tu establecimiento de 3 fuentes. El control depende de
+la fuente de origen:
+
+Fuente de
+suministro
+
+Qué tienes que
+controlar
+
+Con qué
+frecuencia
+
+Qué documentos
+tienes que guardar
+
+Red pública
+
+Color/olor/sabor/
+turbidez
+
+Continuo
+
+Recibos de pago
+
+Color/olor/sabor/
+turbidez
+
+Continuo
+
+Recibos de pago
+
+Presencia de cloro
+(máximo 1 ppm)
+
+Semanal
+
+Registro de control
+de cloro (ver ejemplo
+debajo)
+
+Una vez/día
+producción
+
+Registro de
+control de cloro
+
+Anual*
+
+Boletín analítico de
+laboratorio externo
+
+Depósito
+intermedio
+abastecido de
+la red pública
+
+Color/olor/sabor/
+turbidez
+Pozo/fuente
+propia
+
+Presencia de cloro
+(máximo 1 ppm)
+
+Análisis de
+control
+
+*Deberá realizar un número mínimo de análisis de control y análisis completos, según
+el volumen de agua (m3/día) y el criterio de la Autoridad Sanitaria.
+En caso de incidencias, utiliza otras fuentes de agua potable cuando los controles estén
+fuera de los límites.
+30
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Ejemplo de registro para el “Control de cloro”. La plantilla completa se encuentra en
+el Anexo 4:
+
+CONTROL DE CLORO
+Fecha
+
+Ok (de
+0.2 a 1
+ppm)
+
+No Ok
+
+(anotar
+valor)
+
+Año:
+Elaborado por:
+
+MEDIDAS CORRECTORAS
+
+Tras la comprobación, revisa el resultado:
+
+•
+
+Si no es normal, contacta con el abastecedor para ver si es un problema
+general.
+
+•
+
+Si no es un problema de la red general, avisa al servicio de mantenimiento
+y revisa el circuito de aguas.
+
+•
+
+Si el abastecimiento es con depósito intermedio o de pozo/fuente propia,
+además, revisa el sistema de potabilización para asegurar su adecuado
+funcionamiento.
+
+Anota en esta plantilla el control de cloro que realizas:
+- Indica la fecha de realización del control y señala la casilla Ok o No Ok según corresponda, anotando el valor cuando el resultado
+sea No Ok.
+- Detalla las medidas correctoras que has utilizado cuando el valor es No Ok.
+
+31
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+6.
+
+Plan de control de residuos
+
+Los residuos de la manipulación de alimentos son un foco de atracción para las
+plagas y para el crecimiento de microorganismos. Eliminar las basuras de forma
+frecuente e higiénica contribuye a limitar estos peligros.
+De forma general, los residuos generados por los establecimientos que se incluyen
+en esta guía se pueden clasificar como:
+
+•
+
+Asimilables a sólidos urbanos, reciclables o no.
+
+•
+
+Aceites de cocina usados.
+
+¿Qué debes hacer?
+1. Si la instalación cuenta con un recinto para el depósito de residuos, inclúyelo
+en el plan de limpieza y en el plan de control de plagas.
+2. Cuando el volumen de residuos lo haga necesario, deberás contar con contenedores para su recogida por el servicio de basuras.
+3. Conserva las grasas y aceites de cocina usados en un recipiente separado
+hasta su gestión.
+4. Guarda los envases retornables en una zona separada.
+
+¿Qué no debes hacer?
+Depositar los residuos fuera de los cubos/contenedores
+habilitados para ello.
+
+32
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Cómo hacerlo?
+RESIDUOS EN GENERAL
+Deposita los residuos en cubos/contenedores adecuadamente ubicados en la instalación, con las siguientes características:
+•
+
+Tapa de apertura no manual en el caso de residuos orgánicos.
+
+•
+
+Tamaño y capacidad adecuados.
+
+•
+
+Que se puedan limpiar y desinfectar fácilmente.
+
+•
+
+Estancos y provistos de bolsas de material impermeable.
+
+Retira los residuos tan pronto como sea posible, como mínimo:
+•
+
+Cuando los recipientes estén llenos.
+
+•
+
+Una vez al día, al finalizar la jornada en el caso de basura orgánica.
+
+Deposita los residuos de forma higiénica en los contenedores de Residuos Sólidos
+Urbanos o de reciclaje, según corresponda.
+Si el local tiene un recinto para el depósito de residuos:
+•
+
+Debe ser de uso exclusivo y estar aislado (con pared) del resto de dependencias.
+
+•
+
+No puede comunicar directamente con las zonas de manipulación o almacenamiento de alimentos.
+
+ACEITES DE COCINA
+Debes:
+1. Almacenarlos en contenedores específicos.
+2. Realizar la retirada con un gestor autorizado y conservar la documentación
+que lo acredita o llevarlos a un punto limpio.
+
+33
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+Comprueba de forma continua que:
+
+•
+
+No hay basura fuera de los cubos / contenedores.
+
+•
+
+Los cubos / contenedores están cerrados y no rebosan.
+
+•
+
+Los aceites de cocina usados están en los contenedores específicos.
+
+•
+
+Todos los recipientes se mantienen limpios.
+
+Corrige de forma inmediata las malas prácticas detectadas.
+
+34
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Buenas
+Pr á c t i c a s
+
+De Manipulación
+
+7
+
+Plan de control de temperaturas
+
+8
+
+Plan de control de alérgenos
+
+9
+
+Plan de control de trazabilidad
+
+10
+
+Buenas prácticas de compra, recepción,
+almacenamiento y venta de alimentos
+
+11
+
+Normas básicas de preparación en cocina
+
+12
+
+Peligros específicos por producto o proceso
+
+13
+
+Servicio
+
+7.
+
+Plan de control de temperaturas
+
+Las bacterias se multiplican de forma mayoritaria a temperaturas entre 8ºC y 37ºC.
+Las temperaturas bajas (de refrigeración o de congelación) hacen que el crecimiento
+bacteriano sea más lento y mantienen los alimentos en buenas condiciones durante
+más tiempo. De forma general:
+
+•
+
+La refrigeración a temperaturas entre 0ºC y 8ºC permite la conservación por
+unos días.
+
+•
+
+La congelación a temperaturas < -18ºC permite la conservación por unos meses.
+
+Para conseguir las temperaturas deseadas es fundamental asegurarse de que los equipos de frío funcionan adecuadamente.
+
+¡Recuerda!
+La fecha de caducidad o consumo preferente que establece el fabricante se cumple si se mantienen las condiciones de conservación que se indican en la etiqueta
+del alimento.
+
+¿Qué debes hacer?
+1. Introduce inmediatamente en las cámaras los alimentos que llegan al
+establecimiento refrigerados o congelados.
+2. Cuenta con un sistema de medida de temperatura:
+•
+
+Coloca las cámaras de forma que el termómetro sea visible.
+
+•
+
+Si alguna cámara no dispone de termómetro integrado, coloca uno en el
+interior de forma visible.
+
+3. No sobrepases la capacidad de carga de cada cámara. El aire debe circular
+entre los alimentos para mantenerlos refrigerados o congelados.
+4. Separa los productos listos para el consumo de los productos pendientes de preparación y los productos sucios de los limpios.
+5. Lo mejor es contar con cámaras específicas para cada tipo de alimento. Si no
+es posible, almacena los productos elaborados protegidos y aislados de las
+materias primas crudas.
+6. En cámaras grandes conviene recoger la temperatura en más de un punto.
+
+36
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué no debes hacer?
+•
+
+Volver a congelar alimentos.
+
+•
+
+Sobrepasar la temperatura indicada por el
+fabricante.
+
+•
+
+Descongelar
+ambiente.
+
+alimentos
+
+a
+
+temperatura
+
+¿Cómo hacerlo?
+•
+
+Si tienes más de una cámara, elabora un “Listado de cámaras” (ver ejemplo
+debajo), indicando para cada una la temperatura a que se regula, el tipo de
+producto que guardas en su interior y la ubicación.
+
+•
+
+Fíjate en el producto que necesita la temperatura más baja y regula la cámara
+a esa temperatura.
+
+Ejemplo de listado de cámaras. La plantilla completa se encuentra en el Anexo 5.
+
+LISTADO CÁMARAS
+Nº
+
+•
+
+Temperatura
+
+Productos almacenados
+
+¿Dónde está?
+
+Fecha elaboración:
+Elaborado por:
+
+Observaciones
+
+Conserva los productos a las temperaturas indicadas por el fabricante en la
+etiqueta.
+
+•
+
+A continuación, se muestra una tabla en la que se indican las temperaturas
+exigidas por la legislación en los siguientes productos:
+
+-
+
+En este documento se deben anotar todas las cámaras, su ubicación, los productos que almacenan y a qué temperatura.
+
+-
+
+Para establecer la temperatura de la cámara fíjate en la temperatura de conservación más baja de todos los productos que guardas en el
+interior.
+
+37
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Tª máxima
+
+Producto
+
+(salvo que la etiqueta del
+producto indique una Tª inferior)
+
+Lácteos refrigerados
+
+≤ 8ºC
+
+Carnes de mamíferos
+(cerdo, vacuno, cordero) y caza mayor
+
+≤ 7ºC
+
+Productos cárnicos
+(fiambres, jamón de york…)
+
+≤ 5ºC
+
+Carne picada
+
+≤ 2ºC
+
+Preparados de carne
+
+≤ 4ºC
+
+Aves y caza menor
+
+≤ 4ºC
+Próxima a la de
+fusión del hielo
+
+Pescado, moluscos y crustáceos frescos
+
+Productos Congelados
+
+≤ - 18ºC
+≤ 3ºC
+Salvo que la etiqueta del
+producto indique otra Tª
+
+Otros alimentos refrigerados
+
+En los productos que requieren refrigeración, asegúrate de respetar la siguiente pauta,
+tanto en cocina como en el servicio:
+
+Tiempo sin refrigerar
+
+Acción a realizar
+
+Menos de 2 horas
+
+•
+•
+
+Refrigerarlo ó
+Utilizarlo inmediatamente
+
+Entre 2 y 4 horas
+
+•
+
+Utilizarlo inmediatamente
+
+Más de 4 horas
+
+•
+
+Desecharlo
+
+38
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Conserva los platos preparados a las siguientes temperaturas (ver cap. 12 Abatimiento
+y Regeneración).
+Tipo de plato preparado
+
+Tª
+
+Platos elaborados en caliente y mantenidos
+calientes
+Platos elaborados en
+caliente en los que se
+ha abatido* la temperatura o elaborados en
+frío
+
+≥65ºC
+
+Si se consumen en menos de 24 horas
+
+≤8ºC
+
+Si se van a consumir
+pasadas 24 horas
+
+≤4ºC
+
+Platos preparados congelados
+
+≤-18ºC
+
+*Abatir consiste en enfriar rápidamente los alimentos. La temperatura interna de
+la comida baja de manera considerable en poco tiempo.
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+•
+
+Revisa a diario la temperatura que indican los termómetros de las cámaras
+y comprueba que no supera la que has fijado como máximo.
+
+•
+
+Ante incidencias, sigue las instrucciones del capítulo 15 “Gestión de incidencias” y anota las medidas correctoras. Puedes utilizar para ello el apartado
+“acciones” del registro ejemplo “Control de las temperaturas de cámaras”.
+
+•
+
+Se recomienda que tengas otro termómetro para comprobar que los de las
+cámaras funcionan correctamente. Comprueba periódicamente que entre lo
+que indica ese termómetro y el de la cámara no hay diferencias de más de
+0.5ºC.
+
+•
+
+Guarda como registro:
+
+•
+
+El “Control de las temperaturas de cámaras”.
+
+•
+
+Los albaranes de mantenimiento cuando arregles cámaras.
+
+39
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Ejemplo de registro de “Control de temperaturas de cámaras”.
+La plantilla completa se encuentra en el Anexo 6.
+
+Control de temperaturas de
+cámaras
+
+Fecha elaboración:
+Elaborado por:
+
+Temperatura de las cámaras
+Fecha
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Cuando al revisar la Tª se detecta ….
+
+Lo que debes hacer es…..
+
+Una subida leve inferior a 3ºC de Tª de la cámara:
+
+•
+•
+
+Ajusta el termostato y revisa en 2 horas.
+Si continua igual avisa al servicio técnico.
+
+•
+•
+
+Avisa al servicio técnico.
+No uses la cámara hasta
+que se repare.
+Avisa al servicio técnico.
+No uses la cámara hasta
+que se repare.
+
+Una subida importante de la Tª de la cámara superior a
+3ºC pero el producto continúa frío:
+Una subida importante de la Tª de la cámara superior a
+3ºC y el producto NO está frío:
+
+•
+•
+
+40
+
+10
+
+•
+
+Traslada los
+productos a
+otra cámara.
+
+•
+
+Desecha los
+productos.
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Acciones
+
+8.
+
+Plan de control de alérgenos
+
+¡Recuerda!
+El control de alérgenos es tu responsabilidad.
+Cuando seas tú el que vaya a comprar, también debes recoger y trasladar toda la
+información relativa a alérgenos.
+Identifica los alérgenos en el registro o ficha de cada plato. Tienes que hacer una
+lista con todos los que entran en tu establecimiento y con todos los productos que
+los contienen.
+Sigue las instrucciones del tríptico para informar a la clientela.
+Además, debes asegurarte de que el personal está formado.
+Hay personas extremadamente sensibles que pueden sufrir una reacción grave con
+una cantidad muy pequeña de alérgeno que esté en el plato como ingrediente o
+por contaminación cruzada.
+
+41
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+CACAHUETES
+
+GRANOS
+DE SÉSAMO
+
+HUEVOS
+
+Bebida y café
+
+Los alimentos y bebidas servidas
+en este establecimiento pueden
+contener sustancias o productos
+que causan alergias o intolerancias alimentarias. Antes de pedir
+su comida y bebida, por favor
+consulte con nuestro personal si
+desean conocer sus ingredientes.
+
+Si necesita cualquier información
+sobre los alérgenos de nuestros
+productos, por favor, consulte con
+nuestro personal de la Sección.
+
+Sección de Seguridad Alimentaria
+http://www.isp.navarra.es
+
+Para más información:
+Instituto de Salud Pública y Laboral de Navarra
+
+APIO
+
+ES RESPONSABILIDAD DE LA EMPRESA CONOCER
+QUÉ INGREDIENTES ALERGÉNICOS ESTÁN PRESENTES
+EN LOS ALIMENTOS QUE VENDEN Y PROPORCIONAR
+LA INFORMACIÓN CORRECTA AL CONSUMIDOR.
+
+SULFITOS
+DIÓXIDO
+DE AZUFRE
+
+Postres:
+- Flan de la casa: contiene huevo y leche
+- Fruta
+
+MOSTAZA
+
+Segundos:
+-Paella: contiene gambas y mejillones
+-Pollo a la plancha
+
+SULFITOS
+
+Ejemplos de carteles indicando
+dónde obtener la información
+
+SÉSAMO
+
+Primeros:
+- Ensalada: contiene huevo
+- Sopa de cocido: contiene trigo (gluten)
+- Espárragos: el aliño contiene soja
+
+Ejemplo de carta o menú
+
+p
+
+p
+
+Mejillones
+
+SOJA
+
+SOJA
+
+PESCADO
+
+FRUTOS DE
+CÁSCARA
+
+p
+
+p pp
+
+Merluza
+
+FRUTOS SECOS
+
+CRUSTÁCEOS
+
+MOSTAZA
+
+CEREALES QUE
+CONTIENEN
+GLUTEN
+
+PLATO
+Trigo
+
+CEREALES
+CON GLUTEN
+
+p
+
+HUEVOS
+
+Tarta de
+limón
+
+CRUSTÁCEOS
+
+p
+
+PESCADO
+
+Gambas
+
+CACAHUETES
+
+Risoto de
+pescado
+
+LECHE
+
+MOLUSCOS
+
+LÁCTEOS
+
+Ejemplo de un cuadro de platos con el contenido de alérgenos
+
+EJEMPLOS PRÁCTICOS
+
+MOLUSCOS
+
+APIO
+
+ALTRAMUCES
+
+Lista de los 14 ALÉRGENOS que deben identificarse
+cuando se utilicen como ingredientes en un plato
+
+Trip.Alergenos Cast:Maquetación 1 20/04/2016 11:49 Página 1
+
+ALTRAMUCES
+Depósito legal: NA - / 2016
+
+REGLAMENTO 1169/2011. Fecha de aplicación 13-12-2014.
+REAL DECRETO 126/2015. Entrada en vigor 05-03-2015.
+
+Guía para establecimientos
+de restauración colectiva
+según el nuevo reglamento
+de INFORMACION ALIMENTARIA
+AL CONSUMIDOR
+
+EN RESTAURACIÓN
+COLECTIVA
+
+ALÉRGENOS
+
+• En carteles o pizarras próximos
+a los alimentos (pinchos).
+• En las páginas web si se venden por internet.
+ORAL
+• Se deberá señalar en un cartel dónde y cómo pueden obtener la información.
+
+• Verificar el etiquetado de los productos y comprobar la lista de ingredientes.
+• Almacenar los ingredientes en sus recipientes originales. En caso de cambiar de recipiente, éste
+deberá estar cerrado y se conservar,a la información del etiquetado.
+• Los productos para personas alérgicas (sin gluten, sin huevo, …) se almacenarán separados del resto.
+• Archivar la documentación (albaranes, etiquetas) para mantener la trazabilidad (origen del producto).
+
+MANTENER LAS FICHAS ACTUALIZADAS
+
+• Si se produce un cambio de proveedor o ingrediente, se debe comprobar la composición.
+
+FORMACIÓN
+
+• Se mantendrá actualizada la formación del personal.
+
+• El personal debe conocer y aplicar las buenas prácticas
+de manipulación y tener acceso a la información sobre
+alérgenos.
+
+• Se formará a todo el personal de la empresa antes de
+que empiece a trabajar, cualquiera que sea su función.
+
+• No se debe eliminar un ingrediente alergénico de un plato listo para servir
+a una persona alérgica, ya que pueden quedar restos que no sean visibles.
+
+• No se guardarán estos menús con los normales. Se mantendrán protegidos
+e identificados.
+
+• Se debe conocer la composición de los ingredientes por si contienen algún alérgeno de
+los presentes en la lista de los 14 alérgenos.
+
+• Es conveniente prever menús específicos
+para personas alérgicas o intolerantes a
+algún alimento.
+
+• Se utilizarán aceites nuevos para freír y cocinar en freidora o sartén aparte,
+así como una plancha distinta para este tipo de menús .
+
+• Se comprobará que los ingredientes usados son los que constan en la ficha
+de elaboración y se utilizará siempre la misma receta.
+
+• Disponga de utensilios específicos para la elaboración de comidas
+destinadas a personas alérgicas (por ejemplo, de colores diferentes).
+
+• Antes de la preparación se comprobará que las superficies, los utensilios
+y la ropa de trabajo están limpios.
+
+• Es aconsejable preparar primero las comidas destinadas a personas
+alérgicas para minimizar el riesgo.
+
+MANIPULACIÓN: EVITAR LAS CONTAMINACIONES CRUZADAS
+
+• Se dispondrá de un registro o ficha de cada
+comida donde se detallen todos los ingredientes.
+
+ELABORACIÓN DEL MENÚ
+
+• Hay que tener en cuenta que pequeñas cantidades del alérgeno pueden
+desencadenar grandes reacciones alérgicas.
+
+• Que la información al consumidor sobre la presencia de alérgenos en los
+alimentos que consume sea clara y completa.
+
+• Que el personal del establecimiento este formado y concienciado de aplicar
+con rigor las medidas preventivas.
+
+El único modo de evitar que una persona sufra una reacción alérgica es asegurarse de
+que no consuma los alimentos que las causan. Para ello es fundamental:
+
+SI SUCEDE ESTO, LLAMAR A URGENCIAS 112
+
+EL CONSUMIDOR ES EL QUE DECIDE
+QUÉ ALIMENTO COMPRAR O CONSUMIR
+DE ACUERDO CON LA INFORMACION
+SOBRE ALÉRGENOS QUE SE LE FACILITE.
+
+FICHAS
+Las empresas pueden elaborar
+folletos, fichas, cuadros o dossiers
+para consulta o entrega al
+consumidor con información
+sobre sus productos
+o platos elaborados.
+
+• Si un consumidor pregunta si un alimento contiene un ingrediente concreto,
+la información será veraz, sin suposiciones. Debe asegurarse que ese ingrediente no
+estará en el alimento, ni siquiera por contaminación cruzada.
+
+• No está permitido decir de forma genérica que los alimentos podrían contener alguno
+o cualquiera de los 14 ingredientes alérgenos.
+
+• En la venta a distancia (Ej. Pedido telefónico de comida para llevar), la información
+sobre alérgenos se proporcionará sin coste adicional antes de que se realice la compra
+y de forma escrita cuando se entregue el alimento.
+
+• La información oral deberá suministrarse fácilmente antes de finalizar el acto de compra
+o de consumo del alimento.
+
+• El personal conocerá esta información y tendrá acceso al soporte escrito o informático.
+
+• Deberá constar en soporte escrito o informático la información oral que se facilita y
+estará a disposición del consumidor si lo solicita y de las autoridades de control.
+
+• Los carteles serán visibles, legibles y estarán próximos a donde se venden los alimentos.
+
+• En la carta o menú.
+
+• Se solicitará información al proveedor sobre la presencia de alérgenos en sus productos.
+• Rechazar los alimentos cuyo envase o etiquetado esté roto o defectuoso.
+
+ESCRITA
+
+MATERIAS PRIMAS
+
+Las alergias e intolerancias alimentarias son reacciones adversas a los alimentos
+atribuibles a la ingesta, el contacto o la inhalación de un alimento o alguno de sus
+componentes.
+
+Pueden provocar desde reacciones leves, como picor o erupciones en la piel, hasta síntomas más graves como asma, diarrea o cólicos. En casos más graves pueden provocar un
+choque anafiláctico, que ponga en peligro la vida de la persona con síntomas como
+dificultad para respirar, inflamación de labios o boca o desvanecimiento.
+
+INFORMACIÓN AL CONSUMIDOR
+
+BUENAS PRÁCTICAS DE ELABORACIÓN
+
+QUÉ SON LAS ALERGIAS
+
+Trip.Alergenos Cast:Maquetación 1 20/04/2016 11:49 Página 2
+
+9.
+
+Plan de control de trazabilidad
+
+La trazabilidad es la posibilidad de encontrar y seguir el rastro de un producto.
+Un buen sistema de trazabilidad permite saber dónde está un determinado alimento y
+recuperarlo del mercado si hay algún problema o alerta sanitaria.
+La legislación obliga a mantener un sistema de trazabilidad. En la restauración el sistema tiene que permitir saber:
+
+•
+
+Hacia atrás: a quién se ha comprado el producto.
+
+•
+
+Hacia delante: sólo en el caso de que vendas comidas preparadas a otros
+establecimientos, a qué establecimientos has vendido el producto.
+
+•
+
+Internamente: para alimentos o platos preparados con periodos de
+conservación largos o envasados debes conocer las fechas de elaboración/
+congelación.
+
+¿Qué debes hacer?
+1. Conservar los albaranes o facturas de compra de tus proveedores, al
+menos 6 meses, después de la fecha de recepción de cada producto.
+2. Si cambias los alimentos del envase del proveedor a recipientes propios,
+conserva la información de la etiqueta e identifícalos.
+3. Cuando prepares productos intermedios (salsas, masas…), guárdalos identificados con:
+•
+
+Nombre del producto.
+
+•
+
+Fecha de preparación.
+
+•
+
+Fecha de duración máxima.
+
+4. Si congelas productos, etiquétalos con:
+•
+
+Fecha de congelación.
+
+•
+
+“No volver a congelar después de descongelar”.
+
+44
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Cómo hacerlo?
+Debes conocer y conservar al menos los siguientes datos:
+
+Etapa
+
+Compra a
+proveedores
+
+Venta a otros
+establecimientos
+
+Alimentos o platos
+preparados con
+largo periodo
+de conservación
+(envasados o
+congelados)
+
+¿Qué información
+debes conocer?
+
+¿Qué registros
+debes archivar?
+
+•
+
+Qué producto/s has recibido
+(con identificación de lote)
+
+•
+
+Quién te los ha suministrado
+
+•
+
+Cuándo los has recibido
+
+•
+
+Cuánto has recibido
+
+•
+
+Qué producto/s he vendido (con
+identificación de lote)
+
+•
+
+A quién se los he vendido
+
+•
+
+Cuándo los he vendido
+
+•
+
+Cuánto le he vendido
+
+•
+
+Nombre del producto (ej. masa
+croqueta jamón, salmón, albóndigas…)
+
+No se conservan registros.
+
+•
+
+Fecha de elaboración/
+congelación.
+
+Se identifica sobre el
+propio producto.
+
+Albarán o factura de
+proveedor completado con
+los datos necesarios
+
+Albarán o factura de venta
+
+¿Qué hay que controlar? ¿Cómo lo
+controlo?
+•
+
+Revisa periódicamente que los archivos de documentos están bien ordenados.
+
+45
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+10.
+
+Buenas prácticas de compra,
+recepción, almacenamiento y venta
+
+El primer paso para elaborar platos seguros es contar con proveedores autorizados que
+suministren productos de calidad.
+Desde el punto de vista de la seguridad alimentaria un “buen proveedor” es el que se
+asegura de mantener unas Buenas Prácticas y un control sobre el producto que eviten
+posibles peligros para los consumidores.
+El mantenimiento en buenas condiciones de un alimento durante la compra, la recepción y el almacenamiento depende mucho de las prácticas seguidas por el personal que
+lo manipula.
+Aplicar unas Buenas Prácticas de Manipulación evita que pueda haber contaminación
+por sustancias químicas, microorganismos o elementos físicos que puedan llegar a causar enfermedades en el consumidor. Además, evita el deterioro de los alimentos que
+puede ocasionar pérdidas económicas en el negocio.
+
+¿Qué debes hacer durante la compra?
+1. Compra sólo a proveedores que tengan el registro o autorización correspondiente (ej. setas, huevos, caza…).
+2. Exige al proveedor que:
+•
+
+Los productos refrigerados o congelados lleguen en vehículos que permitan
+mantener la temperatura necesaria.
+
+•
+
+Los productos estén identificados o se acompañen de documentos con la
+información necesaria.
+
+•
+
+Los vehículos de transporte estén limpios y no huelan mal.
+
+•
+
+No se transporten los alimentos con otros productos no alimenticios, salvo
+que exista una separación física entre ellos.
+
+3. Archiva los albaranes, facturas, tickets… ordenados.
+
+46
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué debes hacer durante la recepción?
+4. Comprueba que todos los productos que recibes:
+•
+
+Son de proveedores autorizados.
+
+•
+
+Se acompañan de un albarán o ticket.
+
+•
+
+Si están envasados:
+•
+
+Están etiquetados.
+
+•
+
+Tienen el envase o embalaje íntegro y limpio. Si está sucio puedes pasar un paño seco por la superficie antes de
+abrirlos.
+
+5. Retira los embalajes en un lugar alejado de alimentos en preparación.
+6. Limpia la zona después de desembalar.
+Cumplen lo siguiente, según el tipo de producto:
+PRODUCTO
+
+Carnes
+
+Pescados,
+moluscos
+y crustáceos
+
+Huevos
+frescos
+
+Tª
+Refrigerada
+o congelada
+
+Próxima a la
+de fusión del
+hielo
+
+Ambiente
+
+Ambiente
+
+Frutas y
+verduras
+
+Productos
+congelados
+
+Si es IV
+gama en refrigeración
+
+TIENE
+
+NO TIENE
+
+•
+•
+
+Los sellos/marca sanitaria
+Apariencia de fresco
+
+•
+
+Suciedad
+
+•
+
+Color/olor anormal
+
+•
+
+Suciedad
+
+•
+
+Olor a mar
+
+•
+
+Parásitos visibles*
+
+•
+
+El pescado tiene los ojos
+brillantes, consistencia
+firme y agallas rojas
+
+•
+
+•
+
+Los moluscos están vivos
+
+Síntomas de
+aplastamiento (golpes
+abundantes en el
+pescado, conchas y
+caparazones rotos en
+moluscos y crustáceos)
+
+•
+
+Cáscara intacta
+
+•
+
+Cada huevo marcado
+
+•
+
+Mucha suciedad
+
+•
+
+Fecha de consumo preferente en el estuche o
+embalaje
+
+•
+
+Fracturas/fisuras/roturas
+
+•
+
+Limpias
+
+•
+
+Parásitos o insectos
+visibles
+
+•
+
+Frescas
+
+•
+
+Zonas visibles de
+podredumbre o mohos
+
+•
+
+Signos de descongelación (reblandecidos o
+con mucha escarcha)
+
+•
+
+Quemadura por frío
+
+Inferior a
+-18ºC
+(en recepción
+se admite
+hasta -15ºC)
+
+47
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+PRODUCTO
+
+Productos
+refrigerados
+Conservas y
+otros productos
+a temperatura
+ambiente
+(harina,
+legumbres...)
+
+Envases/
+materiales en
+contacto con
+alimentos
+
+Tª
+Entre 0ºC 8ºC
+
+TIENE
+•
+
+NO TIENE
+
+Las características propias
+de cada producto
+
+Ambiente
+
+Ambiente
+
+•
+
+Embalaje de protección
+
+•
+
+Se identifican como aptos
+para uso alimentario, o
+tienen este símbolo
+
+•
+
+Abolladuras, golpes
+
+•
+
+Envases sucios/rotos
+
+•
+
+En conservas: Abombamientos o signos de
+pérdida de hermeticidad,
+óxido
+
+•
+
+Suciedad/manchas
+
+*Según el Reglamento Europeo 853/2004: Antes de la venta se debe realizar un examen visual a los productos de la pesca para detectar los parásitos visibles. No se pueden poner en el mercado para consumo
+humano productos de la pesca que estén claramente contaminados por parásitos.
+
+¡Recuerda!
+Rechaza productos que vengan en vehículos no aptos (temperaturas inadecuadas, malos olores, deficiente limpieza).
+Los establecimientos que sirven y elaboran comidas no pueden comprar carne
+picada en comercios minoristas.
+Cuando seas tú el que vaya a comprar, también debes recoger y trasladar toda
+la información del etiquetado.
+
+¿Qué debes hacer durante el
+almacenamiento?
+1. Mantén las cámaras y almacenes ordenados.
+2. Mantén en cámaras separadas:
+•
+
+Los productos limpios y los productos listos para el consumo.
+
+•
+
+Los productos sucios o pendientes de preparación, como vegetales sin
+limpiar.
+
+48
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Si no es posible, coloca los limpios y listos para el consumo en la parte superior de
+la cámara y los sucios o pendientes de preparación en la parte inferior.
+3. No dejes utensilios dentro de los recipientes (cucharas, tenedores, etc.).
+4. Mantén los recipientes cubiertos o cerrados para evitar que los alimentos se
+contaminen y/o resequen.
+5. Debes cambiar a otro recipiente el contenido de las latas abiertas.
+6. No coloques los alimentos directamente sobre el suelo. Puedes ponerlos en estanterías o en soportes con ruedas. Evita palés, rejillas o esterillas para separar
+alimentos del suelo ya que acumulan suciedad.
+7. Guarda los envases para envolver los alimentos en un lugar limpio y protegido.
+8. No acumules objetos ajenos al trabajo en zonas de almacén.
+9. Guarda los productos químicos en lugares específicos separados de los alimentos.
+10.Guarda en un lugar concreto los útiles y repuestos para el mantenimiento.
+
+¿Qué no debes hacer?
+1. Comprar productos a proveedores sin el registro o autorización sanitaria (ej. setas, huevos,
+caza…).
+2. Aceptar productos de los que desconozcas quién
+es el proveedor.
+3. Aceptar productos envasados sin etiquetar o
+graneles sin documentación.
+
+49
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Cómo hacerlo?
+•
+
+Elabora un listado de proveedores indicando:
+
+•
+
+La información básica de contacto del proveedor.
+
+•
+
+Si has comprobado que dispone de registro o autorización.
+
+•
+
+Que los productos enviados poseen etiqueta identificativa o documento
+comercial.
+
+•
+
+Puedes utilizar como ejemplo el “Listado de proveedores” del anexo 7.
+
+•
+
+Archiva los albaranes u otros documentos de compra (facturas, tickets…)
+ordenados por fechas.
+
+•
+
+Habla con los proveedores si los alimentos no llegan en las condiciones pactadas.
+Por ejemplo, si el cartonaje llega sucio o no se respeta la temperatura de
+transporte. Si es necesario, devuélveselos.
+
+Fecha elaboración:
+
+LISTADO PROVEEDORES
+Empresa
+
+-
+
+Persona
+contacto
+
+Teléfono
+
+Producto / servicio
+
+Elaborado por:
+
+Documentación
+Registro /
+autorización
+
+Etiqueta
+
+Otros
+
+Observaciones
+
+Indicar para cada proveedor: el producto o servicio que suministra.
+Señalar si se dispone de datos sobre: el registro o autorización, etiqueta identificativa u otra documentación complementaria aportada.
+
+50
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+11.
+
+Normas básicas de preparación en cocina
+
+PAUTAS GENERALES DE HIGIENE EN LA COCINA
+•
+
+Lávate las manos con frecuencia, siguiendo las pautas de las Buenas Prácticas de Higiene del capítulo 1.
+
+•
+
+Siempre que sea posible, emplea pinzas u otros utensilios para manipular los
+alimentos.
+
+•
+
+Los guantes pueden crear una falsa sensación de limpieza. Se recomienda
+su uso solo cuando sea necesario tocar con las manos alimentos que vayan
+a ser consumidos directamente (sin cocinado posterior, sushi, por ejemplo).
+En este caso:
+-
+
+Deben ser de un solo uso. Tíralos cuando acabes la tarea.
+
+-
+
+No deben ser de látex.
+
+•
+
+Mantén la higiene de los equipos y utensilios. Deben estar limpios al iniciar el
+trabajo y limpiarse siempre que sea necesario.
+
+•
+
+Evita tiempos de espera a temperatura ambiente. Refrigera o calienta de
+forma inmediata. Si haces una pausa guarda los productos en refrigeración.
+
+•
+
+Mantén los alimentos que necesiten frío o refrigeración en las cámaras hasta
+el momento de su uso/servicio.
+
+•
+
+No prepares grandes cantidades. Ajusta las preparaciones a las necesidades.
+
+•
+
+Elimina los residuos a medida que se produzcan (por ejemplo, tripas del pescado, restos de hojas, cáscaras de huevo...) y limpia la zona de trabajo.
+
+•
+
+Mantén la zona de trabajo despejada de utensilios que no sean necesarios.
+
+•
+
+Abre las cajas de cartón y madera fuera de la zona de elaboración (cocina).
+Si es la única opción, no las coloques nunca sobre las superficies de trabajo.
+
+51
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+PREVENCIÓN DE CONTAMINACIÓN CRUZADA
+Se entiende por:
+•
+
+•
+
+•
+
+Alimento listo para el consumo: el que puede ser
+consumido directamente sin necesidad de un tratamiento posterior (cocinado u otro tipo de transformación).
+Por ejemplo:
+•
+
+Platos cocinados.
+
+•
+
+Embutidos, fiambres y quesos.
+
+Producto potencialmente contaminante: el que puede traspasar contaminación
+(suciedad, bacterias…) a otros alimentos. Por ejemplo:
+•
+
+Productos crudos, como la carne y el pescado.
+
+•
+
+Vegetales sin desinfectar.
+
+Contaminación cruzada: traspaso de gérmenes. Microbios (bacterias, virus) desde un alimento o superficie contaminados a un alimento listo para el consumo.
+
+NOTA: también se denomina contaminación cruzada al paso de alérgenos desde un alimento que lo contiene o de una superficie contaminada con ese alérgeno a un alimento que no lo contiene.
+
+52
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué debes hacer?
+Evita que entren en contacto los alimentos listos para el consumo y los potencialmente contaminantes.
+
+¿Cómo hacerlo?
+•
+
+Almacena por separado los alimentos listos para el consumo y los potencialmente contaminantes. Si no dispones de cámaras diferenciadas, debes guardar
+los alimentos listos para el consumo protegidos y en la parte superior de la
+cámara.
+
+•
+
+Manipúlalos en lugares diferentes. Si esto no es posible:
+•
+
+No lo hagas al mismo tiempo.
+
+•
+
+Limpia la zona y los utensilios después de utilizar un alimento contaminante.
+
+•
+
+Seca el pescado y la carne con papel de cocina. Nunca con paños de tela.
+
+•
+
+Emplea diferentes tablas para cortar productos crudos y preparados. Lo mejor
+es que sean de distintos colores. Si sólo tienes una, el orden es:
+
+Productos cocinados → Limpieza de tabla → Productos crudos → Limpieza de tabla
+
+53
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+COCINADO O COCCIÓN
+El cocinado es fundamental para destruir
+los microorganismos.
+Se puede conseguir el cocinado de un alimento con distintas combinaciones de tiempo y temperatura. Por ejemplo, la “pasteurización” (15 segundos a 72ºC, 2 minutos
+a 70ºC o equivalentes) asegura la destrucción de los patógenos más comunes.
+La forma objetiva de saber si se ha alcanzado la temperatura necesaria en cada caso
+es midiéndola con un termómetro.
+
+De forma práctica, hay cambios que nos indican si un alimento ya está cocinado y es
+seguro, por ejemplo:
+•
+
+Los alimentos líquidos y semilíquidos entran en ebullición (burbujean).
+
+•
+
+La yema de huevo coagula, deja de ser líquida.
+
+•
+
+El huevo batido cuaja, como en la tortilla.
+
+•
+
+Los asados dejan de exudar líquido rosado.
+
+•
+
+La coloración rojiza propia de la carne cruda desaparece.
+
+•
+
+La carne del pescado se vuelve blanca u opaca y las espinas se separan fácilmente.
+
+•
+
+La carne de pollo adquiere color crema.
+
+54
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿Qué debes hacer? ¿Cómo hacerlo?
+Pautas generales:
+•
+
+Emplea productos muy frescos.
+
+•
+
+Respeta siempre el cocinado completo.
+
+•
+
+Comprueba de vez en cuando la temperatura de platos que consideras hechos.
+
+•
+
+Toma siempre la temperatura en preparaciones como asados muy grandes,
+rellenos con carne picada o carnes mechadas.
+
+•
+
+Asegúrate de que el interior no queda crudo cuando cocines alimentos que
+no estén completamente descongelados.
+
+•
+
+Recuerda: “dorado no quemado”, es decir, evita tostar o quemar los alimentos en exceso, ya que pueden aparecer compuestos perjudiciales para la
+salud como la acrilamida.
+
+¿Qué debes hacer según el método de
+cocinado?
+Cuando frías alimentos:
+•
+
+No sobrecargues la freidora para que se cocine todo completamente.
+
+•
+
+Evita quemar los alimentos, recuerda que lo ideal es “dorado no quemado”.
+
+•
+
+Controla el uso de aceite de fritura (ver capítulo 12).
+
+Si fríes patatas, para evitar la formación de acrilamida:
+•
+
+Utiliza variedades de patatas bajas en azúcar
+(por ejemplo, variedades agrias, Kennebec,
+Elodi o Lady Amarilla).
+
+•
+
+Almacena las patatas crudas a más de 6ºC.
+
+•
+
+No frías las que ya han germinado.
+
+•
+
+Córtalas gruesas.
+
+•
+
+Sumérgelas cortadas en agua para que suelten el almidón.
+
+55
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Cuando cocines en el microondas:
+•
+
+Controla la temperatura y el tiempo para conseguir
+que el alimento se caliente de forma homogénea.
+
+•
+
+Utiliza recipientes aptos para este uso.
+
+Cuando cocines a la parrilla para evitar la formación
+de sustancias contaminantes:
+•
+
+Controla la temperatura y el tiempo para conseguir
+que el alimento se dore, pero no se queme.
+
+•
+
+Evita que la grasa gotee y produzca llamas.
+
+Cuando reboces/empanes:
+•
+
+Emplea harina y pan rallado limpios. Para ello utiliza
+la cantidad necesaria.
+
+•
+
+El sobrante no lo devuelvas al recipiente original.
+Elimínalo.
+
+Cuando maceres/marines alimentos:
+•
+
+Todo el producto debe quedar impregnado en la
+mezcla de marinado.
+
+•
+
+Mantén el recipiente tapado durante el proceso.
+
+•
+
+Asegúrate de que los tiempos y temperaturas son
+los adecuados para el producto según la receta.
+
+56
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+El mantenimiento en caliente consiste en emplear un
+sistema que mantenga la temperatura de los platos por
+encima de 65ºC.
+•
+
+Si utilizas baño de agua, comprueba que el nivel de agua
+es suficiente para alcanzar la altura de las bandejas.
+
+•
+
+Remueve con frecuencia el contenido de cada recipiente
+de forma que todo el producto se mantenga caliente por
+igual.
+
+•
+
+Tapa los recipientes, quita las tapas sólo lo imprescindible.
+
+•
+
+Mantén en caliente sólo las cantidades que calcules que
+se van a consumir en un servicio. Refrigera el resto.
+
+¡Recuerda!
+Con la cocción se eliminan muchas bacterias, pero si tras el cocinado las
+prácticas de manipulación no son correctas, los alimentos se pueden volver a
+contaminar.
+Si preparas comida con antelación debes:
+
+1. Refrigerarla:
+a. Si se va a consumir antes de las 24 horas, enfríala por debajo de
+8ºC.
+b. Si se va a consumir en más de 24 horas, enfríala por debajo de
+4ºC.
+
+2. Congelarla a menos de -18ºC.
+3. Mantenerla en caliente por encima de 65ºC.
+
+¡Recuerda!
+En las elaboraciones en frío no hay nada que destruya las bacterias
+por eso es MUY IMPORTANTE:
+
+•
+
+Respetar todas las medidas de higiene.
+
+•
+
+Elaborar los platos en el último momento.
+
+•
+
+Trabajar con los productos lo más fríos posible.
+
+57
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+12.
+
+Peligros por producto
+o proceso específico
+
+LIMPIEZA Y DESINFECCCIÓN DE VEGETALES
+Todas las frutas y verduras, las hierbas aromáticas y los brotes de semillas se deben
+lavar antes de su consumo.
+Muchos se consumen crudos y/o sin pelar. En este caso, desinfectarlos es un paso muy
+importante, ya que es la forma de eliminar la posible contaminación de la superficie.
+
+¿Qué debes hacer? ¿Cómo hacerlo?
+1. Elimina la suciedad en seco y las partes que no estén en buen estado o no
+se vayan a consumir.
+2. Lava los vegetales bajo el chorro del grifo. Si es necesario, utiliza cepillos
+específicos.
+3. Para los vegetales de consumo en crudo y/o sin pelar:
+•
+
+Prepara una solución de agua con lejía “apta
+para uso alimentario o desinfección del agua
+de bebida”.
+
+•
+
+Sigue las instrucciones de la etiqueta o la ficha
+técnica del producto para saber la cantidad a
+emplear en el agua utilizada.
+
+De forma orientativa deberás usar una
+cucharadita de postre de lejía por cada 3
+litros de agua potable.
+•
+
+Sumerge los vegetales en la mezcla 5 minutos.
+
+•
+
+Aclara con abundante agua corriente.
+
+4. Refrigera los vegetales que no se vayan a utilizar de inmediato.
+
+¡Recuerda!
+El orden lógico es limpiar-lavar-cortar.
+
+58
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+USO DE PRODUCTOS DE HUEVO
+
+¡Recuerda!
+Las características de los huevos crudos favorecen el crecimiento de bacterias, ya que son ricos en nutrientes, se rompen con facilidad y su cáscara
+es porosa.
+La Salmonella está en la cáscara de los huevos y con una manipulación
+inadecuada puede contaminar los alimentos.
+
+¿Qué debes hacer? ¿Cómo hacerlo?
+• Huevos crudos:
+•
+
+Cómpralos lo más frescos posible.
+
+•
+
+Consérvalos en refrigeración.
+
+•
+
+Elimina los que se pasen de fecha de consumo.
+
+•
+
+Retira las cáscaras nada más cascarlos.
+
+•
+
+No emplees la cáscara para separar la clara de
+la yema.
+
+•
+
+Lávate las manos siempre tras manipularlos.
+
+•
+
+Mete en el lavavajillas los recipientes utilizados.
+
+• En elaboraciones cocinadas a menos de 75ºC debes obligatoriamente:
+
+•
+
+•
+
+Utilizar ovoproductos pasteurizados.
+
+•
+
+Almacenar el producto por debajo de 8ºC.
+
+•
+
+Eliminar el producto a las 24 horas.
+
+•
+
+La mahonesa y el alioli, además:
+-
+
+Deben tener pH ácido (inferior a 4.2).
+
+-
+
+Para bajar el pH, se pueden utilizar, por ejemplo, vinagre o limón.
+
+-
+
+La acidez puede medirse con un pH-metro o tiras de medición de pH.
+
+Si manipulas huevos de pata y oca, tienes dos opciones:
+1. Comprarlos pasteurizados.
+2. Hervirlos 10 minutos.
+
+59
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+USO DE PRODUCTOS DE LA PESCA
+
+¡Recuerda!
+Muchos de los parásitos del pescado se concentran
+en las vísceras y pasan a la carne. Eviscera el pescado nada más recibirlo.
+
+¿CÓMO CONTROLAR ANISAKIS?
+
+Un peligro asociado al consumo de pescado crudo
+es el parásito anisakis.
+Los productos de la pesca se deben mantener congelados al menos 24 horas una vez se alcance una
+temperatura inferior a -20ºC, siempre que:
+1. Se vayan a consumir crudos o prácticamente crudos o la preparación sea
+insuficiente para la destrucción del parásito.
+2. Se hayan ahumado en frío, cuando la temperatura en el centro del producto
+sea menor de 60ºC y sean de las especies arenque, caballa, espadín, y salmón (salvaje) del Atlántico o del Pacífico.
+3. Se consuman en escabeche o salados.
+La cocción, fritura, horneado o plancha que alcanzan 60ºC durante 1 minuto en
+toda la pieza garantizan la destrucción del anisakis.
+Puedes:
+1. Comprar pescado que ya haya sido sometido al tratamiento de congelación,
+en este caso debes conservar la información del proveedor que lo justifica.
+2. Congelar el pescado crudo o el producto acabado identificándolo según el
+capítulo 9 de trazabilidad.
+Debes informar a la clientela de que los productos arriba indicados se han congelado. Lo puedes hacer con carteles o mediante la carta/menú.
+
+60
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+¿CÓMO CONTROLAR LA HISTAMINA?
+Algunos productos de la pesca, como el bonito, la caballa, el jurel, las anchoas o el
+atún, producen una sustancia llamada histamina cuando se degradan, que puede
+provocar reacciones adversas en los consumidores (picores, asfixia…).
+Para evitarlo:
+1. Mantén siempre el pescado en refrigeración.
+2. Cuando descongeles pescados vigila que la temperatura nunca exceda a la
+de refrigeración.
+3. Nunca recongeles.
+4. Prepara y sirve el pescado en el menor tiempo posible.
+
+¿CÓMO UTILIZAR EL ESCOLAR O “PEZ MANTEQUILLA”?
+El consumo de este pescado puede producir trastornos gastrointestinales debido a
+su alto contenido en grasa. Se debe informar en la carta del restaurante.
+Para evitarlo:
+1. Retira la piel y la grasa visible.
+2. Prepáralo reduciendo su contenido graso, con preparaciones como la parrilla y evita la fritura.
+3. Nunca utilices el caldo de cocción o el sobrante de la plancha.
+
+61
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+USO DE ACEITES DE FRITURA
+
+¡Recuerda!
+Cuantas más horas esté encendida la freidora antes se
+estropeará el aceite.
+Retira los aceites usados a un recipiente específico
+para su gestión como residuo.
+
+¿Qué debes hacer? ¿Cómo hacerlo?
+En aceites sobre calentados o que se han calentado muchas veces se pueden formar sustancias nocivas. Para evitarlo:
+•
+
+No calientes el aceite a más de 180ºC.
+
+•
+
+No mezcles aceites diferentes en la misma freidora/sartén.
+
+•
+
+No añadas aceite nuevo a una freidora con aceite usado.
+
+•
+
+Elimina los restos de frituras anteriores. Fíltralo en caso necesario.
+
+•
+
+Cambia el aceite cuando se degrade, para ello observa:
+•
+
+Si desprende humo oscuro y denso.
+
+•
+
+Si hay espuma o residuos o adherencias en las paredes.
+
+•
+
+Si el aceite se ha oscurecido.
+
+•
+
+Si hay sabores/olores desagradables.
+
+•
+
+Además, debes cambiar el aceite antes de que el índice de compuestos
+polares supere el 25%. Es conveniente utilizar algún método objetivo que
+confirme que efectivamente cambias el aceite cuando es necesario (kits colorimétricos, aparatos electrónicos…).
+
+•
+
+Tapa la freidora tras cada uso.
+
+Es recomendable elaborar una ficha que indique quién es el responsable del control, cuál es el método para determinar si el aceite debe cambiarse, la frecuencia
+con la que debería cambiarse y cómo se elimina el aceite usado.
+
+62
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+CONGELACIÓN Y DESCONGELACIÓN
+
+¿Qué debes hacer? ¿Cómo hacerlo?
+Para congelar:
+•
+
+Regula y mantén la temperatura del equipo por debajo de
+-18ºC.
+
+•
+
+Congela exclusivamente materias primas MUY frescas o
+platos recién elaborados previamente enfriados.
+
+•
+
+No sobrecargues las cámaras para que el aire circule adecuadamente y la temperatura se alcance antes.
+
+•
+
+Lee las instrucciones de los congeladores, sabrás cuantos kg puedes congelar
+como máximo en un tiempo determinado.
+
+•
+
+Protege los productos antes de introducirlos en el congelador. Evitarás el traspaso de olores/sabores y las quemaduras por frío.
+
+•
+
+Etiqueta indicando la fecha de congelación.
+
+Para descongelar:
+•
+
+Lo mejor es que descongeles poniendo el producto en refrigeración, por debajo de 4ºC.
+
+•
+
+Al descongelar productos crudos evita que queden sumergidos en el líquido de la descongelación o que el agua caiga
+sobre otros alimentos, ya que podría contaminarlos. Para
+ello quita o perfora el envase, pon una rejilla o vacía el recipiente con frecuencia.
+
+•
+
+Puedes emplear el microondas si vas cocinar el producto de forma inmediata,
+controlando la potencia y el tiempo para que se descongele de forma uniforme.
+
+•
+
+Puedes descongelar los productos con agua corriente, bajo el chorro de agua
+fría.
+
+¿Qué no debes hacer?
+1. Descongelar a temperatura ambiente o
+con agua caliente.
+2. Volver a congelar alimentos.
+
+ABATIMIENTO Y REGENERACIÓN
+
+¿Qué debes hacer? ¿Cómo hacerlo?
+El enfriamiento rápido o abatimiento de un plato consiste en llevarlo de una
+temperatura caliente a una temperatura fría en un tiempo rápido. Puedes hacerlo:
+•
+
+Pasando de 65ºC a 10ºC en 2 horas como máximo.
+
+•
+
+Pasando de 57ºC a 21ºC en 2 horas y de 21ºC a 4ºC en 4 horas como máximo.
+
+•
+
+Con otras combinaciones de temperatura y tiempo seguras.
+
+Pautas:
+•
+
+Divide la comida en porciones pequeñas, remueve con frecuencia y utiliza bandejas o recipientes planos, se enfriarán
+más rápido.
+
+•
+
+Separa los recipientes entre sí para facilitar la circulación de
+aire.
+
+•
+
+Puedes esperar a que el alimento deje de humear para comenzar el proceso de enfriamiento.
+
+Métodos de enfriamiento rápido/abatimiento:
+•
+
+Abatidor. Es un equipo específico cómodo y seguro.
+
+•
+
+Frigorífico destinado exclusivamente para el abatimiento o con potencia suficiente, de forma que no aumente la temperatura del resto de alimentos.
+
+•
+
+Otros métodos:
+-
+
+Sumergir el recipiente con la comida en un baño de hielo y agua
+
+-
+
+Para mejorar la eficacia del método anterior se puede añadir sal a la
+mezcla de hielo y agua.
+
+Regenerar consiste en calentar un plato preparado por encima de 65ºC partiendo
+de una situación de refrigeración o de congelación.
+Pautas:
+•
+
+Calienta lo más rápido posible consiguiendo que el centro del
+producto alcance más de 65ºC en menos de una hora.
+
+•
+
+Calienta justo antes del servicio. Si no se va a consumir de
+forma inmediata, mantén el producto por encima de 65ºC.
+
+•
+
+Calienta solo la cantidad necesaria.
+
+•
+
+Remueve con frecuencia los alimentos mientras se calientan.
+Facilitando el proceso.
+
+•
+
+No recalientes los productos más de una vez.
+
+13. Servicio
+Sigue las pautas de las Buenas Prácticas de Higiene del capítulo 1.
+Mantén los alimentos a temperatura adecuada y protegidos hasta el momento de su
+consumo.
+No guardes los alimentos sobrantes que han sido servidos en la mesa (cacahuetes,
+patatas, etc.).
+
+¿Qué debes hacer? ¿Cómo hacerlo?
+ENTREGA A DOMICILIO
+•
+
+Emplea exclusivamente recipientes de uso alimentario.
+
+•
+
+En caso necesario, da instrucciones precisas al
+cliente para la regeneración de los platos.
+
+•
+
+Las cajas de motos y otros vehículos deben mantenerse limpias.
+
+•
+
+Informa a los clientes de los alérgenos presentes
+en los alimentos que entregas.
+
+65
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+AUTOSERVICIO:
+•
+
+Conecta los equipos de frío y calor con suficiente antelación para que alcancen la temperatura adecuada antes de colocar los alimentos.
+
+•
+
+No utilices los equipos de autoservicio para calentar o enfriar alimentos.
+
+•
+
+Comprueba, al menos una vez en cada servicio que la temperatura de los
+platos es la adecuada.
+•
+
+Coloca una pantalla protegiendo los recipientes
+del público.
+
+•
+
+Facilita utensilios diferentes para servir cada plato. Se recomienda cambiarlos con frecuencia.
+
+•
+
+Todos los utensilios, incluidos recipientes y bandejas, deben lavarse en un lavavajillas.
+
+•
+
+Utiliza recipientes limpios cuando repongas alimentos y desecha las sobras.
+
+•
+
+Entre servicios mantén:
+•
+
+Los utensilios (cubiertos, servilletas, vajilla…) tapados.
+
+•
+
+Los botes de condimentos que han sido abiertos (kétchup, mostaza,
+mahonesa…), refrigerados.
+
+PLATOS CALIENTES:
+•
+
+Puedes
+utilizar
+diferentes
+métodos
+de
+mantenimiento, como baño María, placas
+caloríficas de contacto, convección de calor en
+cubas de aire, hornos o salamandras.
+
+•
+
+Ajusta la temperatura del baño de agua por
+encima de 85°C.
+
+•
+
+Todos los platos deben estar por encima de 65ºC
+antes de colocarlos en el equipo y mantenerse a
+esta temperatura.
+
+•
+
+Vacía el agua y limpia el baño a diario.
+
+66
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+PLATOS FRÍOS:
+•
+
+Puedes utilizar diferentes métodos de mantenimiento, como placas frías de contacto o hielo.
+
+•
+
+Ajusta la temperatura del expositor por debajo
+de 8°C si se han elaborado con menos de 24
+horas de antelación y por debajo de 4ºC si han
+pasado más de 24 horas desde su elaboración.
+
+•
+
+Presenta los productos separados según su naturaleza (por ejemplo, separa
+crudos de cocidos, la carne del pescado...).
+
+•
+
+No sobrecargues el sistema de refrigeración.
+
+SERVICIO EN BARRA:
+•
+
+Emplea utensilios limpios para servir los pinchos/tapas.
+
+•
+
+Protege los alimentos del alcance del público.
+
+•
+
+Mantén cada plato a su temperatura y si los
+mantienes a temperatura ambiente, utiliza la
+siguiente regla:
+¿Cuánto tiempo ha estado a
+
+¿Qué debes hacer?
+
+temperatura ambiente?
+
+-Refrigerarlo o
+
+Menos de 2 horas
+
+-Utilizarlo inmediatamente
+
+Entre 2 y 4 horas
+
+-Utilizarlo inmediatamente
+
+Más de 4 horas
+
+-Desecharlo
+
+67
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+14.
+
+Gestión de muestras testigo
+
+Un plato testigo es una ración individual que se conserva en refrigeración o congelación
+para realizar un análisis en caso necesario.
+
+¿Qué debes hacer?
+La inspección sanitaria te puede solicitar que conserves “platos testigo” en función del tipo de platos que elabores y el público al que se dirige.
+
+¿Cómo hacerlo?
+1. Emplata una ración tal y como la servirías a un comensal individual, es decir,
+incluye el alimento principal y su guarnición. El total debe contener al menos
+100 gramos de alimento.
+2. Puedes conservar el plato testigo en el plato de servicio tapado con un film
+o trasladarlo a otro recipiente.
+3. Identifica cada plato testigo con la fecha de preparación.
+4. Conserva los platos testigo durante un mínimo de cinco días, refrigerados a
+menos de 4ºC o congelados por debajo de -18ºC.
+
+68
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Buenas
+Pr á c t i c a s
+de Gestión
+
+15
+
+Gestión de incidencias
+
+16
+
+Revisión del sistema
+
+15.
+
+Gestión de incidencias
+
+A pesar de aplicar correctamente las Buenas Prácticas de Manipulación e Higiene, se
+pueden producir situaciones en las que haya una incidencia, es decir, un posible problema para la seguridad alimentaria.
+Conocer y registrar estos problemas permite actuar del mejor modo en cada caso y
+aplicar soluciones que eviten que el problema se repita en el futuro.
+
+¿Qué debes hacer?
+1. Actúa de forma inmediata cuando detectes un problema, evitarás que vaya a
+más.
+2. Avisa a tu inspector/a si consideras que el problema que has detectado:
+•
+
+Puede estar afectando a más establecimientos.
+
+•
+
+Afecta a productos que ya se han vendido.
+
+¿Cómo hacerlo?
+•
+
+Anota en las observaciones de cada uno de los registros los problemas detectados.
+
+•
+
+En la siguiente tabla se recogen algunas de las soluciones aplicables a problemas comunes:
+
+¡Recuerda!
+Corrige todas las incidencias. “No dejes para mañana lo que puedas
+hacer hoy”.
+
+70
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Actividad realizada
+
+Cualquiera
+
+Problema detectado
+
+Se incumplen las Buenas Prácticas
+(lavado de manos, ropa de trabajo,
+enfermedades…).
+
+Solución conocida
+
+Recordar/leer de nuevo las Buenas Prácticas.
+Revisar los productos afectados.
+Si la actitud persiste, reforzar la
+formación.
+
+Limpiar de forma inmediata.
+
+Las superficies, maquinaria, y otros
+útiles no están limpios.
+Limpieza
+
+Hay productos de limpieza en
+envases no etiquetados.
+
+Las medidas pasivas (mallas,
+insectocutores, etc.), están rotas o
+sucias.
+
+Control de Plagas
+
+Formar a las personas en caso
+necesario
+
+Retirarlos de inmediato.
+Identificarlos claramente.
+
+Repararlas o limpiarlas.
+
+Retirar los alimentos afectados y
+limpiar la zona.
+Se detectan insectos, roedores, etc.
+
+Sabe, huele o tiene un color raro.
+Control del Agua
+
+Revisar si se ha seguido el plan
+de limpieza, modificarlo si es
+necesario.
+
+El cloro no está dentro del nivel.
+
+Contactar con una empresa de
+lucha contra plagas y seguir sus
+recomendaciones.
+
+No utilizar el agua.
+Avisar al abastecedor (si es agua
+de red).
+Revisar el sistema de cloración (si
+es de abastecimiento propio).
+
+Residuos
+
+Los cubos/contenedores están
+llenos, sucios o desprenden mal
+olor.
+
+71
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Vaciarlos y limpiarlos.
+
+Actividad realizada
+
+Problema detectado
+
+Solución conocida
+Trasladar los productos a otra
+cámara
+(si aún están fríos).
+
+Control de
+Temperaturas
+
+Temperatura elevada
+(según el tipo de producto).
+
+Desechar los productos (si no
+están fríos).
+Ajustar el termostato y revisar en
+2 horas.
+Si continúa igual, avisar al servicio técnico.
+NUNCA servir el plato a una persona sensible.
+
+Control de alérgenos
+
+Las prácticas en cocina no permiten garantizar la ausencia de un
+alérgeno.
+
+Actualizar la carta/menú/cartel
+informando a la clientela de todos
+los alérgenos posibles.
+Formar al personal.
+
+Compra,
+recepción y
+almacenamiento
+
+El producto no cumple lo
+acordado (temperatura, aspecto,
+documentación, etiquetado,
+transporte…).
+Los alimentos no están
+almacenados de forma correcta.
+Hay productos caducados.
+Algún producto ha perdido la
+etiqueta.
+
+Rechazar/devolver el producto.
+Si el proveedor reincide, sustituirlo.
+Colocarlos adecuadamente.
+
+Devolverlos al proveedor, si es
+posible, o tirarlos.
+Continuar el tratamiento.
+
+Cocinado y
+regeneración
+
+El centro del producto no alcanza
+la temperatura necesaria.
+
+Revisar el mantenimiento de la
+instalación.
+Llamar al servicio técnico.
+Cambiar de cámara.
+
+Abatimiento
+
+Uso de aceites de
+fritura
+
+El producto no alcanza <10º en
+menos de 2 horas (o tratamiento
+equivalente).
+
+Si no han pasado más de 4 horas, regenerar (calentar >65ºC )
+y servir de inmediato o mantener
+caliente.
+
+El aceite de fritura está sucio.
+
+Filtrar o cambiar el aceite.
+
+Se sobrepasa el 25% de compuestos polares.
+
+Cambiar el aceite.
+
+Los vegetales están sucios
+Lavado y desinfección
+de vegetales
+
+No se han respetado la dosis o el
+tiempo de exposición al desinfectante.
+
+72
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Lavar/desinfectar de nuevo.
+Formar al personal.
+Si se ha excedido la dosis de desinfectante, aclarar varias veces
+con agua limpia.
+
+16.
+
+Revisión del sistema
+
+Revisar periódicamente que cumples con las partes de esta guía que te afectan permite
+comprobar que todo se está haciendo según lo previsto, detectar problemas que no se
+ven en el día a día y mejorar aspectos que la rutina no permite ver.
+
+¿Qué debes hacer?
+1. Revisa, al menos cada 6 meses, que cumples con todas las partes de esta guía
+que afectan a tu establecimiento. Puedes utilizar como modelo la plantilla del
+anexo 8 “Revisión del funcionamiento”.
+2. Soluciona de forma inmediata las incidencias que detectes en la revisión.
+
+Ejemplo de plantilla para la revisión del sistema:
+Fecha elaboración:
+
+REVISIÓN DEL
+FUNCIONAMIENTO
+BUENAS PRÁCTICAS DE HIGIENE PERSONALES
+
+Elaborado por:
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+El personal manipulador de alimentos lleva ropa de trabajo.
+La ropa está limpia.
+Las manos están limpias y las uñas cortas, limpias y sin esmalte.
+El lavado de manos es correcto.
+Si hay alguna herida está protegida con una cubierta impermeable,
+esterilizada y coloreada y/o con un guante.
+No se come, bebe o fuma mientras se manipulan alimentos.
+El personal no lleva objetos personales que puedan caer al producto o
+que dificulten el lavado de manos (piercing, bolígrafos).
+
+INSTALACIONES, LOCALES Y EQUIPOS
+Suelos, paredes
+techos y superficies
+de apoyo de
+alimentos
+
+Equipos de trabajo y
+utensilios
+
+No tienen grietas, recovecos, agujeros ni
+pintura desconchada.
+El suelo no tiene grietas, agujeros o charcos
+de agua.
+No tienen grietas, recovecos, óxido ni pintura
+desconchada.
+73
+Guía de Buenas
+Prácticas en
+de Higiene
+en la
+Funcionan (comprobar
+poniendo
+marcha
+Elaboración y Servicio de Comidas
+los que no son de uso diario).
+Instituto de Salud Pública y Laboral de Navarra
+Los
+elementos
+de
+metal
+(cuchillos,
+abrelatas…) están íntegros y no están
+
+¿Cómo hacerlo?
+•
+
+Puedes utilizar esta plantilla o elaborar una similar con los aspectos que quieres controlar.
+
+•
+
+Anota en cada casilla si el aspecto señalado se cumple, (Ok) o no se cumple
+(No Ok) indicando en este caso qué vas a hacer para corregirlo.
+
+•
+
+Asegúrate de que las correcciones se realizan.
+
+¡Recuerda!
+Todos los registros que necesites relacionados con esta guía debes cumplimentarlos
+y mantenerlos a disposición del servicio de inspección sanitaria.
+
+74
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Vehículos
+
+donde se elaboran
+
+comidas para la
+venta ambulante
+Food trucks
+Adaptación de determinados
+aspectos de la guía
+
+Vehículos donde se elaboran comidas
+para la venta ambulante (Food trucks)
+
+ADAPTACIÓN DE DETERMINADOS ASPECTOS DE LA GUÍA
+Instalaciones
+El vehículo debe:
+
+•
+
+Tener espacio suficiente para almacenar, preparar y vender alimentos.
+
+•
+
+Distribuir el espacio de forma que se evite la contaminación cruzada. Se deben
+diferenciar los siguientes espacios:
+-
+
+Superficies de manipulación de alimentos crudos.
+
+-
+
+Superficies de manipulación de alimentos cocinados.
+
+-
+
+Instalaciones de almacenamiento.
+
+-
+
+Cubo para residuos sólidos.
+
+-
+
+Es recomendable la separación de la cabina del conductor de la zona donde
+se manipulan los alimentos.
+
+•
+
+Tener fijadas detrás de las paredes, suelos y techos las cañerías, conductos y
+cableado.
+
+•
+
+Tener fregadero y lavamanos con agua fría y caliente. En caso de uso compartido,
+deberá ser de accionamiento no manual.
+
+•
+
+Disponer de lavavajillas con capacidad suficiente en caso de emplear vajilla reutilizable.
+
+Condiciones de ubicación
+
+•
+
+En la zona donde se ubique vehículo y sus alrededores no debe haber basuras o
+fuentes de contaminación.
+
+•
+
+En espacios donde sea posible, se deberá conectar el vehículo a las redes de desagües
+y agua pública.
+
+Agua
+
+•
+
+El vehículo deberá disponer de depósitos de agua potable y residual, salvo que solo
+se vaya a ubicar en lugares que permitan la conexión a la red pública y disponga de
+los medios necesarios para ello.
+
+•
+
+Para la preparación de alimentos se utilizará en exclusiva agua de red o envasada.
+
+76
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+•
+
+Para el lavado de manos, superficies y/o alimentos se puede utilizar agua potable
+del depósito o de la red.
+
+•
+
+El depósito de agua potable debe:
+
+•
+
+•
+
+Ser de uso exclusivo.
+
+•
+
+Tener capacidad suficiente para la actividad que realiza.
+
+•
+
+Incluirse en el plan de limpieza.
+
+El depósito de agua sucia debe:
+
+•
+
+Estar claramente identificado y aislado.
+
+•
+
+Tener capacidad suficiente.
+
+•
+
+Vaciarse al final de la jornada.
+
+•
+
+Incluirse en el plan de limpieza.
+
+Residuos
+
+•
+
+Se debe colocar en el exterior del vehículo un contenedor de residuos para la clientela.
+
+•
+
+Los desperdicios de la preparación de alimentos deben almacenarse en recipientes
+cerrados hasta su destrucción.
+
+¡Recuerda!
+Todos los registros que necesites relacionados con esta guía, debes cumplimentarlos y mantenerlos a disposición del servicio de inspección sanitaria.
+
+77
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Establecimientos
+no permanentes
+
+Establecimientos no permanentes
+
+DEBEN GARANTIZAR QUE CUENTAN CON:
+•
+
+Suministro eléctrico.
+
+•
+
+Agua potable caliente y fría.
+
+•
+
+Sistema de eliminación de residuos líquidos.
+
+•
+
+Lavamanos o fregadero con grifo de accionamiento no manual en el caso de que
+no se disponga de lavamanos.
+
+•
+
+Instalaciones de almacenamiento frigorífico si trabajan con alimentos que se conservan en frío.
+
+•
+
+Espacio suficiente para poder manipular los alimentos de forma higiénica.
+
+•
+
+Si no disponen de lavavajillas, deberán utilizar vajilla (platos, vasos, cubiertos)
+de un solo uso.
+
+¡Recuerda!
+Deben cumplir con las mismas normas de higiene que los establecimientos fijos o
+permanentes y que se recogen en esta guía.
+
+79
+
+Guía de Buenas Prácticas de Higiene en la
+Elaboración y Servicio de Comidas
+Instituto de Salud Pública y Laboral de Navarra
+
+Anexos
+
+Anexo 1
+
+DATOS GENERALES
+NOMBRE/RAZÓN SOCIAL:
+Ubicación:
+Nombre del titular:
+Teléfono de contacto:
+E-mail de contacto:
+
+ACTIVIDAD QUE DESARROLLA1:
+Nº de trabajadores:
+Tamaño de la instalación:
+Nº medio de raciones servidas a diario:
+Fecha de inicio de la actividad:
+• Servicio a domicilio: Sí
+
+No
+
+En caso afirmativo describa brevemente cómo se realiza el transporte.
+
+• Servicio a otro tipo de establecimientos: Sí
+
+No
+
+En caso afirmativo describa brevemente cómo se realiza el transporte.
+
+• Elaboración de comidas que no son para consumo inmediato:
+Sí
+No
+En caso afirmativo describa brevemente el método utilizado para alcanzar y mantener las temperaturas de seguridad (ver cap. 12 “Abatimiento y regeneración”)
+
+• Uso de freidoras:
+
+Sí
+
+No
+
+En caso afirmativo describa brevemente el criterio utilizado para el cambio de aceite
+(ver cap. 12 “Uso de aceites de fritura”).
+1: Cafetería, bar, restaurante, establecimiento no permanente, etc.
+
+Anexo 1
+
+DATOS GENERALES
+DESCRIPCIÓN BREVE DE LA ACTIVIDAD:
+
+Se recomienda adjuntar los planos del local.
+Si hay más de una ubicación indicar los datos.
+
+Se recomienda adjuntar los planos del local.
+Si hay más de una ubicación indicar los datos.
+
+Fecha y firma del responsable:
+
+Operación de mantenimiento
+preventivo a realizar
+Responsable
+
+Frecuencia
+
+Observaciones
+
+Elaborado por:
+
+Anota en esta plantilla el mantenimiento de todos los equipos/instalaciones:
+- Detalla el listado de todas las máquinas e instalaciones.
+- Indica la operación de mantenimiento (pintar, engrasar, revisar…), si la persona responsable es personal interno o una empresa externa
+y cuál es la frecuencia con la que se realiza.
+
+Equipo/ Instalación
+
+PLAN DE MANTENIMIENTO
+
+Fecha elaboración:
+
+Anexo 2
+
+Frecuencia
+
+Productos de
+limpieza
+
+Responsable de
+limpiar
+
+Responsable de
+comprobar
+Observaciones
+
+Elaborado por:
+
+Anota en esta plantilla la limpieza de todas las salas/equipos/utensilios/instalaciones:
+- Detalla el listado de todas las salas/equipos/utensilios/ instalaciones.
+- Indica la frecuencia de limpieza (diaria, semanal, mensual, etc.) y el producto que se va a utilizar.
+- Se debe indicar quién es la persona responsable de realizar la limpieza y quién debe comprobar que está limpio.
+
+Sala/ equipo/
+utensilio
+
+PLAN DE LIMPIEZA
+
+Fecha elaboración:
+
+Anexo 3
+
+0.2 a 1
+ppm)
+
+Ok (de
+
+(anotar
+valor)
+
+No Ok
+MEDIDAS CORRECTORAS
+
+Elaborado por:
+
+Anota en esta plantilla el control de cloro que realizas:
+- Indica la fecha de realización del control y señala la casilla Ok o No Ok según corresponda, anotando el valor cuando el resultado
+sea No Ok.
+- Detalla las medidas correctoras que has utilizado cuando el valor es No Ok.
+
+Fecha
+
+CONTROL DE CLORO
+
+Año:
+
+Anexo 4
+
+Observaciones
+
+Para establecer la temperatura de la cámara fíjate en la temperatura de conservación más baja de todos los productos que guardas en el
+interior.
+
+¿Dónde está?
+
+-
+
+Productos almacenados
+
+En este documento se deben anotar todas las cámaras, su ubicación, los productos que almacenan y a qué temperatura.
+
+Temperatura
+
+Elaborado por:
+
+-
+
+Nº
+
+LISTADO CÁMARAS
+
+Fecha elaboración:
+
+Anexo 5
+
+1
+
+2
+
+3
+
+Una subida importante de la Tª de la cámara superior a
+3ºC y el producto NO está frío:
+
+4
+
+6
+
+7
+
+•
+•
+
+•
+
+•
+
+Desecha los
+productos.
+
+Acciones
+
+Elaborado por:
+
+Fecha elaboración:
+
+10
+
+Traslada los
+productos a
+otra cámara.
+
+Avisa al servicio técnico.
+No uses la cámara hasta
+que se repare.
+Avisa al servicio técnico.
+No uses la cámara hasta
+que se repare.
+
+•
+•
+
+9
+
+Ajusta el termostato y revisa en 2 horas.
+Si continua igual avisa al servicio técnico.
+
+8
+
+•
+•
+
+Lo que debes hacer es…..
+
+5
+
+Temperatura de las cámaras
+
+Una subida importante de la Tª de la cámara superior a
+3ºC pero el producto continúa frío:
+
+Una subida leve inferior a 3ºC de Tª de la cámara:
+
+Cuando al revisar la Tª se detecta ….
+
+Fecha
+
+Control de temperaturas de
+cámaras
+
+Anexo 6
+
+-
+
+Persona
+contacto
+Teléfono
+
+Producto / servicio
+Registro /
+autorización
+
+Etiqueta
+
+Documentación
+Otros
+
+Observaciones
+
+Elaborado por:
+
+Indicar para cada proveedor: el producto o servicio que suministra.
+Señalar si se dispone de datos sobre: el registro o autorización, etiqueta identificativa u otra documentación complementaria aportada.
+
+Empresa
+
+LISTADO PROVEEDORES
+
+Fecha elaboración:
+
+Anexo 7
+
+Anexo 8
+Fecha elaboración:
+
+REVISIÓN DEL
+FUNCIONAMIENTO
+BUENAS PRÁCTICAS DE HIGIENE PERSONALES
+
+Elaborado por:
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+El personal manipulador de alimentos lleva ropa de trabajo.
+La ropa está limpia.
+Las manos están limpias y las uñas cortas, limpias y sin esmalte.
+El lavado de manos es correcto.
+Si hay alguna herida está protegida con una cubierta impermeable,
+esterilizada y coloreada y/o con un guante.
+No se come, bebe o fuma mientras se manipulan alimentos.
+El personal no lleva objetos personales que puedan caer al producto o
+que dificulten el lavado de manos (piercing, bolígrafos).
+
+INSTALACIONES, LOCALES Y EQUIPOS
+Suelos, paredes
+techos y superficies
+de apoyo de
+alimentos
+
+Equipos de trabajo y
+utensilios
+
+No tienen grietas, recovecos, agujeros ni
+pintura desconchada.
+El suelo no tiene grietas, agujeros o charcos
+de agua.
+No tienen grietas, recovecos, óxido ni pintura
+desconchada.
+Funcionan (comprobar poniendo en marcha
+los que no son de uso diario).
+Los
+elementos
+de
+metal
+(cuchillos,
+abrelatas…) están íntegros y no están
+oxidados.
+No hay elementos de vidrio/ plástico rotos
+(ventanas, cámaras, luces…).
+La cafetera está limpia y funciona.
+Los dispensadores y caños de bebidas están
+limpios y funcionan.
+El microondas está limpio y funciona.
+
+Equipos específicos
+
+La cortadora está limpia y funciona.
+El lavavajillas está limpio y funciona.
+El horno está limpio y funciona.
+La plancha está limpia y funciona.
+El robot de cocina está limpio y funciona.
+
+Grifos
+Lavamanos
+Puertas.
+Otras aberturas al
+exterior como
+ventanas o
+claraboyas
+Aseo/vestuario
+
+Funcionan (dan agua caliente y fría y no
+gotean).
+Hay un lavabo de accionamiento no manual
+con agua corriente caliente y fría, jabón y
+toallas de papel o secamanos de aire.
+Ajustan y cierran bien (revisar burletes).
+Las puertas se mantienen abiertas lo
+imprescindible.
+Cuando se abren para ventilar se coloca una
+malla mosquitera.
+La mosquitera está integra y limpia.
+No se utiliza como almacén.
+
+Anexo 8
+Fecha elaboración:
+
+REVISIÓN DEL
+FUNCIONAMIENTO
+
+Elaborado por:
+
+Las taquillas/armarios son suficientes para la
+ropa y objetos personales y se utilizan.
+Hay un lavabo con agua corriente caliente y
+fría, jabón y toallas de papel o secamanos de
+aire.
+Las luces e interruptores funcionan (encender
+y comprobar que no hay ninguna fundida).
+Iluminación/
+electricidad
+
+Las pantallas que protegen las luces están
+íntegras o los puntos de luz son irrompibles.
+El cuadro eléctrico es estanco y está
+protegido.
+No se ven cables pelados.
+
+Desagües en el
+interior del local (si
+existen)
+
+Están tapados con placas perforadas o rejillas.
+Las rejillas de ventilación están limpias.
+La temperatura de la cámara es correcta.
+
+Cámara y equipos de
+aire acondicionado
+
+Las puertas de las cámaras cierran y las
+gomas están en buen estado y limpias.
+Las baldas/separadores están en buen estado
+de conservación y limpieza, no tienen óxido.
+Los
+evaporadores
+están
+polvo/suciedad/moho.
+
+limpios
+
+sin
+
+Los evaporadores no tienen hielo excesivo.
+Los evaporadores no gotean sobre los
+alimentos (en caso necesario hay una
+canalización a desagüe).
+Ventilación/Campana
+extractora
+
+Hay buena evacuación de humos y olores.
+
+LIMPIEZA Y DESINFECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+El aspecto general del almacén, la cocina y la zona de servicio es limpio
+y sin objetos fuera de lugar o ajenos a la actividad.
+No hay polvo/telarañas en techos, rincones, partes bajas de cámaras y
+armarios, etc.
+Los desagües están limpios (desmontarlos y revisar).
+Los utensilios y productos de limpieza están en las zonas habilitadas.
+Hay una copia de las fichas técnicas o etiquetas de todos los productos
+químicos utilizados.
+Todos los productos de limpieza están identificados con su nombre.
+No se utilizan recipientes de alimentos para guardar productos químicos.
+
+CONTROL DE PLAGAS
+Las trampas e insectocutores están en su lugar.
+Los insectocutores funcionan, no están fundidos, están limpios.
+Si ha habido algún tratamiento el parte de trabajo de la empresa externa
+está archivado.
+
+Anexo 8
+Fecha elaboración:
+
+REVISIÓN DEL
+FUNCIONAMIENTO
+CONTROL DE AGUA
+Si es de la red
+pública
+
+Todos los
+archivados.
+
+Si es de red pública y
+tienes un depósito
+intermedio
+
+El depósito está limpio y sin mohos/algas.
+Los registros del control del cloro están
+completos.
+Los registros del control del cloro están
+completos.
+
+Si el agua procede de
+pozo o fuente propia
+
+recibos
+
+de
+
+suministro
+
+Elaborado por:
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+están
+
+Hay al menos un boletín de análisis/año.
+
+CONTROL DE RESIDUOS
+No hay residuos acumulados.
+Los cubos de basura están limpios y provistos de bolsas de material
+impermeable.
+
+CONTROL DE TEMPERATURAS
+Los termómetros miden correctamente.
+Los registros de control de temperatura están completos y archivados.
+
+CONTROL DE ALÉRGENOS
+Todos los productos (materias primas y productos elaborados) que
+contienen alérgenos los identifican a través de la etiqueta o ficha técnica.
+La carta/menú/cartel que indica los alérgenos es visible para el público.
+
+CONTROL DE TRAZABILIDAD
+Los albaranes de los últimos 6 meses están archivados.
+Si congelas alimentos están identificados con el nombre y la fecha de
+congelación.
+
+COMPRA, RECEPCIÓN, ALMACENAMIENTO
+Todos los proveedores a los que se compra están en el listado.
+Los
+productos
+almacenados
+se
+envasados/protegidos e identificados.
+
+encuentran
+
+correctamente
+
+Los productos se almacenan a temperatura adecuada.
+Los alimentos listos para el consumo están separados de las materias
+primas crudas.
+Todos los recipientes con alimentos están tapados.
+No hay en el almacén envases deteriorados, sucios o rotos.
+Los envases utilizados son aptos para el uso alimentario.
+Los productos almacenados cumplen las condiciones de temperatura y
+las particulares de cada producto.
+Los productos almacenados o utilizados para la elaboración no están
+caducados/no han superado la fecha de consumo preferente.
+No hay alimentos junto a productos no alimenticios.
+No hay alimentos en contacto con el suelo o pegados a las paredes o al
+techo.
+Si hay productos cortados/loncheados están en refrigeración (excepto
+cárnicos curados).
+
+Anexo 8
+
+Fecha elaboración:
+
+REVISIÓN DEL
+FUNCIONAMIENTO
+PREPARACIÓN EN COCINA
+
+Elaborado por:
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Ok
+
+No
+Ok
+
+CORRECCIÓN
+
+Las encimeras/zonas de trabajo están despejadas de
+utensilios/desperdicios.
+Hay papel de cocina.
+Los trapos de cocina, bayetas y estropajos no están sucios y no huelen
+mal.
+Las tablas de corte están limpias y en buen estado.
+Si se emplea microondas hay recipientes aptos para este uso.
+Los contenedores de harina/pan rallado no contienen restos de
+rebozados.
+
+PRODUCTO O PROCESO ESPECÍFICO
+VEGETALES
+
+El personal sabe desinfectar vegetales y las
+cantidades de desinfectante a emplear.
+Los huevos se guardan en refrigeración.
+
+HUEVOS
+
+PESCADO
+
+ACEITES DE FRITURA
+
+CONGELACIÓN Y
+DESCONGELACIÓN
+
+ABATIMIENTO Y
+REGENERACIÓN
+
+En elaboraciones a menos de 75ºC se emplea
+ovoproducto pasteurizado y se conserva
+refrigerado.
+Se dispone de algún sistema para medir el pH
+de las mahonesas/salsas de elaboración
+propia.
+Si se realizan preparaciones con pescado
+crudo o cocinado a menos de 60ºC durante
+un minuto se parte de pescado congelado y
+se informa a la clientela en la carta/menú o
+con carteles.
+Todo el pescado se guarda en
+refrigeración/congelación.
+Si se sirve pez mantequilla el personal conoce
+las pautas de manejo.
+Las freidoras que no están en uso están
+tapadas.
+El personal sabe cómo medir la degradación
+del aceite (de forma visual o con equipos).
+Todos los productos congelados están
+envasados.
+Las cámaras no están sobrecargadas.
+El personal conoce las pautas para
+descongelar.
+Si se abaten alimentos el personal conoce las
+prácticas de utilización.
+El frigorífico empleado es de uso exclusivo
+para el abatimiento o tiene potencia
+suficiente.
+Cuando se regeneran platos se controla (de
+forma visual o con termómetros) que el
+centro del producto alcanza al menos 65ºC en
+una hora.
+
+Anexo 8
+
+Fecha elaboración:
+
+REVISIÓN DEL
+FUNCIONAMIENTO
+SERVICIO
+
+A DOMICILIO
+
+AUTOSERVICIO
+
+Ok
+Se dispone de envases aptos para contacto
+con alimentos.
+El personal de reparto cumple las Buenas
+Prácticas Higiénicas. Los contenedores de
+reparto están limpios.
+Todos los alimentos están protegidos. Entre
+servicios el menaje y los cubiertos están
+tapados.
+Los botes de condimentos se guardan
+refrigerados.
+Los elementos para mantener los platos
+calientes funcionan.
+Los expositores fríos funcionan.
+Todos los productos están protegidos.
+
+SERVICIO EN BARRA
+
+Los platos se mantienen a la temperatura
+adecuada.
+
+Elaborado por:
+
+No
+Ok
+
+CORRECCIÓN
+
+Guía de
+Buenas Prácticas de Higiene
+en la Elaboración y Servicio de Comidas
+INSTITUTO DE SALUD PÚBLICA Y LABORAL DE NAVARRA
+
+Para más ejemplares e información:
+Instituto de Salud Pública
+y Laboral de Navarra
+Sección de Seguridad Alimentaria
+848 42 34 80
+isp.seguridad.alimentaria@navarra.es
+
+
