@@ -1,0 +1,387 @@
+{
+    "months": [
+        {
+            "id": 1,
+            "title": "Marco Constitucional y Fundamentos de Cocina",
+            "color": "green",
+            "resources": [
+                {
+                    "name": "Constitución Española",
+                    "file": "BOE-A-1978-31229-consolidado.pdf"
+                },
+                {
+                    "name": "Guía Higiene (Higiene)",
+                    "file": "guiarestaurantesok2digital.pdf"
+                }
+            ],
+            "weeks": [
+                {
+                    "id": 1,
+                    "title": "La Constitución Española",
+                    "tasks": [
+                        {
+                            "id": "m1w1t1",
+                            "text": "Estudio Legal: Títulos Preliminar, I (Derechos) y VIII (Organización Territorial) de la CE",
+                            "type": "law"
+                        },
+                        {
+                            "id": "m1w1t2",
+                            "text": "Cocina (Infraestructura): Organización de la cocina",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Plonge",
+                            "def": "Zona de fregado y lavado de vajilla y utensilios."
+                        },
+                        {
+                            "term": "Circuito Limpio/Sucio",
+                            "def": "Principio de marcha hacia adelante para evitar contaminación cruzada."
+                        },
+                        {
+                            "term": "Partidas",
+                            "def": "Divisiones de trabajo: Cuarto frío, Salsero, Entremetier, etc."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Higiene y Limpieza (Parte I)",
+                    "tasks": [
+                        {
+                            "id": "m1w2t1",
+                            "text": "Cocina (Limpieza): Productos y procesos",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Factores de limpieza",
+                            "def": "Círculo de Sinner: Temperatura, Tiempo, Acción Mecánica, Acción Química."
+                        },
+                        {
+                            "term": "Limpieza de equipos",
+                            "def": "Protocolos específicos para fogones y cámaras frigoríficas."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "LORAFNA y Simbología",
+                    "tasks": [
+                        {
+                            "id": "m1w3t1",
+                            "text": "Estudio Legal: La LORAFNA",
+                            "type": "law"
+                        },
+                        {
+                            "id": "m1w3t2",
+                            "text": "Cocina (Seguridad): Prevención de riesgos y temperaturas",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Escudo de Navarra",
+                            "def": "Cadenas de oro sobre fondo rojo, esmeralda en el centro. Art 7 LORAFNA."
+                        },
+                        {
+                            "term": "Zona de Peligro",
+                            "def": "Rango de temperaturas entre 5ºC y 65ºC donde proliferan bacterias."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Repaso y Test",
+                    "tasks": [
+                        {
+                            "id": "m1w4t1",
+                            "text": "Test: Preguntas 1-20 del examen de referencia",
+                            "type": "test"
+                        },
+                        {
+                            "id": "m1w4t2",
+                            "text": "Práctica: Identificar PCC (APPCC) en guía de higiene",
+                            "type": "practice"
+                        }
+                    ],
+                    "concepts": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Administración Navarra y Técnica Culinaria",
+            "color": "yellow",
+            "resources": [
+                {
+                    "name": "Ley Foral 11/2019",
+                    "file": "BOE-A-2019-4299-consolidado.pdf"
+                }
+            ],
+            "weeks": [
+                {
+                    "id": 1,
+                    "title": "Administración Foral",
+                    "tasks": [
+                        {
+                            "id": "m2w1t1",
+                            "text": "Estudio Legal: Ley Foral 11/2019 (Estructura, Actos)",
+                            "type": "law"
+                        },
+                        {
+                            "id": "m2w1t2",
+                            "text": "Cocina (Materias Primas I): Huevos y Carnes",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Huevo Talla L",
+                            "def": "Peso igual o superior a 63g e inferior a 73g."
+                        },
+                        {
+                            "term": "Carne al punto",
+                            "def": "Superficie tostada, interior rosado, jugo no sangriento."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Técnicas de Cocción",
+                    "tasks": [
+                        {
+                            "id": "m2w2t1",
+                            "text": "Cocina (Técnicas): Clasificación de métodos",
+                            "type": "kitchen"
+                        },
+                        {
+                            "id": "m2w2t2",
+                            "text": "Cocina (Vegetales): Manipulación de hortalizas",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Concentración",
+                            "def": "Sellado rápido para retener jugos (Asar, Saltear, Freír)."
+                        },
+                        {
+                            "term": "Expansión",
+                            "def": "Intercambio de sabores partiendo de líquido frío (Hervir, Fondos)."
+                        },
+                        {
+                            "term": "Blanqueado",
+                            "def": "Cocción corta en agua hirviendo y enfriado rápido para fijar color/textura."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Salsas y Fondos",
+                    "tasks": [
+                        {
+                            "id": "m2w3t1",
+                            "text": "Cocina (Base): Fondos y salsas madres",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Salsa Española",
+                            "def": "Salsa madre oscura elaborada a partir de un fondo oscuro de carne."
+                        },
+                        {
+                            "term": "Condimentos base",
+                            "def": "Sal, azúcar, pimienta, especias básicas (canela, etc)."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Repaso y Test",
+                    "tasks": [
+                        {
+                            "id": "m2w4t1",
+                            "text": "Test: Preguntas 21-40 del examen de referencia",
+                            "type": "test"
+                        },
+                        {
+                            "id": "m2w4t2",
+                            "text": "Esquema: Tabla de temperaturas críticas",
+                            "type": "practice"
+                        }
+                    ],
+                    "concepts": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Personal, Igualdad y Menús Infantiles",
+            "color": "orange",
+            "resources": [
+                {
+                    "name": "Ley Igualdad LO 3/2007",
+                    "file": "BOE-A-2007-6115-consolidado.pdf"
+                },
+                {
+                    "name": "Protección Datos LO 3/2018",
+                    "file": "BOE-A-2018-16673-consolidado.pdf"
+                }
+            ],
+            "weeks": [
+                {
+                    "id": 1,
+                    "title": "Legislación Social",
+                    "tasks": [
+                        {
+                            "id": "m3w1t1",
+                            "text": "Estudio Legal: Ley de Igualdad (LO 3/2007)",
+                            "type": "law"
+                        },
+                        {
+                            "id": "m3w1t2",
+                            "text": "Estudio Legal: Protección de Datos (LO 3/2018)",
+                            "type": "law"
+                        }
+                    ],
+                    "concepts": []
+                },
+                {
+                    "id": 2,
+                    "title": "Nutrición Infantil y Dietas",
+                    "tasks": [
+                        {
+                            "id": "m3w2t1",
+                            "text": "Contexto Específico: Menús basales y adaptaciones",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Alergia vs Intolerancia",
+                            "def": "Alergia activa el sistema inmune (puede ser mortal). Intolerancia es digestiva."
+                        },
+                        {
+                            "term": "Omega-3",
+                            "def": "Ácidos grasos esenciales presentes en pescado azul, nueces, etc."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Gestión de Alérgenos",
+                    "tasks": [
+                        {
+                            "id": "m3w3t1",
+                            "text": "Cocina (Seguridad): Gestión de alérgenos y trazas",
+                            "type": "kitchen"
+                        }
+                    ],
+                    "concepts": [
+                        {
+                            "term": "Protocolo Alérgenos",
+                            "def": "Preparar menús especiales primero, en zona separada y con utensilios exclusivos."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Repaso y Test",
+                    "tasks": [
+                        {
+                            "id": "m3w4t1",
+                            "text": "Test: Preguntas 41-60 del examen de referencia",
+                            "type": "test"
+                        },
+                        {
+                            "id": "m3w4t2",
+                            "text": "Práctica: Flujo de trabajo menú sin gluten",
+                            "type": "practice"
+                        }
+                    ],
+                    "concepts": []
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Consolidación y Simulacros",
+            "color": "red",
+            "resources": [],
+            "weeks": [
+                {
+                    "id": 1,
+                    "title": "Repaso Legislativo",
+                    "tasks": [
+                        {
+                            "id": "m4w1t1",
+                            "text": "Repaso rápido leyes (Constitución, Admin, Igualdad)",
+                            "type": "law"
+                        },
+                        {
+                            "id": "m4w1t2",
+                            "text": "Memorizar plazos administrativos y sanciones",
+                            "type": "study"
+                        }
+                    ],
+                    "concepts": []
+                },
+                {
+                    "id": 2,
+                    "title": "Repaso Técnico",
+                    "tasks": [
+                        {
+                            "id": "m4w2t1",
+                            "text": "Repaso guía higiene completo",
+                            "type": "kitchen"
+                        },
+                        {
+                            "id": "m4w2t2",
+                            "text": "Memorizar gramajes, temperaturas y definiciones",
+                            "type": "study"
+                        }
+                    ],
+                    "concepts": []
+                },
+                {
+                    "id": 3,
+                    "title": "Simulacro Real",
+                    "tasks": [
+                        {
+                            "id": "m4w3t1",
+                            "text": "Simulacro: Examen completo cronometrado (60 preg)",
+                            "type": "test"
+                        },
+                        {
+                            "id": "m4w3t2",
+                            "text": "Corregir fallos y re-estudiar",
+                            "type": "study"
+                        }
+                    ],
+                    "concepts": []
+                },
+                {
+                    "id": 4,
+                    "title": "Recta Final",
+                    "tasks": [
+                        {
+                            "id": "m4w4t1",
+                            "text": "Repaso de 'Preguntas Falladas'",
+                            "type": "study"
+                        },
+                        {
+                            "id": "m4w4t2",
+                            "text": "Descanso activo y preparación mental",
+                            "type": "health"
+                        }
+                    ],
+                    "concepts": []
+                }
+            ]
+        }
+    ]
+}
