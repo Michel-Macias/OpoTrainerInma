@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "topicId": 2,
+        "text": "¿Cuáles son las cinco Merindades históricas sobre las que se asienta la configuración territorial de Navarra?",
+        "options": [
+            "Pamplona, Estella, Tudela, Sangüesa y Olite.",
+            "Pamplona, Vitoria, San Sebastián, Bilbao y Logroño.",
+            "Ribera, Montaña, Cuenca de Pamplona, Baztán y Roncal."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 2,
+        "topicId": 2,
+        "text": "Según el Art. 7 de la LORAFNA, el símbolo de la esmeralda en el Escudo de Navarra se sitúa en:",
+        "options": [
+            "La parte superior, dentro de la corona.",
+            "El centro de la unión de las ocho cadenas de oro.",
+            "La base sobre el fondo de gules."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 3,
+        "topicId": 2,
+        "text": "El Art. 9 de la LORAFNA establece respecto al vascuence que:",
+        "options": [
+            "Es la lengua oficial única de la Comunidad Foral.",
+            "Carece de oficialidad legal en cualquier ámbito.",
+            "Tiene carácter de lengua oficial en las zonas vascoparlantes según ley foral."
+        ],
+        "correctIndex": 2,
+        "verified": true
+    },
+    {
+        "id": 4,
+        "topicId": 12,
+        "text": "En la restauración colectiva de Navarra, ¿cuántas veces al mes es obligatorio ofrecer arroz o pasta integral?",
+        "options": [
+            "Mínimo 1 vez al mes.",
+            "Mínimo 4 veces al mes.",
+            "Es opcional si se sirve pan integral."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 5,
+        "topicId": 12,
+        "text": "Según la Estrategia Navarra de Alimentación Saludable, ¿cuál es el límite máximo de ultraprocesados en menús semanales?",
+        "options": [
+            "Máximo 1 ración semanal.",
+            "Máximo 2 raciones semanales.",
+            "Máximo 5 raciones semanales."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 6,
+        "topicId": 13,
+        "text": "¿Qué bebida es la única garantizada siempre y permitida como hidratación según el parámetro normativo de Navarra?",
+        "options": [
+            "Zumos de frutas sin azúcar añadido.",
+            "Agua de consumo.",
+            "Bebidas isotónicas en centros deportivos."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 7,
+        "topicId": 14,
+        "text": "La diferencia fundamental entre el menú basal y el pediátrico radica en:",
+        "options": [
+            "Únicamente en el precio del suministro.",
+            "En los requerimientos metabólicos y objetivos educativos específicos.",
+            "En que el menú pediátrico no incluye proteínas."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 8,
+        "topicId": 2,
+        "text": "¿Qué artículo de la LORAFNA declara que Pamplona es la capital de Navarra?",
+        "options": [
+            "Artículo 1.",
+            "Artículo 8.",
+            "Artículo 15."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 9,
+        "topicId": 12,
+        "text": "La compra pública responsable en Navarra establece criterios obligatorios para que los suministros sean predominantemente:",
+        "options": [
+            "Económicos y de importación.",
+            "Ecológicos y locales.",
+            "Envasados y de larga duración."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 10,
+        "topicId": 14,
+        "text": "En el menú saludable, ¿qué debe ser predominantemente el primer plato?",
+        "options": [
+            "Proteína animal (carne o pescado).",
+            "Vegetal (verduras, legumbres) o a base de cereales (pasta, arroz, patatas).",
+            "Lácteos o frutas en crudo."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 11,
+        "topicId": 2,
+        "text": "El territorio de Navarra es indivisible según establece el artículo:",
+        "options": [
+            "Artículo 2.",
+            "Artículo 4.",
+            "Artículo 10."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 12,
+        "topicId": 12,
+        "text": "La normativa de Navarra limita las raciones de frituras semanales a un máximo de:",
+        "options": [
+            "Una ración.",
+            "Dos raciones.",
+            "Tres raciones."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 13,
+        "topicId": 13,
+        "text": "Un desayuno saludable consolidado en Navarra debe incluir preferentemente:",
+        "options": [
+            "Bollería industrial y leche entera.",
+            "Pan integral con aceite de oliva virgen extra y fruta fresca.",
+            "Zumos envasados y cereales azucarados."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 14,
+        "topicId": 2,
+        "text": "La bandera de Navarra se describe en la LORAFNA como:",
+        "options": [
+            "De color azul con el escudo en el centro.",
+            "De color rojo con el escudo en el centro.",
+            "De color blanco y rojo con el escudo en el centro."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 15,
+        "topicId": 12,
+        "text": "El pan integral debe servirse en los menús de Navarra con una frecuencia de:",
+        "options": [
+            "Mínimo una vez por semana.",
+            "Mínimo dos veces por semana.",
+            "Al menos cuatro veces por semana."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 16,
+        "topicId": 2,
+        "text": "¿Cuál es la norma que rige el sistema de zonificación lingüística en Navarra?",
+        "options": [
+            "La Constitución Española directamente.",
+            "Una ley foral específica mencionada en el Art. 9 de la LORAFNA.",
+            "Un decreto del Gobierno Central."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 17,
+        "topicId": 14,
+        "text": "El modelo de 'dieta basal electiva' busca principalmente:",
+        "options": [
+            "Reducir costes de personal.",
+            "Aumentar la adherencia y reducir el desperdicio alimentario.",
+            "Eliminar el uso de cubiertos metálicos."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 18,
+        "topicId": 2,
+        "text": "¿Qué reconoce el artículo 5 de la LORAFNA como fundamental para el ejercicio de derechos?",
+        "options": [
+            "La vecindad civil foral.",
+            "El carnet de manipulador de alimentos.",
+            "La inscripción en el Registro Mercantil."
+        ],
+        "correctIndex": 0,
+        "verified": true
+    },
+    {
+        "id": 19,
+        "topicId": 12,
+        "text": "La Estrategia Navarra de Alimentación Saludable ha contado con la colaboración técnica de:",
+        "options": [
+            "El Ministerio de Agricultura.",
+            "El Colegio Oficial de Dietistas/Nutricionistas de Navarra.",
+            "La Asociación de Restauradores de España."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    },
+    {
+        "id": 20,
+        "topicId": 13,
+        "text": "El Plan de Salud Pública de Navarra 2022-2025 integra la salud con principios de:",
+        "options": [
+            "Exclusivamente rentabilidad económica.",
+            "Derechos humanos, justicia medioambiental y equidad intergeneracional.",
+            "Baja inversión pública y privatización."
+        ],
+        "correctIndex": 1,
+        "verified": true
+    }
+]

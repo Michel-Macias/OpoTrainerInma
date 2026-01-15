@@ -5,6 +5,7 @@ import examV1 from '../data/exam_v1.json'
 import examV2 from '../data/exam_v2.json'
 import examV3 from '../data/exam_v3.json'
 import examV4 from '../data/exam_v4.json'
+import examV5 from '../data/exam_v5.json'
 import topicsData from '../data/topics.json'
 
 // Map of available exams
@@ -14,6 +15,7 @@ const EXAM_OPTIONS = {
     v2: { label: 'Simulacro Verificado #2 (20 preguntas)', data: examV2, verified: true },
     v3: { label: 'Simulacro Verificado #3 (20 preguntas)', data: examV3, verified: true },
     v4: { label: 'Simulacro Verificado #4 (20 preguntas)', data: examV4, verified: true },
+    v5: { label: 'Simulacro Especial (Nuevos PDFs) #5 (20 preguntas)', data: examV5, verified: true },
 }
 
 // --- Correction Mode Helper ---
@@ -91,7 +93,7 @@ function CorrectionSetup({ questions, onComplete }) {
     )
 }
 
-export function TestSimulator() {
+export function TestSimulator({ onNavigate }) {
     const [mode, setMode] = useState('menu') // 'menu', 'setup', 'running', 'results'
     const [selectedExam, setSelectedExam] = useState('v1') // Default to verified exam
     const [timeLeft, setTimeLeft] = useState(90 * 60) // 90 mins in seconds
@@ -204,9 +206,12 @@ export function TestSimulator() {
                             {weakTopics.map(t => (
                                 <div key={t.id} className="bg-white p-3 rounded-lg border border-orange-200 flex justify-between items-center">
                                     <span className="text-sm font-medium text-gray-700">Tema {t.id}: {t.title}</span>
-                                    <a href="#/syllabus" className="text-xs bg-orange-100 text-orange-700 px-2 py-1 rounded hover:bg-orange-200">
+                                    <button
+                                        onClick={() => onNavigate('syllabus')}
+                                        className="text-xs bg-orange-100 text-orange-700 px-2 py-1 rounded hover:bg-orange-200"
+                                    >
                                         Ir a Repasar
-                                    </a>
+                                    </button>
                                 </div>
                             ))}
                         </div>

@@ -10,6 +10,10 @@
                     "file": "BOE-A-1978-31229-consolidado.pdf"
                 },
                 {
+                    "name": "La LORAFNA (Título Preliminar)",
+                    "file": "lorafna_titulo_preliminar.pdf"
+                },
+                {
                     "name": "Guía Higiene (Higiene)",
                     "file": "guiarestaurantesok2digital.pdf"
                 }
@@ -230,6 +234,10 @@
                 {
                     "name": "Protección Datos LO 3/2018",
                     "file": "BOE-A-2018-16673-consolidado.pdf"
+                },
+                {
+                    "name": "Menús Saludables y Sostenibles",
+                    "file": "menus_saludables.pdf"
                 }
             ],
             "weeks": [

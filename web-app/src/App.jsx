@@ -256,7 +256,7 @@ function App() {
         ) : activeTab === 'syllabus' ? (
           <SyllabusExplorer />
         ) : (
-          <TestSimulator />
+          <TestSimulator onNavigate={setActiveTab} />
         )}
       </main>
 

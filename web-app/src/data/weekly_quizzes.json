@@ -3,14 +3,36 @@
         "quiz": [
             {
                 "id": 1,
-                "q": "¿Qué artículo de la Constitución proclama que la soberanía nacional reside en el pueblo español?",
+                "q": "Según el Art. 4 de la LORAFNA, ¿sobre qué unidades históricas se asienta la configuración territorial de Navarra?",
                 "options": [
-                    "Artículo 1.2",
-                    "Artículo 2",
-                    "Artículo 9"
+                    "Provincias administrativas",
+                    "Cinco Merindades históricas: Pamplona, Estella, Tudela, Sangüesa y Olite",
+                    "Distritos judiciales"
                 ],
-                "correct": 0,
-                "explanation": "El Art. 1.2 establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+                "correct": 1,
+                "explanation": "Pamplona, Estella, Tudela, Sangüesa y Olite agrupan a los municipios que integran la Comunidad Foral."
+            },
+            {
+                "id": 2,
+                "q": "¿Qué describe el Art. 7 de la LORAFNA como el Escudo de Navarra?",
+                "options": [
+                    "Un león rampante sobre fondo plateado",
+                    "Cadenas de oro sobre fondo de gules (rojo), con esmeralda central y corona real",
+                    "Dos robles entrelazados sobre fondo verde"
+                ],
+                "correct": 1,
+                "explanation": "El escudo tiene cadenas de oro sobre gules, esmeralda central y remate con corona real (símbolo de Reino)."
+            },
+            {
+                "id": 3,
+                "q": "Según el Art. 9 de la LORAFNA sobre la lengua, ¿cuál es la situación legal en Navarra?",
+                "options": [
+                    "Solo el castellano es oficial en todo el territorio",
+                    "El castellano es la lengua oficial; el vascuence tiene carácter oficial en las zonas vascoparlantes",
+                    "Ambas son oficiales en todo el territorio sin excepción"
+                ],
+                "correct": 1,
+                "explanation": "El castellano es oficial en todo el territorio; el vascuence lo es en las zonas vascoparlantes según ley foral."
             },
             {
                 "id": 2,

@@ -11,21 +11,21 @@
         "block": "general",
         "title": "La LORAFNA",
         "description": "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra: título preliminar. Competencias. Reforma.",
-        "pdf": "LORAFNA.pdf"
+        "pdf": "lorafna_titulo_preliminar.pdf"
     },
     {
         "id": 3,
         "block": "general",
         "title": "El Parlamento de Navarra y Defensor del Pueblo",
         "description": "Composición, organización y funciones del Parlamento. El Defensor del Pueblo de la Comunidad Foral.",
-        "pdf": "LORAFNA.pdf"
+        "pdf": "lorafna_titulo_preliminar.pdf"
     },
     {
         "id": 4,
         "block": "general",
         "title": "El Gobierno de Navarra",
         "description": "Funciones, composición, nombramiento y cese. La Presidenta/e. Consejeras/os.",
-        "pdf": "LORAFNA.pdf"
+        "pdf": "lorafna_titulo_preliminar.pdf"
     },
     {
         "id": 5,
@@ -46,7 +46,7 @@
         "block": "general",
         "title": "Estatuto del Personal",
         "description": "Administraciones Públicas de Navarra: clases de personal, selección, carrera, derechos y deberes.",
-        "pdf": null
+        "pdf": "BOE-A-2019-4299-consolidado.pdf"
     },
     {
         "id": 8,
@@ -81,21 +81,21 @@
         "block": "specific",
         "title": "Alimentación saludable y sostenible",
         "description": "Menú saludable, productos ecológicos, frescos y de cercanía. Fundamentos.",
-        "pdf": null
+        "pdf": "menus_saludables.pdf"
     },
     {
         "id": 13,
         "block": "specific",
         "title": "Los alimentos",
         "description": "Concepto y clasificación. Composición nutritiva y función nutricional.",
-        "pdf": null
+        "pdf": "menus_saludables.pdf"
     },
     {
         "id": 14,
         "block": "specific",
         "title": "El menú basal y pediátrico",
         "description": "Características del menú basal. El menú pediátrico en escuelas infantiles.",
-        "pdf": null
+        "pdf": "menus_saludables.pdf"
     },
     {
         "id": 15,
@@ -123,14 +123,14 @@
         "block": "specific",
         "title": "Prevención de riesgos laborales",
         "description": "Medidas de protección. Manejo de maquinaria y utensilios. Prevención de accidentes.",
-        "pdf": null
+        "pdf": "tema18.pdf"
     },
     {
         "id": 19,
         "block": "specific",
         "title": "Organización del trabajo",
         "description": "Personal de cocina: puestos, funciones y responsabilidades.",
-        "pdf": null
+        "pdf": "tema19.pdf"
     },
     {
         "id": 20,
@@ -144,21 +144,21 @@
         "block": "specific",
         "title": "Verduras, Hortalizas, Cereales y Legumbres",
         "description": "Identificación, tratamiento y técnicas culinarias idóneas.",
-        "pdf": null
+        "pdf": "menus_saludables.pdf"
     },
     {
         "id": 22,
         "block": "specific",
         "title": "Carnes, Pescados y Huevos",
         "description": "Identificación y características. Técnicas de cocción idóneas.",
-        "pdf": null
+        "pdf": "menus_saludables.pdf"
     },
     {
         "id": 23,
         "block": "specific",
         "title": "Salsas y Fondos",
         "description": "Fondos básicos, salsas madres y derivadas. Clasificación y aplicaciones.",
-        "pdf": null
+        "pdf": "guiarestaurantesok2digital.pdf"
     },
     {
         "id": 24,

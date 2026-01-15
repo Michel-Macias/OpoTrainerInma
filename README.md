@@ -41,16 +41,18 @@ Cada semana del plan incluye:
 ### ⏱️ Simulacro de Examen
 Módulo diseñado para recrear la presión del examen oficial:
 - **Cronómetro** de 90 minutos
-- **5 versiones disponibles:**
+- **6 versiones disponibles:**
   - 📋 Original: 60 preguntas del PDF oficial
   - ✅ Verificados #1-#4: 20 preguntas cada uno con respuestas confirmadas
+  - 💎 Especial #5: 20 preguntas sobre los nuevos PDFs (LORAFNA y Menús)
 - **Análisis de fallos:** Identifica temas débiles a reforzar
 
 ### 📖 Explorador de Temario
 Los 25 temas del temario organizados y accesibles:
 - **Filtrado** por bloque: Legislativo vs Cocina/Específico
-- **Acceso directo** a PDFs oficiales (Constitución, LORAFNA, Guía Higiene...)
-- **Conceptos clave** en cada tema
+- **Acceso directo** a PDFs (Constitución, LORAFNA, Menús Saludables, Prevención...)
+- **Documentación de alta densidad:** Temas 18 y 19 mejorados con formato oficial
+- **Conceptos clave** en cada tema con fichas de repaso
 
 ### ❓ Guía de Uso Integrada
 Sistema de ayuda dentro de la aplicación:
@@ -139,8 +141,10 @@ Los siguientes documentos oficiales están incluidos para consulta:
 |-----------|-------------|
 | `BOE-A-1978-31229` | Constitución Española |
 | `BOE-A-2019-4299` | Ley Foral 11/2019 (Admin Navarra) |
-| `BOE-A-2007-6115` | LO 3/2007 (Igualdad) |
-| `BOE-A-2018-16673` | LO 3/2018 (Protección de Datos) |
+| `lorafna_titulo_preliminar` | LORAFNA (Título Preliminar, Competencias) |
+| `menus_saludables` | Estrategia de Alimentación Saludable Navarra |
+| `tema18` | Prevención de Riesgos Laborales (Alta Densidad) |
+| `tema19` | Organización del Trabajo (Alta Densidad) |
 | `guiarestaurantesok2digital` | Guía Higiene ISPLN |
 | `EXAMEN COCINEROS CASTELLANO` | Examen oficial de referencia |
 
