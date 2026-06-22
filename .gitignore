@@ -1,0 +1,20 @@
+# Entorno y dependencias
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
