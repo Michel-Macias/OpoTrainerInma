@@ -18,3 +18,8 @@ build/
 Thumbs.db
 *.log
 *.tmp
+
+# Virtual environments — NEVER track
+.venv/
+venv/
+env/
